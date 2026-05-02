@@ -1,6 +1,7 @@
 # alif naufal
 
-English lit grad learning to code, Markdown, and write. Building tools, writing about life, music, culture, and whatever else on alifnaufal.me. Still figuring it out — hi.
+English lit grad learning to code, Markdown, and write. Building tools, writing about life, music, culture, and whatever else on [alifnaufal.me](https://alifnaufal.me). Still figuring it out — hi. 👋
+
 ---
 
 ## what i'm working on
