@@ -35,6 +35,9 @@ jobs:
           TOP_LANGS: ${{ steps.langs.outputs.TOP_LANGS }}
         run: python3 scripts/update_readme.py
 
+      - name: Debug README
+        run: cat README.md
+
       - name: Commit if changed
         run: |
           git config --local user.email "action@github.com"
