@@ -15,6 +15,7 @@ Building tools, writing about music, culture, and whatever else.
 ## latest from headspace
 
 <!-- blog-start -->
+[Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
 <!-- blog-end -->
 
 ---
@@ -22,6 +23,7 @@ Building tools, writing about music, culture, and whatever else.
 ## languages
 
 <!-- langs-start -->
+Python, Lua, HTML, JavaScript, TypeScript
 <!-- langs-end -->
 
 ---
