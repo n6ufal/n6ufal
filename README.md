@@ -28,4 +28,4 @@ Python, Lua, HTML, JavaScript, TypeScript
 
 ## Around the web
 
-[blog](https://alifnaufal.me) · [twitter](https://twitter.com/n6ufal) · [last.fm](https://www.last.fm/user/alifnaufal) · [spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
+[Blog](https://alifnaufal.me) · [X/Twitter](https://twitter.com/n6ufal) · [Last.fm](https://www.last.fm/user/alifnaufal) · [Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
