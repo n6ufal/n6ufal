@@ -14,6 +14,7 @@ English lit grad learning to code, Markdown, and write. Building tools, writing 
 ## latest from headspace
 
 <!-- blog-start -->
+[Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
 <!-- blog-end -->
 
 ---
@@ -21,6 +22,7 @@ English lit grad learning to code, Markdown, and write. Building tools, writing 
 ## languages
 
 <!-- langs-start -->
+Python, Lua, HTML, JavaScript, TypeScript
 <!-- langs-end -->
 
 ---
