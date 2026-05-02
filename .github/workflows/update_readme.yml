@@ -1,0 +1,43 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch RSS feed
+        run: curl -s https://alifnaufal.me/index.xml > feed.xml
+
+      - name: Fetch latest HEADSPACE post
+        id: blog
+        run: python3 scripts/fetch_blog.py >> $GITHUB_OUTPUT
+
+      - name: Fetch GitHub repos
+        run: |
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/users/n6ufal/repos?per_page=100" > repos.json
+
+      - name: Get language stats
+        id: langs
+        run: python3 scripts/fetch_langs.py >> $GITHUB_OUTPUT
+
+      - name: Update README
+        env:
+          BLOG_TITLE: ${{ steps.blog.outputs.BLOG_TITLE }}
+          BLOG_LINK: ${{ steps.blog.outputs.BLOG_LINK }}
+          BLOG_DATE: ${{ steps.blog.outputs.BLOG_DATE }}
+          TOP_LANGS: ${{ steps.langs.outputs.TOP_LANGS }}
+        run: python3 scripts/update_readme.py
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update readme" && git push)
