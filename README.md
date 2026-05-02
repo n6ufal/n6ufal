@@ -4,7 +4,7 @@ English lit grad learning to code, Markdown, and write. Building tools, writing 
 
 ## What I'm working on
 
-**[Letter Demon](https://github.com/n6ufal/Letter-Demon)** — A [REDACTED] automation tool built with Python and CustomTkinter, using bisect search and human-like typing simulation. If you know what game this is for, you already know.
+**[Letter Demon](https://github.com/n6ufal/Letter-Demon)** — A [REDACTED] automation tool built with Python and Tkinter, using bisect search and human-like typing simulation. If you know what game this is for, you already know.
 
 **[HEADSPACE](https://alifnaufal.me)** — My little corner of the internet where I dump thoughts and everything I can’t keep in my head.
 
