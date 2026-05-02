@@ -41,7 +41,6 @@ my corner of the internet for notes, longer posts, and everything i didn’t wan
 
 <p align="left">
   <a href="https://alifnaufal.me">blog</a> ·
-  <a href="https://twitter.com/n6ufal">twitter</a> ·
   <a href="https://www.last.fm/user/alifnaufal">last.fm</a> ·
   <a href="https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v">spotify</a>
 </p>
