@@ -1,14 +1,14 @@
 # alif naufal
 
-English literature grad. Building tools, writing about music, culture, and whatever else.
+Building tools, writing about music, culture, and whatever else.
 
 ---
 
 ## what i'm working on
 
-**[Letter Demon](https://github.com/n6ufal/Letter-Demon)** — Word game automation tool. Python, CustomTkinter, bisect search, human-like typing simulation.
+**[Letter Demon](https://github.com/n6ufal/Letter-Demon)** — A specific word game automation tool. Python, CustomTkinter, bisect search, human-like typing simulation.
 
-**[HEADSPACE](https://alifnaufal.me)** — Personal blog. Writing on music, film, philosophy, and whatever lands.
+**[HEADSPACE](https://alifnaufal.me)** — Personal blog.
 
 ---
 
