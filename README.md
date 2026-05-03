@@ -13,9 +13,11 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 <!-- blog-end -->
 
 🎵 **Recently played**
-<!-- LASTFM_RECENT -->
+<!--START_LASTFM_RECENT:{"rows": 5}-->
+<!--END_LASTFM_RECENT-->
 
 👨‍🎤 **Top artists this week**
-<!-- LASTFM_TOP_ARTISTS -->
+<!--START_LASTFM_ARTISTS-->
+<!--END_LASTFM_ARTISTS-->
 
 [🌐 Website](https://alifnaufal.me) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v) · [📬 Email](mailto:alifnaufal@duck.com)
