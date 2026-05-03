@@ -1,12 +1,10 @@
-name: Update README
-
+name: Update README to fetch HEADSPACE
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -45,4 +43,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update readme" && git push)
+          git diff --quiet && git diff --staged --quiet || (
+            git pull --rebase origin main &&
+            git commit -m "chore: update readme" &&
+            git push
+          )
