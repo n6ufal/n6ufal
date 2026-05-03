@@ -24,7 +24,11 @@ My corner of the internet for notes, longer posts, and everything I didn't want 
 <!-- blog-end -->
 
 ### Listening
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=fjvvc8gihy2bj471qal9zrg6v" />
+<!--START_LASTFM_RECENT:{"rows": 5}-->
+<!--END_LASTFM_RECENT-->
+
+<!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
+<!--END_LASTFM_ARTISTS-->
 
 <p align="left">
   <a href="https://alifnaufal.me">Blog</a> ·
