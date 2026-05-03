@@ -1,6 +1,6 @@
 # Hey, I'm Alif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm an English lit grad who's been into building and tinkering for as long as I can remember, and lately that's found its way into the digital side of things.I’m here to learn, have some fun, and hopefully leave a little something useful for the open-source community while I'm at it
+I'm an English lit grad who's been into building and tinkering for as long as I can remember, and lately that's found its way into the digital side of things. I’m here to learn, have some fun, and hopefully leave a little something useful for the open-source community while I'm at it
 
 | Project | Description |
 | --- | --- |
