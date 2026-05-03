@@ -13,8 +13,12 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 | --- |
 | <!-- blog-start --> [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026 <!-- blog-end --> |
 
-| 🎵 Recently played | 👨‍🎤 Top artists this week |
-| --- | --- |
-| <!--START_LASTFM_RECENT:{"rows": 5}--> <!--END_LASTFM_RECENT--> | <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}--> <!--END_LASTFM_ARTISTS--> |
+| 🎵 Recently played |
+| --- |
+| <!--START_LASTFM_RECENT:{"rows": 5}--> <!--END_LASTFM_RECENT--> |
+
+| 👨‍🎤 Top artists this week |
+| --- |
+| <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}--> <!--END_LASTFM_ARTISTS--> |
 
 [📝 Blog](https://alifnaufal.me) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v) · [📬 Email](mailto:alifnaufal@duck.com)
