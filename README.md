@@ -1,59 +1,46 @@
 <div align="center">
-
 <h2>Alif Naufal</h2>
 <p>Learning to write while keeping things on <a href="https://alifnaufal.me">HEADSPACE</a></p>
 
----
-
-<table width="100%" border="0">
+<table width="100%">
 <tr>
 <td width="50%" valign="top" align="left">
-
-### 🛠️ Projects
-**[Letter Demon](https://github.com/n6ufal/Letter-Demon)** A dictionary-based word search tool.  
-`Python` · `Tkinter` · `Bisect Search`
-
-**[HEADSPACE](https://alifnaufal.me)** Personal blog for notes and long-form thoughts.
-
+<b>🛠️ Projects</b><br /><br />
+<b><a href="https://github.com/n6ufal/Letter-Demon">Letter Demon</a></b><br />
+A dictionary-based word search tool for a certain game<br />
+<code>Python</code> · <code>Tkinter</code> · bisect search · human-like typing<br />
+If you know, you know<br /><br />
+<b><a href="https://alifnaufal.me">HEADSPACE</a></b><br />
+My corner of the internet for notes, longer posts,<br />
+and everything I didn't want to lose
 </td>
 <td width="50%" valign="top" align="left">
-
-### ✍️ Latest Post
-[Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/)  
-*May 02, 2026*
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="left">
-
-### 🎵 Recently Played
-* **[Master of None](https://link)** - Beach House
-* **[In the Kingdom](https://link)** - Mazzy Star
-* **[kisses](https://link)** - Slowdive
-* **[Mystery of Love](https://link)** - Sufjan Stevens
-* **[Duvet](https://link)** - bôa
-</td>
-<td width="50%" valign="top" align="left">
-
-### 👨‍🎤 Top Artists
-* `42 ▶️` **[deadmau5](https://link)**
-* `22 ▶️` **[RÜFÜS DU SOL](https://link)**
-* `17 ▶️` **[American Football](https://link)**
-* `17 ▶️` **[The Radio Dept.](https://link)**
-* `15 ▶️` **[Kaskade](https://link)**
+<b>✍️ Latest from HEADSPACE</b><br /><br />
+<!-- blog-start -->
+<a href="https://alifnaufal.me/posts/do-you-remember-your-lucky-number/">Do you remember your lucky number?</a> — May 02, 2026
+<!-- blog-end -->
 </td>
 </tr>
 </table>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="left">
+<b>🎵 Recently played</b><br /><br />
+<!--START_LASTFM_RECENT:{"rows": 5}-->
+<!--END_LASTFM_RECENT-->
+</td>
+<td width="50%" valign="top" align="left">
+<b>👨‍🎤 Top artists this week</b><br /><br />
+<!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
+<!--END_LASTFM_ARTISTS-->
+</td>
+</tr>
+</table>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=n6ufal&layout=compact&langs_count=5&theme=nord&hide_border=true" height="130" />
-
+<br /><br />
 <p>
-  <a href="https://alifnaufal.me">Blog</a> ·
-  <a href="https://www.last.fm/user/alifnaufal">Last.fm</a> ·
-  <a href="spotify-link-here">Spotify</a>
+  <a href="https://alifnaufal.me">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.last.fm/user/alifnaufal">Last.fm</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v">Spotify</a>
 </p>
-
 </div>
