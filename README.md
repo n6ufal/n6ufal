@@ -9,7 +9,9 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 
 | ✍️ Latest from HEADSPACE |
 | --- |
-| <!-- blog-start --> [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026 <!-- blog-end --> |
+| <!-- blog-start -->
+[Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
+<!-- blog-end --> |
 
 <table width="100%">
   <tr>
