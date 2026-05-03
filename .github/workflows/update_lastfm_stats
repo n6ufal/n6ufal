@@ -1,0 +1,15 @@
+name: Update Last.fm Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:         
+
+jobs:
+  update-lastfm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dxnter/lastfm-readme@v1
+        with:
+          LASTFM_API_KEY: ${{ 4d6ff0f7d90e5709ab9e7f7d1bf1f2b9 }}
+          LASTFM_USER: alifnaufal
