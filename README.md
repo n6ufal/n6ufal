@@ -14,11 +14,11 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
+> ∙ **[that way again](https://www.last.fm/music/Mazzy+Star/_/that+way+again)** - Mazzy Star<br/>
+> ∙ **[Her](https://www.last.fm/music/The+American+Dawn/_/Her)** - The American Dawn<br/>
+> ∙ **[Linger](https://www.last.fm/music/The+Cranberries/_/Linger)** - The Cranberries<br/>
 > ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
 > ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[kisses](https://www.last.fm/music/Slowdive/_/kisses)** - Slowdive<br/>
-> ∙ **[Mystery of Love](https://www.last.fm/music/Sufjan+Stevens/_/Mystery+of+Love)** - Sufjan Stevens<br/>
-> ∙ **[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)** - bôa<br/>
 <!--END_LASTFM_RECENT-->
 
 👨‍🎤 **Top artists this week**
