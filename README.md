@@ -4,7 +4,7 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 
 | Project | Description |
 | --- | --- |
-| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A dictionary-based word game automation tool that probably knows more words than I do |
+| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A word game automation tool with a 470K-word dictionary and human-like keystroke simulation. |
 | 🧠 **[HEADSPACE](https://alifnaufal.me)** | Where I put things so I don't forget them |
 
 ✍️ **Latest from HEADSPACE**
