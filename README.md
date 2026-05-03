@@ -25,8 +25,6 @@ My corner of the internet for notes, longer posts, and everything I didn't want 
 
 ### Listening
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
-
 > ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
 > ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
 > ∙ **[kisses](https://www.last.fm/music/Slowdive/_/kisses)** - Slowdive<br/>
@@ -35,8 +33,6 @@ My corner of the internet for notes, longer posts, and everything I didn't want 
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
-
 > `42 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `22 ▶️` ∙ **[RÜFÜS DU SOL](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL)**<br/>
 > `17 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
