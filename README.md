@@ -4,8 +4,8 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 
 | Project | Description |
 | --- | --- |
-| 👾 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A dictionary-based word search tool for a certain game |
-| 🧠 **[HEADSPACE](https://alifnaufal.me)** | My corner of the internet for notes, longer posts, and everything I didn't want to lose |
+| 👾 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A dictionary-based word game automation tool that probably knows more words than I do |
+| 🧠 **[HEADSPACE](https://alifnaufal.me)** | Where I put things so I don't forget them |
 
 ✍️ **Latest from HEADSPACE**
 <!-- blog-start -->
@@ -22,7 +22,7 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 <!--END_LASTFM_RECENT-->
 
 👨‍🎤 **Top artists this week**
-<!--START_LASTFM_ARTISTS-->
+<!--START_LASTFM_ARTISTS:{"rows": 5}-->
 > `42 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `22 ▶️` ∙ **[RÜFÜS DU SOL](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL)**<br/>
 > `17 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
@@ -33,4 +33,8 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
-[🌐 Website](https://alifnaufal.me) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v) · [📬 Email](mailto:alifnaufal@duck.com)
+<div align="center">
+
+[🌐 Website](https://alifnaufal.me) · [📬 Email](mailto:alifnaufal@duck.com) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
+
+</div>
