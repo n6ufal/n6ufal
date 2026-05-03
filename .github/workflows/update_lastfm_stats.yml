@@ -2,7 +2,7 @@ name: Update Last.fm Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
+    - cron: 0 * * * *
   workflow_dispatch:         
 
 jobs:
@@ -14,3 +14,4 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: alifnaufal
           SHOW_TITLE: false
+          COMMIT_MESSAGE: '🎵 Update music stats'
