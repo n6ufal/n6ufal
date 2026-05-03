@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Finished Symphony (Deadmau5 Remix)](https://www.last.fm/music/Hybrid/_/Finished+Symphony+(Deadmau5+Remix))** - Hybrid<br/>
-> ∙ **[Faxing Berlin - Original Mix](https://www.last.fm/music/deadmau5/_/Faxing+Berlin+-+Original+Mix)** - deadmau5<br/>
-> ∙ **[Angel On My Shoulder - EDX Radio Edit](https://www.last.fm/music/Kaskade/_/Angel+On+My+Shoulder+-+EDX+Radio+Edit)** - Kaskade<br/>
-> ∙ **[Shine A Light - Flight Facilities Remix](https://www.last.fm/music/+noredirect/The+C90s/_/Shine+A+Light+-+Flight+Facilities+Remix)** - The C90s<br/>
-> ∙ **[4 AM - Adam K & Soha Radio Edit](https://www.last.fm/music/Kaskade/_/4+AM+-+Adam+K+&+Soha+Radio+Edit)** - Kaskade<br/>
+> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
+> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
+> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
+> ∙ **[Opus](https://www.last.fm/music/Eric+Prydz/_/Opus)** - Eric Prydz<br/>
+> ∙ **[Finished Symphony - Deadmau5 Remix](https://www.last.fm/music/+noredirect/Hybrid/_/Finished+Symphony+-+Deadmau5+Remix)** - Hybrid<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
