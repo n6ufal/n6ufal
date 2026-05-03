@@ -28,9 +28,6 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 > `17 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 > `17 ▶️` ∙ **[The Radio Dept.](https://www.last.fm/music/The+Radio+Dept.)**<br/>
 > `15 ▶️` ∙ **[Kaskade](https://www.last.fm/music/Kaskade)**<br/>
-> `15 ▶️` ∙ **[The Sundays](https://www.last.fm/music/The+Sundays)**<br/>
-> `10 ▶️` ∙ **[Mazzy Star](https://www.last.fm/music/Mazzy+Star)**<br/>
-> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <div align="center">
