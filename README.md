@@ -28,11 +28,21 @@ and everything I didn't want to lose
 <td width="50%" valign="top" align="left">
 <b>🎵 Recently played</b><br /><br />
 <!--START_LASTFM_RECENT:{"rows": 5}-->
+> ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[kisses](https://www.last.fm/music/Slowdive/_/kisses)** - Slowdive<br/>
+> ∙ **[Mystery of Love](https://www.last.fm/music/Sufjan+Stevens/_/Mystery+of+Love)** - Sufjan Stevens<br/>
+> ∙ **[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)** - bôa<br/>
 <!--END_LASTFM_RECENT-->
 </td>
 <td width="50%" valign="top" align="left">
 <b>👨‍🎤 Top artists this week</b><br /><br />
 <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}-->
+> `42 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `22 ▶️` ∙ **[RÜFÜS DU SOL](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL)**<br/>
+> `17 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
+> `17 ▶️` ∙ **[The Radio Dept.](https://www.last.fm/music/The+Radio+Dept.)**<br/>
+> `15 ▶️` ∙ **[Kaskade](https://www.last.fm/music/Kaskade)**<br/>
 <!--END_LASTFM_ARTISTS-->
 </td>
 </tr>
