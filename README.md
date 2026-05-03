@@ -14,17 +14,17 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
+> 🎶 **[Pearls](https://www.last.fm/music/Sade/_/Pearls)** - Sade<br/>
+> ∙ **[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)** - Beach House<br/>
+> ∙ **[Hot Blooded](https://www.last.fm/music/New+Constellations/_/Hot+Blooded)** - New Constellations<br/>
 > ∙ **[that way again](https://www.last.fm/music/Mazzy+Star/_/that+way+again)** - Mazzy Star<br/>
 > ∙ **[Her](https://www.last.fm/music/The+American+Dawn/_/Her)** - The American Dawn<br/>
-> ∙ **[Linger](https://www.last.fm/music/The+Cranberries/_/Linger)** - The Cranberries<br/>
-> ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
 <!--END_LASTFM_RECENT-->
 
 👨‍🎤 **Top artists this week**
 <!--START_LASTFM_ARTISTS:{"rows": 5}-->
-> `42 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
-> `22 ▶️` ∙ **[RÜFÜS DU SOL](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL)**<br/>
+> `40 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `21 ▶️` ∙ **[RÜFÜS DU SOL](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL)**<br/>
 > `17 ▶️` ∙ **[American Football](https://www.last.fm/music/American+Football)**<br/>
 > `15 ▶️` ∙ **[Kaskade](https://www.last.fm/music/Kaskade)**<br/>
 > `13 ▶️` ∙ **[The Sundays](https://www.last.fm/music/The+Sundays)**<br/>
