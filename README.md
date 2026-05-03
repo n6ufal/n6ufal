@@ -2,8 +2,6 @@
 
 I'm an English lit grad who's been into building and tinkering for as long as I can remember, and lately that's found its way into the digital side of things. I'm just trying to pick things up, enjoy myself, and contribute something to the open source community while I'm at it.
 
-## Projects
-
 | Project | Description |
 | --- | --- |
 | 👾 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A dictionary-based word search tool for a certain game |
@@ -13,12 +11,17 @@ I'm an English lit grad who's been into building and tinkering for as long as I 
 | --- |
 | <!-- blog-start --> [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026 <!-- blog-end --> |
 
-| 🎵 Recently played |
-| --- |
-| <!--START_LASTFM_RECENT:{"rows": 5}--> <!--END_LASTFM_RECENT--> |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-| 👨‍🎤 Top artists this week |
-| --- |
-| <!--START_LASTFM_ARTISTS:{"period": "7day", "rows": 5}--> <!--END_LASTFM_ARTISTS--> |
+#### 🎵 Recently played
+</td>
+    <td width="50%" valign="top">
+
+#### 👨‍🎤 Top artists this week
+</td>
+  </tr>
+</table>
 
 [📝 Blog](https://alifnaufal.me) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v) · [📬 Email](mailto:alifnaufal@duck.com)
