@@ -13,3 +13,4 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: alifnaufal
+          SHOW_TITLE: false
