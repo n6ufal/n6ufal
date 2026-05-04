@@ -23,6 +23,6 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 <div align="center">
 
-[🌐 Website](https://alifnaufal.me) · [📬 Email](mailto:alifnaufal@duck.com) · [🎵 Last.fm](https://www.last.fm/user/alifnaufal) · [💚 Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
+🌐[Website](https://alifnaufal.me) · 📬 [Email](mailto:alifnaufal@duck.com) · 🎵 [Last.fm](https://www.last.fm/user/alifnaufal) · 💚 [Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
 
 </div>
