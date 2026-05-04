@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
-> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
-> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
-> ∙ **[Opus](https://www.last.fm/music/Eric+Prydz/_/Opus)** - Eric Prydz<br/>
-> ∙ **[Finished Symphony - Deadmau5 Remix](https://www.last.fm/music/+noredirect/Hybrid/_/Finished+Symphony+-+Deadmau5+Remix)** - Hybrid<br/>
+> 🎶 **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
