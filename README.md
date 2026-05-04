@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Clarity](https://www.last.fm/music/Zedd/_/Clarity)** - Zedd<br/>
-> ∙ **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - RobbieG Remix / Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+RobbieG+Remix+%2F+Radio+Edit)** - Crystal Waters<br/>
-> ∙ **[Everytime](https://www.last.fm/music/iDemi/_/Everytime)** - iDemi<br/>
-> ∙ **[Wacuka](https://www.last.fm/music/Avaion/_/Wacuka)** - Avaion<br/>
-> ∙ **[Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)** - Eric Prydz<br/>
+> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
+> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
