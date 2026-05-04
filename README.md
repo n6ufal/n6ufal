@@ -15,10 +15,10 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
 > ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
+> ∙ **[Common Burn](https://www.last.fm/music/Mazzy+Star/_/Common+Burn)** - Mazzy Star<br/>
 > ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
-> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
 > ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Black Sheep - Brie Larson Vocal Version](https://www.last.fm/music/Metric/_/Black+Sheep+-+Brie+Larson+Vocal+Version)** - Metric<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
