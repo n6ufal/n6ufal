@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
-> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
-> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
+> 🎶 **[Clarity](https://www.last.fm/music/Zedd/_/Clarity)** - Zedd<br/>
+> ∙ **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - RobbieG Remix / Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+RobbieG+Remix+%2F+Radio+Edit)** - Crystal Waters<br/>
+> ∙ **[Everytime](https://www.last.fm/music/iDemi/_/Everytime)** - iDemi<br/>
+> ∙ **[Wacuka](https://www.last.fm/music/Avaion/_/Wacuka)** - Avaion<br/>
+> ∙ **[Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)** - Eric Prydz<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
