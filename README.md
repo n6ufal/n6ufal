@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
-> ∙ **[Helicopter](https://www.last.fm/music/Bloc+Party/_/Helicopter)** - Bloc Party<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
+> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
+> ∙ **[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)** - Cocteau Twins<br/>
+> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
+> ∙ **[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)** - my bloody valentine<br/>
+> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
