@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
-> ∙ **[Nobody To Love - Extended Mix](https://www.last.fm/music/Sigma/_/Nobody+To+Love+-+Extended+Mix)** - Sigma<br/>
-> ∙ **[Gauze](https://www.last.fm/music/Gleemer/_/Gauze)** - Gleemer<br/>
-> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
+> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
+> ∙ **[Pogo - Radio Edit](https://www.last.fm/music/Digitalism/_/Pogo+-+Radio+Edit)** - Digitalism<br/>
+> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
+> ∙ **[Wild Horses](https://www.last.fm/music/The+Sundays/_/Wild+Horses)** - The Sundays<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
