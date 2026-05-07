@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
-> ∙ **[Pogo - Radio Edit](https://www.last.fm/music/Digitalism/_/Pogo+-+Radio+Edit)** - Digitalism<br/>
-> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
-> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
-> ∙ **[Wild Horses](https://www.last.fm/music/The+Sundays/_/Wild+Horses)** - The Sundays<br/>
+> 🎶 **[Give You My Lovin](https://www.last.fm/music/Mazzy+Star/_/Give+You+My+Lovin)** - Mazzy Star<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[GREY MAGIC](https://www.last.fm/music/$uicideboy$/_/GREY+MAGIC)** - $uicideboy$<br/>
+> ∙ **[Dawn in LA.](https://www.last.fm/music/Bolden./_/Dawn+in+LA.)** - Bolden.<br/>
+> ∙ **[Somethin' Stupid](https://www.last.fm/music/Frank+Sinatra/_/Somethin%27+Stupid)** - Frank Sinatra<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
