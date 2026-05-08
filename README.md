@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Broken By Design](https://www.last.fm/music/Basement/_/Broken+By+Design)** - Basement<br/>
-> ∙ **[Deadweight](https://www.last.fm/music/Basement/_/Deadweight)** - Basement<br/>
-> ∙ **[WIRED](https://www.last.fm/music/Basement/_/WIRED)** - Basement<br/>
-> ∙ **[Time Waster](https://www.last.fm/music/Basement/_/Time+Waster)** - Basement<br/>
-> ∙ **[Ellipses](https://www.last.fm/music/Basement/_/Ellipses)** - Basement<br/>
+> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
+> ∙ **[Rare Symmetry](https://www.last.fm/music/American+Football/_/Rare+Symmetry)** - American Football<br/>
+> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
+> ∙ **[fifa15](https://www.last.fm/music/dadlore/_/fifa15)** - dadlore<br/>
+> ∙ **[Drown](https://www.last.fm/music/Microwave/_/Drown)** - Microwave<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
