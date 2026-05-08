@@ -1,4 +1,4 @@
-# Hey, I'm Alif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm Alif 
 
 I’ve been building and tinkering since I was a kid, and lately that’s carried over into the digital space. Just here to learn, enjoy the process, and contribute to open source.
 
