@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
-> ∙ **[Rare Symmetry](https://www.last.fm/music/American+Football/_/Rare+Symmetry)** - American Football<br/>
-> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
-> ∙ **[fifa15](https://www.last.fm/music/dadlore/_/fifa15)** - dadlore<br/>
-> ∙ **[Drown](https://www.last.fm/music/Microwave/_/Drown)** - Microwave<br/>
+> 🎶 **[Last Caress - C.I. Recording 1978](https://www.last.fm/music/Misfits/_/Last+Caress+-+C.I.+Recording+1978)** - Misfits<br/>
+> ∙ **[Hybrid Moments - C.I. Recording 1978](https://www.last.fm/music/Misfits/_/Hybrid+Moments+-+C.I.+Recording+1978)** - Misfits<br/>
+> ∙ **[Los Angeles](https://www.last.fm/music/X/_/Los+Angeles)** - X<br/>
+> ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
+> ∙ **[Nobody To Love - Extended Mix](https://www.last.fm/music/Sigma/_/Nobody+To+Love+-+Extended+Mix)** - Sigma<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
