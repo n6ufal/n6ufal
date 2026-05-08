@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Saturday Night](https://www.last.fm/music/Misfits/_/Saturday+Night)** - Misfits<br/>
-> ∙ **[Last Caress - C.I. Recording 1978](https://www.last.fm/music/Misfits/_/Last+Caress+-+C.I.+Recording+1978)** - Misfits<br/>
-> ∙ **[Hybrid Moments - C.I. Recording 1978](https://www.last.fm/music/Misfits/_/Hybrid+Moments+-+C.I.+Recording+1978)** - Misfits<br/>
-> ∙ **[Los Angeles](https://www.last.fm/music/X/_/Los+Angeles)** - X<br/>
-> ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
+> ∙ **[Skulls - Master Sound Productions 1980](https://www.last.fm/music/Misfits/_/Skulls+-+Master+Sound+Productions+1980)** - Misfits<br/>
+> ∙ **[Why Can't I Touch It? - 2001 Remastered Version](https://www.last.fm/music/Buzzcocks/_/Why+Can%27t+I+Touch+It%3F+-+2001+Remastered+Version)** - Buzzcocks<br/>
+> ∙ **[New York City Cops](https://www.last.fm/music/The+Strokes/_/New+York+City+Cops)** - The Strokes<br/>
+> ∙ **[I Love Livin' in the City](https://www.last.fm/music/Fear/_/I+Love+Livin%27+in+the+City)** - Fear<br/>
+> ∙ **[Amoeba](https://www.last.fm/music/Adolescents/_/Amoeba)** - Adolescents<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
