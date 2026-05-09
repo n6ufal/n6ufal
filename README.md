@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[This Modern Love](https://www.last.fm/music/Bloc+Party/_/This+Modern+Love)** - Bloc Party<br/>
 > ∙ **[She's Hearing Voices](https://www.last.fm/music/Bloc+Party/_/She%27s+Hearing+Voices)** - Bloc Party<br/>
 > ∙ **[Blue Light](https://www.last.fm/music/Bloc+Party/_/Blue+Light)** - Bloc Party<br/>
 > ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
 > ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Positive Tension](https://www.last.fm/music/Bloc+Party/_/Positive+Tension)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
