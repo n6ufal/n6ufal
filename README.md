@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Carry the Zero](https://www.last.fm/music/Built+to+Spill/_/Carry+the+Zero)** - Built to Spill<br/>
+> ∙ **[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)** - Mazzy Star<br/>
+> ∙ **[Carry the Zero](https://www.last.fm/music/Built+to+Spill/_/Carry+the+Zero)** - Built to Spill<br/>
 > ∙ **[When I'm Thinking About You](https://www.last.fm/music/The+Sundays/_/When+I%27m+Thinking+About+You)** - The Sundays<br/>
 > ∙ **[Common Burn](https://www.last.fm/music/Mazzy+Star/_/Common+Burn)** - Mazzy Star<br/>
 > ∙ **[Look on Down From the Bridge](https://www.last.fm/music/Mazzy+Star/_/Look+on+Down+From+the+Bridge)** - Mazzy Star<br/>
-> ∙ **[Cico Buff](https://www.last.fm/music/Cocteau+Twins/_/Cico+Buff)** - Cocteau Twins<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
