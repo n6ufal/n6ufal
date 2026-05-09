@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[She's Hearing Voices](https://www.last.fm/music/Bloc+Party/_/She%27s+Hearing+Voices)** - Bloc Party<br/>
-> ∙ **[Blue Light](https://www.last.fm/music/Bloc+Party/_/Blue+Light)** - Bloc Party<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Positive Tension](https://www.last.fm/music/Bloc+Party/_/Positive+Tension)** - Bloc Party<br/>
+> 🎶 **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Trying Your Luck](https://www.last.fm/music/The+Strokes/_/Trying+Your+Luck)** - The Strokes<br/>
+> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> ∙ **[Price of Gasoline](https://www.last.fm/music/Bloc+Party/_/Price+of+Gasoline)** - Bloc Party<br/>
+> ∙ **[The Pioneers](https://www.last.fm/music/+noredirect/Bloc+Party/_/The+Pioneers)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
