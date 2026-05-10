@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)** - Mazzy Star<br/>
-> ∙ **[Carry the Zero](https://www.last.fm/music/Built+to+Spill/_/Carry+the+Zero)** - Built to Spill<br/>
-> ∙ **[When I'm Thinking About You](https://www.last.fm/music/The+Sundays/_/When+I%27m+Thinking+About+You)** - The Sundays<br/>
-> ∙ **[Common Burn](https://www.last.fm/music/Mazzy+Star/_/Common+Burn)** - Mazzy Star<br/>
-> ∙ **[Look on Down From the Bridge](https://www.last.fm/music/Mazzy+Star/_/Look+on+Down+From+the+Bridge)** - Mazzy Star<br/>
+> 🎶 **[Mind Mischief](https://www.last.fm/music/Tame+Impala/_/Mind+Mischief)** - Tame Impala<br/>
+> ∙ **[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)** - Her's<br/>
+> ∙ **[Endors Toi](https://www.last.fm/music/Tame+Impala/_/Endors+Toi)** - Tame Impala<br/>
+> ∙ **[Maps](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
