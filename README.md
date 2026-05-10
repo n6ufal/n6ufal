@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
-> ∙ **[Halah](https://www.last.fm/music/Mazzy+Star/_/Halah)** - Mazzy Star<br/>
-> ∙ **[On Earth](https://www.last.fm/music/The+Sundays/_/On+Earth)** - The Sundays<br/>
-> ∙ **[Crumble](https://www.last.fm/music/Dinosaur+Jr./_/Crumble)** - Dinosaur Jr.<br/>
-> ∙ **[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)** - Slowdive<br/>
+> ∙ **[Don't Know Why](https://www.last.fm/music/Slowdive/_/Don%27t+Know+Why)** - Slowdive<br/>
+> ∙ **[Ravestar Supreme](https://www.last.fm/music/Pinkshinyultrablast/_/Ravestar+Supreme)** - Pinkshinyultrablast<br/>
+> ∙ **[Dragon In You](https://www.last.fm/music/Malory/_/Dragon+In+You)** - Malory<br/>
+> ∙ **[I don't want to lose this](https://www.last.fm/music/Ringo+Deathstarr/_/I+don%27t+want+to+lose+this)** - Ringo Deathstarr<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
