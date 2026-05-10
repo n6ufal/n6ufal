@@ -14,11 +14,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Mind Mischief](https://www.last.fm/music/Tame+Impala/_/Mind+Mischief)** - Tame Impala<br/>
-> ∙ **[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)** - Her's<br/>
-> ∙ **[Endors Toi](https://www.last.fm/music/Tame+Impala/_/Endors+Toi)** - Tame Impala<br/>
-> ∙ **[Maps](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps)** - Yeah Yeah Yeahs<br/>
-> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
+> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
+> ∙ **[Halah](https://www.last.fm/music/Mazzy+Star/_/Halah)** - Mazzy Star<br/>
+> ∙ **[On Earth](https://www.last.fm/music/The+Sundays/_/On+Earth)** - The Sundays<br/>
+> ∙ **[Crumble](https://www.last.fm/music/Dinosaur+Jr./_/Crumble)** - Dinosaur Jr.<br/>
+> ∙ **[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)** - Slowdive<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
