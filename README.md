@@ -15,11 +15,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Embrace](https://www.last.fm/music/PASTEL+GHOST/_/Embrace)** - PASTEL GHOST<br/>
-> ∙ **[Myth](https://www.last.fm/music/Beach+House/_/Myth)** - Beach House<br/>
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
-> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
-> ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
+> 🎶 **[Low December Sun](https://www.last.fm/music/Air+Formation/_/Low+December+Sun)** - Air Formation<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[Daydreamer](https://www.last.fm/music/Airiel/_/Daydreamer)** - Airiel<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[The Days - NOTION Remix](https://www.last.fm/music/Chrystal/_/The+Days+-+NOTION+Remix)** - Chrystal<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
