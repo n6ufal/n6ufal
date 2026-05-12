@@ -15,11 +15,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)** - Weezer<br/>
+> ∙ **[Headwires](https://www.last.fm/music/Foo+Fighters/_/Headwires)** - Foo Fighters<br/>
+> ∙ **[Little Fury Things](https://www.last.fm/music/Dinosaur+Jr./_/Little+Fury+Things)** - Dinosaur Jr.<br/>
+> ∙ **[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)** - Weezer<br/>
 > ∙ **[When You Were Young](https://www.last.fm/music/The+Killers/_/When+You+Were+Young)** - The Killers<br/>
 > ∙ **[The Plan](https://www.last.fm/music/Built+to+Spill/_/The+Plan)** - Built to Spill<br/>
-> ∙ **[Tesla](https://www.last.fm/music/The+Simps/_/Tesla)** - The Simps<br/>
-> ∙ **[forest green](https://www.last.fm/music/FlyingFish/_/forest+green)** - FlyingFish<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
