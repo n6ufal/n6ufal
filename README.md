@@ -15,11 +15,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Calendar](https://www.last.fm/music/Alison%27s+Halo/_/Calendar)** - Alison's Halo<br/>
-> ∙ **[Hide & Seek](https://www.last.fm/music/Airiel/_/Hide+&+Seek)** - Airiel<br/>
-> ∙ **[boyfriend](https://www.last.fm/music/The+Bilinda+Butchers/_/boyfriend)** - The Bilinda Butchers<br/>
-> ∙ **[Pearl - 12'' Version](https://www.last.fm/music/Chapterhouse/_/Pearl+-+12%27%27+Version)** - Chapterhouse<br/>
-> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
+> ∙ **[Rocket - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Rocket+-+2011+Remaster)** - The Smashing Pumpkins<br/>
+> ∙ **[Caroline](https://www.last.fm/music/Narrow+Head/_/Caroline)** - Narrow Head<br/>
+> ∙ **[Carry the Zero](https://www.last.fm/music/Built+to+Spill/_/Carry+the+Zero)** - Built to Spill<br/>
+> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
+> ∙ **[Airtight Angels](https://www.last.fm/music/Airiel/_/Airtight+Angels)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
