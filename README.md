@@ -15,11 +15,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Rocket - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Rocket+-+2011+Remaster)** - The Smashing Pumpkins<br/>
-> ∙ **[Caroline](https://www.last.fm/music/Narrow+Head/_/Caroline)** - Narrow Head<br/>
-> ∙ **[Carry the Zero](https://www.last.fm/music/Built+to+Spill/_/Carry+the+Zero)** - Built to Spill<br/>
-> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
-> ∙ **[Airtight Angels](https://www.last.fm/music/Airiel/_/Airtight+Angels)** - Airiel<br/>
+> 🎶 **[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)** - Weezer<br/>
+> ∙ **[When You Were Young](https://www.last.fm/music/The+Killers/_/When+You+Were+Young)** - The Killers<br/>
+> ∙ **[The Plan](https://www.last.fm/music/Built+to+Spill/_/The+Plan)** - Built to Spill<br/>
+> ∙ **[Tesla](https://www.last.fm/music/The+Simps/_/Tesla)** - The Simps<br/>
+> ∙ **[forest green](https://www.last.fm/music/FlyingFish/_/forest+green)** - FlyingFish<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
