@@ -6,7 +6,7 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 | --- | --- |
 | 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A word game automation tool with a 470K-word dictionary and human-like keystroke simulation. |
 | 🧠 **[HEADSPACE](https://alifnaufal.me)** | Where I put things so I don't forget them |
-| 💻 **[.dotfiles](https://github.com/n6ufal/.dotfiles)** | My personal config for shit and giggles |
+| 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | My personal config for shit and giggles |
 
 ✍️ **Latest from HEADSPACE**
 <!-- blog-start -->
