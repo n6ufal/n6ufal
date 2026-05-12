@@ -15,11 +15,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Black](https://www.last.fm/music/Pearl+Jam/_/Black)** - Pearl Jam<br/>
-> ∙ **[Every Breath You Take](https://www.last.fm/music/The+Police/_/Every+Breath+You+Take)** - The Police<br/>
-> ∙ **[Space Age Love Song](https://www.last.fm/music/A+Flock+of+Seagulls/_/Space+Age+Love+Song)** - A Flock of Seagulls<br/>
-> ∙ **[I Ran (So Far Away)](https://www.last.fm/music/A+Flock+of+Seagulls/_/I+Ran+(So+Far+Away))** - A Flock of Seagulls<br/>
-> ∙ **[Hold the Line](https://www.last.fm/music/Toto/_/Hold+the+Line)** - Toto<br/>
+> 🎶 **[Embrace](https://www.last.fm/music/PASTEL+GHOST/_/Embrace)** - PASTEL GHOST<br/>
+> ∙ **[Myth](https://www.last.fm/music/Beach+House/_/Myth)** - Beach House<br/>
+> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
+> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
+> ∙ **[Master of None](https://www.last.fm/music/Beach+House/_/Master+of+None)** - Beach House<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
