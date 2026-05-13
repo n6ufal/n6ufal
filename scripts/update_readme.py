@@ -9,7 +9,7 @@ for i in range(1, 4):
     link = os.getenv(f'BLOG_LINK_{i}', '#')
     date = os.getenv(f'BLOG_DATE_{i}', '')
     if title:
-        line = f"[{title}]({link})" + (f" — {date}" if date else "")
+        line = f"- [{title}]({link})" + (f" — {date}" if date else "")
         blog_lines.append(line)
 
 blog_block = "\n".join(blog_lines) if blog_lines else "No posts yet"
