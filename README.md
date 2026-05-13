@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Liar's Love](https://www.last.fm/music/Title+Fight/_/Liar%27s+Love)** - Title Fight<br/>
-> ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
-> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
-> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
-> ∙ **[Chlorine](https://www.last.fm/music/Title+Fight/_/Chlorine)** - Title Fight<br/>
+> 🎶 **[July the Fourth](https://www.last.fm/music/Nothing/_/July+the+Fourth)** - Nothing<br/>
+> ∙ **[owesome](https://www.last.fm/music/a+picture+of+her/_/owesome)** - a picture of her<br/>
+> ∙ **[Gravity](https://www.last.fm/music/Spite+House/_/Gravity)** - Spite House<br/>
+> ∙ **[Gauze](https://www.last.fm/music/Gleemer/_/Gauze)** - Gleemer<br/>
+> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
