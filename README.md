@@ -10,9 +10,9 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 ✍️ **Latest from HEADSPACE**
 <!-- blog-start -->
-[Skin and All](https://alifnaufal.me/posts/skin-and-all/) — May 13, 2026
-[Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
-[Amor Fati](https://alifnaufal.me/posts/amor-fati/) — May 01, 2026
+- [Skin and All](https://alifnaufal.me/posts/skin-and-all/) — May 13, 2026
+- [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
+- [Amor Fati](https://alifnaufal.me/posts/amor-fati/) — May 01, 2026
 <!-- blog-end -->
 
 🎵 **Recently played**
