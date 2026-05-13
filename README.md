@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Wild Horses](https://www.last.fm/music/The+Sundays/_/Wild+Horses)** - The Sundays<br/>
-> ∙ **[Dreams](https://www.last.fm/music/The+Cranberries/_/Dreams)** - The Cranberries<br/>
-> ∙ **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
-> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[Liar's Love](https://www.last.fm/music/Title+Fight/_/Liar%27s+Love)** - Title Fight<br/>
+> ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
+> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
+> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[Chlorine](https://www.last.fm/music/Title+Fight/_/Chlorine)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
