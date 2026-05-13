@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[July the Fourth](https://www.last.fm/music/Nothing/_/July+the+Fourth)** - Nothing<br/>
-> ∙ **[owesome](https://www.last.fm/music/a+picture+of+her/_/owesome)** - a picture of her<br/>
-> ∙ **[Gravity](https://www.last.fm/music/Spite+House/_/Gravity)** - Spite House<br/>
-> ∙ **[Gauze](https://www.last.fm/music/Gleemer/_/Gauze)** - Gleemer<br/>
-> ∙ **[Hole](https://www.last.fm/music/Heavenward/_/Hole)** - Heavenward<br/>
+> 🎶 **[Dreams Burn Down - 2001 Remaster](https://www.last.fm/music/Ride/_/Dreams+Burn+Down+-+2001+Remaster)** - Ride<br/>
+> ∙ **[Joy](https://www.last.fm/music/The+Sundays/_/Joy)** - The Sundays<br/>
+> ∙ **[Liquid Paper](https://www.last.fm/music/Airiel/_/Liquid+Paper)** - Airiel<br/>
+> ∙ **[Cry, Cry](https://www.last.fm/music/Mazzy+Star/_/Cry,+Cry)** - Mazzy Star<br/>
+> ∙ **[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)** - The Cure<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
