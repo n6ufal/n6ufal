@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Dreams Burn Down - 2001 Remaster](https://www.last.fm/music/Ride/_/Dreams+Burn+Down+-+2001+Remaster)** - Ride<br/>
-> ∙ **[Joy](https://www.last.fm/music/The+Sundays/_/Joy)** - The Sundays<br/>
-> ∙ **[Liquid Paper](https://www.last.fm/music/Airiel/_/Liquid+Paper)** - Airiel<br/>
-> ∙ **[Cry, Cry](https://www.last.fm/music/Mazzy+Star/_/Cry,+Cry)** - Mazzy Star<br/>
-> ∙ **[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)** - The Cure<br/>
+> 🎶 **[A Forest](https://www.last.fm/music/The+Cure/_/A+Forest)** - The Cure<br/>
+> ∙ **[hai bby](https://www.last.fm/music/The+Bilinda+Butchers/_/hai+bby)** - The Bilinda Butchers<br/>
+> ∙ **[Take Everything](https://www.last.fm/music/Mazzy+Star/_/Take+Everything)** - Mazzy Star<br/>
+> ∙ **[Cry](https://www.last.fm/music/The+Sundays/_/Cry)** - The Sundays<br/>
+> ∙ **[Laputa](https://www.last.fm/music/Panchiko/_/Laputa)** - Panchiko<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
