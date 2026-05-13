@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[A Forest](https://www.last.fm/music/The+Cure/_/A+Forest)** - The Cure<br/>
-> ∙ **[hai bby](https://www.last.fm/music/The+Bilinda+Butchers/_/hai+bby)** - The Bilinda Butchers<br/>
-> ∙ **[Take Everything](https://www.last.fm/music/Mazzy+Star/_/Take+Everything)** - Mazzy Star<br/>
-> ∙ **[Cry](https://www.last.fm/music/The+Sundays/_/Cry)** - The Sundays<br/>
-> ∙ **[Laputa](https://www.last.fm/music/Panchiko/_/Laputa)** - Panchiko<br/>
+> ∙ **[When I'm Thinking About You](https://www.last.fm/music/The+Sundays/_/When+I%27m+Thinking+About+You)** - The Sundays<br/>
+> ∙ **[Celia's Dream](https://www.last.fm/music/Slowdive/_/Celia%27s+Dream)** - Slowdive<br/>
+> ∙ **[Dozen](https://www.last.fm/music/Alison%27s+Halo/_/Dozen)** - Alison's Halo<br/>
+> ∙ **[Falling Apart](https://www.last.fm/music/Slow+Pulp/_/Falling+Apart)** - Slow Pulp<br/>
+> ∙ **[In a Different Place - 2001 Remaster](https://www.last.fm/music/Ride/_/In+a+Different+Place+-+2001+Remaster)** - Ride<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
