@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[When I'm Thinking About You](https://www.last.fm/music/The+Sundays/_/When+I%27m+Thinking+About+You)** - The Sundays<br/>
-> ∙ **[Celia's Dream](https://www.last.fm/music/Slowdive/_/Celia%27s+Dream)** - Slowdive<br/>
-> ∙ **[Dozen](https://www.last.fm/music/Alison%27s+Halo/_/Dozen)** - Alison's Halo<br/>
-> ∙ **[Falling Apart](https://www.last.fm/music/Slow+Pulp/_/Falling+Apart)** - Slow Pulp<br/>
-> ∙ **[In a Different Place - 2001 Remaster](https://www.last.fm/music/Ride/_/In+a+Different+Place+-+2001+Remaster)** - Ride<br/>
+> 🎶 **[Halo](https://www.last.fm/music/Airiel/_/Halo)** - Airiel<br/>
+> ∙ **[Harmony](https://www.last.fm/music/Starflyer+59/_/Harmony)** - Starflyer 59<br/>
+> ∙ **[Breather](https://www.last.fm/music/Chapterhouse/_/Breather)** - Chapterhouse<br/>
+> ∙ **[I Won't Be Found](https://www.last.fm/music/Tamaryn/_/I+Won%27t+Be+Found)** - Tamaryn<br/>
+> ∙ **[Smokescreen](https://www.last.fm/music/Amusement+Parks+On+Fire/_/Smokescreen)** - Amusement Parks On Fire<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
