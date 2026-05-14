@@ -17,11 +17,11 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 🎵 **Recently played**
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Halo](https://www.last.fm/music/Airiel/_/Halo)** - Airiel<br/>
-> ∙ **[Harmony](https://www.last.fm/music/Starflyer+59/_/Harmony)** - Starflyer 59<br/>
-> ∙ **[Breather](https://www.last.fm/music/Chapterhouse/_/Breather)** - Chapterhouse<br/>
-> ∙ **[I Won't Be Found](https://www.last.fm/music/Tamaryn/_/I+Won%27t+Be+Found)** - Tamaryn<br/>
-> ∙ **[Smokescreen](https://www.last.fm/music/Amusement+Parks+On+Fire/_/Smokescreen)** - Amusement Parks On Fire<br/>
+> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
+> ∙ **[Depths](https://www.last.fm/music/Southpacific/_/Depths)** - Southpacific<br/>
+> ∙ **[pale](https://www.last.fm/music/Life+On+Venus/_/pale)** - Life On Venus<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Breathe](https://www.last.fm/music/Eternal/_/Breathe)** - Eternal<br/>
 <!--END_LASTFM_RECENT-->
 
 <div align="center">
