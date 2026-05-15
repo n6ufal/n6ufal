@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
-> ∙ **[Depths](https://www.last.fm/music/Southpacific/_/Depths)** - Southpacific<br/>
-> ∙ **[pale](https://www.last.fm/music/Life+On+Venus/_/pale)** - Life On Venus<br/>
+> 🎶 **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
 > ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[Breathe](https://www.last.fm/music/Eternal/_/Breathe)** - Eternal<br/>
+> ∙ **[The Breakup](https://www.last.fm/music/Fleeting+Joys/_/The+Breakup)** - Fleeting Joys<br/>
+> ∙ **[Summer Time](https://www.last.fm/music/+noredirect/Ringo+Deathstarr/_/Summer+Time)** - Ringo Deathstarr<br/>
+> ∙ **[Sweetness and Light](https://www.last.fm/music/Lush/_/Sweetness+and+Light)** - Lush<br/>
 <!--END_LASTFM_RECENT-->
 
 
