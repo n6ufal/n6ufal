@@ -9,7 +9,7 @@ A few things I've enjoyed building:
 | 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | Word game macro built around a 500k-word dictionary, bisect-optimized lookup, and human-like keystroke timing. |
 | 🧠 **[HEADSPACE](https://alifnaufal.me)** | Personal blog and knowledge dump — built with Hugo and hosted on GitHub Pages. |
 | 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | Personal configs for PowerShell, Starship, and everything else. |
-| 🤖 **[claude-user-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget that tracks Claude API usage in real time. |
+| 🤖 **[claude-usage-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget that tracks Claude API usage in real time. |
 
 ## ✍️ Latest from HEADSPACE
 <!-- blog-start -->
