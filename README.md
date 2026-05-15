@@ -4,9 +4,10 @@ I’ve been building and tinkering since I was a kid, and lately that’s carrie
 
 | Project | Description |
 | --- | --- |
-| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | A word game automation tool with a 470K-word dictionary and human-like keystroke simulation. |
-| 🧠 **[HEADSPACE](https://alifnaufal.me)** | Where I put things so I don't forget them |
-| 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | My personal config for shit and giggles |
+| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | Word game macro built around a 500k-word dictionary, bisect-optimized lookup, and human-like keystroke timing. |
+| 🧠 **[HEADSPACE](https://alifnaufal.me)** | Personal blog and knowledge dump. Writing, notes, and things worth remembering — built with Hugo, hosted on GitHub Pages. |
+| 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | Personal configs for PowerShell, Starship prompt, and whatever else I've broken and fixed since. |
+| 🤖 **[claude-user-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget that tracks Claude API usage in real time. |
 
 ✍️ **Latest from HEADSPACE**
 <!-- blog-start -->
