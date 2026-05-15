@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
+> 🎶 **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
 > ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
 > ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
 > ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
 > ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
