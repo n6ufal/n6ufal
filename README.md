@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
-> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> 🎶 **[Rusty Cage - Remastered 2016](https://www.last.fm/music/Soundgarden/_/Rusty+Cage+-+Remastered+2016)** - Soundgarden<br/>
+> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
+> ∙ **[Impact (with xaviersobased)](https://www.last.fm/music/nettspend/_/Impact+(with+xaviersobased))** - nettspend<br/>
+> ∙ **[double whammy (ss3bby yaridubz)](https://www.last.fm/music/xaviersobased/_/double+whammy+(ss3bby+yaridubz))** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
