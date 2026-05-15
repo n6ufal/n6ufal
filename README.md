@@ -27,13 +27,9 @@ A few things I've enjoyed building:
 > ∙ **[Sweetness and Light](https://www.last.fm/music/Lush/_/Sweetness+and+Light)** - Lush<br/>
 <!--END_LASTFM_RECENT-->
 
+## Around the web
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-alifnaufal.me-111?style=flat&logo=hugo&logoColor=white)](https://alifnaufal.me)
-[![Email](https://img.shields.io/badge/Email-alifnaufal%40duck.com-111?style=flat&logo=duckduckgo&logoColor=white)](mailto:alifnaufal@duck.com)
-[![Last.fm](https://img.shields.io/badge/Last.fm-alifnaufal-111?style=flat&logo=lastdotfm&logoColor=d51007)](https://www.last.fm/user/alifnaufal)
-[![Spotify](https://img.shields.io/badge/Spotify-profile-111?style=flat&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
-
-</div>
-</div>
+- 🌐 [alifnaufal.me](https://alifnaufal.me)
+- 📫 [alifnaufal@duck.com](mailto:alifnaufal@duck.com)
+- 🎵 [Last.fm](https://www.last.fm/user/alifnaufal)
+- 🎧 [Spotify](https://open.spotify.com/user/fjvvc8gihy2bj471qal9zrg6v)
