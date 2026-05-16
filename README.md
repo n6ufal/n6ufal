@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
-> ∙ **[Summertime](https://www.last.fm/music/The+Sundays/_/Summertime)** - The Sundays<br/>
-> ∙ **[Goodbye](https://www.last.fm/music/The+Sundays/_/Goodbye)** - The Sundays<br/>
-> ∙ **[fever](https://www.last.fm/music/Buckshot/_/fever)** - Buckshot<br/>
-> ∙ **[MAKKA](https://www.last.fm/music/fakemink/_/MAKKA)** - fakemink<br/>
+> ∙ **[I Been Young](https://www.last.fm/music/George+Clanton/_/I+Been+Young)** - George Clanton<br/>
+> ∙ **[Halah](https://www.last.fm/music/Mazzy+Star/_/Halah)** - Mazzy Star<br/>
+> ∙ **[I Feel](https://www.last.fm/music/The+Sundays/_/I+Feel)** - The Sundays<br/>
+> ∙ **[A Window](https://www.last.fm/music/The+Radio+Dept./_/A+Window)** - The Radio Dept.<br/>
+> ∙ **[Here's Where the Story Ends](https://www.last.fm/music/The+Sundays/_/Here%27s+Where+the+Story+Ends)** - The Sundays<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
