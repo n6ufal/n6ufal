@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[I Love It When You Cry (Moxoki) - Radio Edit](https://www.last.fm/music/Steve+Aoki/_/I+Love+It+When+You+Cry+(Moxoki)+-+Radio+Edit)** - Steve Aoki<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[I Drive A Lot](https://www.last.fm/music/Starflyer+59/_/I+Drive+A+Lot)** - Starflyer 59<br/>
-> ∙ **[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)** - Radiohead<br/>
+> ∙ **[Come Back to Earth](https://www.last.fm/music/Mac+Miller/_/Come+Back+to+Earth)** - Mac Miller<br/>
+> ∙ **[RUNNING OUT OF TIME](https://www.last.fm/music/Tyler,+The+Creator/_/RUNNING+OUT+OF+TIME)** - Tyler, The Creator<br/>
+> ∙ **[Pink + White](https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White)** - Frank Ocean<br/>
+> ∙ **[In My Room](https://www.last.fm/music/Frank+Ocean/_/In+My+Room)** - Frank Ocean<br/>
+> ∙ **[E. Coli (feat. Earl Sweatshirt)](https://www.last.fm/music/The+Alchemist/_/E.+Coli+(feat.+Earl+Sweatshirt))** - The Alchemist<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
