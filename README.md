@@ -13,9 +13,9 @@ A few things I've enjoyed building:
 
 ## ✍️ Latest from HEADSPACE
 <!-- blog-start -->
-- [What Happens When You Take a Word Game Too Seriously](https://alifnaufal.me/posts/letter-demon/) — May 16, 2026
+- [What Happens When You Take a Word Game Too Seriously](https://alifnaufal.me/posts/what-happens-when-you-take-a-word-game-too-seriously/) — May 16, 2026
 - [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
-- [Amor Fati](https://alifnaufal.me/posts/amor-fati/amor-fati/) — May 01, 2026
+- [Amor Fati](https://alifnaufal.me/posts/amor-fati/) — May 01, 2026
 <!-- blog-end -->
 
 ## 🎵 Recently played
