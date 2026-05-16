@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[I Been Young](https://www.last.fm/music/George+Clanton/_/I+Been+Young)** - George Clanton<br/>
-> ∙ **[Halah](https://www.last.fm/music/Mazzy+Star/_/Halah)** - Mazzy Star<br/>
-> ∙ **[I Feel](https://www.last.fm/music/The+Sundays/_/I+Feel)** - The Sundays<br/>
-> ∙ **[A Window](https://www.last.fm/music/The+Radio+Dept./_/A+Window)** - The Radio Dept.<br/>
-> ∙ **[Here's Where the Story Ends](https://www.last.fm/music/The+Sundays/_/Here%27s+Where+the+Story+Ends)** - The Sundays<br/>
+> 🎶 **[I Love It When You Cry (Moxoki) - Radio Edit](https://www.last.fm/music/Steve+Aoki/_/I+Love+It+When+You+Cry+(Moxoki)+-+Radio+Edit)** - Steve Aoki<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[I Drive A Lot](https://www.last.fm/music/Starflyer+59/_/I+Drive+A+Lot)** - Starflyer 59<br/>
+> ∙ **[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)** - Radiohead<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
