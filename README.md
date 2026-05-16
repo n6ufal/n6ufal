@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Come Back to Earth](https://www.last.fm/music/Mac+Miller/_/Come+Back+to+Earth)** - Mac Miller<br/>
-> ∙ **[RUNNING OUT OF TIME](https://www.last.fm/music/Tyler,+The+Creator/_/RUNNING+OUT+OF+TIME)** - Tyler, The Creator<br/>
-> ∙ **[Pink + White](https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White)** - Frank Ocean<br/>
-> ∙ **[In My Room](https://www.last.fm/music/Frank+Ocean/_/In+My+Room)** - Frank Ocean<br/>
-> ∙ **[E. Coli (feat. Earl Sweatshirt)](https://www.last.fm/music/The+Alchemist/_/E.+Coli+(feat.+Earl+Sweatshirt))** - The Alchemist<br/>
+> ∙ **[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)** - a-ha<br/>
+> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
