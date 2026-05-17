@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Heads Will Roll](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll)** - Yeah Yeah Yeahs<br/>
-> ∙ **[You Make It Easy](https://www.last.fm/music/Air/_/You+Make+It+Easy)** - Air<br/>
-> ∙ **[Cirrus](https://www.last.fm/music/Bonobo/_/Cirrus)** - Bonobo<br/>
-> ∙ **[Wide Open](https://www.last.fm/music/The+Chemical+Brothers/_/Wide+Open)** - The Chemical Brothers<br/>
-> ∙ **[Right Here, Right Now](https://www.last.fm/music/Fatboy+Slim/_/Right+Here,+Right+Now)** - Fatboy Slim<br/>
+> 🎶 **[Sure Thing](https://www.last.fm/music/St.+Germain/_/Sure+Thing)** - St. Germain<br/>
+> ∙ **[Missing](https://www.last.fm/music/Everything+But+the+Girl/_/Missing)** - Everything But the Girl<br/>
+> ∙ **[A Real Hero](https://www.last.fm/music/Electric+Youth/_/A+Real+Hero)** - Electric Youth<br/>
+> ∙ **[Asleep From Day](https://www.last.fm/music/The+Chemical+Brothers/_/Asleep+From+Day)** - The Chemical Brothers<br/>
+> ∙ **[Hurt](https://www.last.fm/music/Nine+Inch+Nails/_/Hurt)** - Nine Inch Nails<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
