@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Hayling - feat. Hafdís Huld](https://www.last.fm/music/FC+Kahuna/_/Hayling+-+feat.+Hafd%C3%ADs+Huld)** - FC Kahuna<br/>
-> ∙ **[Sadeness - Pt. 1 / Radio Edit](https://www.last.fm/music/Enigma/_/Sadeness+-+Pt.+1+%2F+Radio+Edit)** - Enigma<br/>
-> ∙ **[Protection](https://www.last.fm/music/Massive+Attack/_/Protection)** - Massive Attack<br/>
-> ∙ **[All I Need (feat. Beth Hirsch)](https://www.last.fm/music/Air/_/All+I+Need+(feat.+Beth+Hirsch))** - Air<br/>
-> ∙ **[Les Nuits](https://www.last.fm/music/Nightmares+on+Wax/_/Les+Nuits)** - Nightmares on Wax<br/>
+> 🎶 **[Heads Will Roll](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll)** - Yeah Yeah Yeahs<br/>
+> ∙ **[You Make It Easy](https://www.last.fm/music/Air/_/You+Make+It+Easy)** - Air<br/>
+> ∙ **[Cirrus](https://www.last.fm/music/Bonobo/_/Cirrus)** - Bonobo<br/>
+> ∙ **[Wide Open](https://www.last.fm/music/The+Chemical+Brothers/_/Wide+Open)** - The Chemical Brothers<br/>
+> ∙ **[Right Here, Right Now](https://www.last.fm/music/Fatboy+Slim/_/Right+Here,+Right+Now)** - Fatboy Slim<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
