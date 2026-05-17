@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Face to Face](https://www.last.fm/music/Daft+Punk/_/Face+to+Face)** - Daft Punk<br/>
-> ∙ **[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)** - Daft Punk<br/>
-> ∙ **[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)** - Daft Punk<br/>
-> ∙ **[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)** - Daft Punk<br/>
-> ∙ **[Something About Us](https://www.last.fm/music/Daft+Punk/_/Something+About+Us)** - Daft Punk<br/>
+> ∙ **[Blow Out](https://www.last.fm/music/Radiohead/_/Blow+Out)** - Radiohead<br/>
+> ∙ **[Drown](https://www.last.fm/music/The+Smashing+Pumpkins/_/Drown)** - The Smashing Pumpkins<br/>
+> ∙ **[Plush](https://www.last.fm/music/Stone+Temple+Pilots/_/Plush)** - Stone Temple Pilots<br/>
+> ∙ **[Acknowledgement](https://www.last.fm/music/Modjo/_/Acknowledgement)** - Modjo<br/>
+> ∙ **[Pacific Coast Highway](https://www.last.fm/music/Kavinsky/_/Pacific+Coast+Highway)** - Kavinsky<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
