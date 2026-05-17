@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Caribbean Blue - 2009 Remaster](https://www.last.fm/music/Enya/_/Caribbean+Blue+-+2009+Remaster)** - Enya<br/>
-> ∙ **[La femme d'argent](https://www.last.fm/music/Air/_/La+femme+d%27argent)** - Air<br/>
-> ∙ **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - Grimes<br/>
-> ∙ **[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)** - The Smiths<br/>
-> ∙ **[One Too Many Mornings](https://www.last.fm/music/The+Chemical+Brothers/_/One+Too+Many+Mornings)** - The Chemical Brothers<br/>
+> 🎶 **[Hayling - feat. Hafdís Huld](https://www.last.fm/music/FC+Kahuna/_/Hayling+-+feat.+Hafd%C3%ADs+Huld)** - FC Kahuna<br/>
+> ∙ **[Sadeness - Pt. 1 / Radio Edit](https://www.last.fm/music/Enigma/_/Sadeness+-+Pt.+1+%2F+Radio+Edit)** - Enigma<br/>
+> ∙ **[Protection](https://www.last.fm/music/Massive+Attack/_/Protection)** - Massive Attack<br/>
+> ∙ **[All I Need (feat. Beth Hirsch)](https://www.last.fm/music/Air/_/All+I+Need+(feat.+Beth+Hirsch))** - Air<br/>
+> ∙ **[Les Nuits](https://www.last.fm/music/Nightmares+on+Wax/_/Les+Nuits)** - Nightmares on Wax<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
