@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Lions in the Wild](https://www.last.fm/music/Martin+Garrix/_/Lions+in+the+Wild)** - Martin Garrix<br/>
-> ∙ **[Spirit Desire](https://www.last.fm/music/Tigers+Jaw/_/Spirit+Desire)** - Tigers Jaw<br/>
-> ∙ **[You Know I Should Be Leaving Soon](https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving+Soon)** - American Football<br/>
+> 🎶 **[Wild Horses](https://www.last.fm/music/The+Sundays/_/Wild+Horses)** - The Sundays<br/>
+> ∙ **[Life Goes On](https://www.last.fm/music/The+Sundays/_/Life+Goes+On)** - The Sundays<br/>
+> ∙ **[Summertime](https://www.last.fm/music/The+Sundays/_/Summertime)** - The Sundays<br/>
+> ∙ **[You're Not the Only One I Know](https://www.last.fm/music/The+Sundays/_/You%27re+Not+the+Only+One+I+Know)** - The Sundays<br/>
+> ∙ **[Here's Where the Story Ends](https://www.last.fm/music/The+Sundays/_/Here%27s+Where+the+Story+Ends)** - The Sundays<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
