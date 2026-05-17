@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[WIRED](https://www.last.fm/music/Basement/_/WIRED)** - Basement<br/>
+> ∙ **[Spirit Desire](https://www.last.fm/music/Tigers+Jaw/_/Spirit+Desire)** - Tigers Jaw<br/>
+> ∙ **[You Know I Should Be Leaving Soon](https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving+Soon)** - American Football<br/>
+> ∙ **[The Summer](https://www.last.fm/music/Citizen/_/The+Summer)** - Citizen<br/>
+> ∙ **[WIRED](https://www.last.fm/music/Basement/_/WIRED)** - Basement<br/>
 > ∙ **[Forty Hour Suit](https://www.last.fm/music/Train+Breaks+Down/_/Forty+Hour+Suit)** - Train Breaks Down<br/>
-> ∙ **[Drown](https://www.last.fm/music/Microwave/_/Drown)** - Microwave<br/>
-> ∙ **[Footfalls](https://www.last.fm/music/my+point+of+you/_/Footfalls)** - my point of you<br/>
-> ∙ **[Follows](https://www.last.fm/music/Tigers+Jaw/_/Follows)** - Tigers Jaw<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
