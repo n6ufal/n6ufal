@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> ∙ **[Slomo](https://www.last.fm/music/Slowdive/_/Slomo)** - Slowdive<br/>
-> ∙ **[Take My Head](https://www.last.fm/music/Turnover/_/Take+My+Head)** - Turnover<br/>
-> ∙ **[Lost](https://www.last.fm/music/Autumn%27s+Grey+Solace/_/Lost)** - Autumn's Grey Solace<br/>
-> ∙ **[I Have The Moon](https://www.last.fm/music/Lush/_/I+Have+The+Moon)** - Lush<br/>
-> ∙ **[A Better Life Since](https://www.last.fm/music/Southpacific/_/A+Better+Life+Since)** - Southpacific<br/>
+> 🎶 **[WIRED](https://www.last.fm/music/Basement/_/WIRED)** - Basement<br/>
+> ∙ **[Forty Hour Suit](https://www.last.fm/music/Train+Breaks+Down/_/Forty+Hour+Suit)** - Train Breaks Down<br/>
+> ∙ **[Drown](https://www.last.fm/music/Microwave/_/Drown)** - Microwave<br/>
+> ∙ **[Footfalls](https://www.last.fm/music/my+point+of+you/_/Footfalls)** - my point of you<br/>
+> ∙ **[Follows](https://www.last.fm/music/Tigers+Jaw/_/Follows)** - Tigers Jaw<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
