@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Unfinished Sympathy](https://www.last.fm/music/Massive+Attack/_/Unfinished+Sympathy)** - Massive Attack<br/>
-> ∙ **[Bitter Sweet Symphony - Remastered 2016](https://www.last.fm/music/The+Verve/_/Bitter+Sweet+Symphony+-+Remastered+2016)** - The Verve<br/>
-> ∙ **[Teardrop](https://www.last.fm/music/Massive+Attack/_/Teardrop)** - Massive Attack<br/>
-> ∙ **[Can't Be Sure - Demo](https://www.last.fm/music/The+Sundays/_/Can%27t+Be+Sure+-+Demo)** - The Sundays<br/>
-> ∙ **[Cry](https://www.last.fm/music/The+Sundays/_/Cry)** - The Sundays<br/>
+> 🎶 **[Star Guitar](https://www.last.fm/music/The+Chemical+Brothers/_/Star+Guitar)** - The Chemical Brothers<br/>
+> ∙ **[Untitled](https://www.last.fm/music/Interpol/_/Untitled)** - Interpol<br/>
+> ∙ **[Terrapin](https://www.last.fm/music/Bonobo/_/Terrapin)** - Bonobo<br/>
+> ∙ **[The Killing Moon](https://www.last.fm/music/Echo+&+the+Bunnymen/_/The+Killing+Moon)** - Echo & the Bunnymen<br/>
+> ∙ **[Playground Love (With Gordon Tracks)](https://www.last.fm/music/+noredirect/Air/_/Playground+Love+(With+Gordon+Tracks))** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
