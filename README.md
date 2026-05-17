@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Sure Thing](https://www.last.fm/music/St.+Germain/_/Sure+Thing)** - St. Germain<br/>
-> ∙ **[Missing](https://www.last.fm/music/Everything+But+the+Girl/_/Missing)** - Everything But the Girl<br/>
-> ∙ **[A Real Hero](https://www.last.fm/music/Electric+Youth/_/A+Real+Hero)** - Electric Youth<br/>
-> ∙ **[Asleep From Day](https://www.last.fm/music/The+Chemical+Brothers/_/Asleep+From+Day)** - The Chemical Brothers<br/>
-> ∙ **[Hurt](https://www.last.fm/music/Nine+Inch+Nails/_/Hurt)** - Nine Inch Nails<br/>
+> 🎶 **[Face to Face](https://www.last.fm/music/Daft+Punk/_/Face+to+Face)** - Daft Punk<br/>
+> ∙ **[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)** - Daft Punk<br/>
+> ∙ **[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)** - Daft Punk<br/>
+> ∙ **[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)** - Daft Punk<br/>
+> ∙ **[Something About Us](https://www.last.fm/music/Daft+Punk/_/Something+About+Us)** - Daft Punk<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
