@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
-> 🎶 **[Liquid Paper](https://www.last.fm/music/Airiel/_/Liquid+Paper)** - Airiel<br/>
+> 🎶 **[Love](https://www.last.fm/music/The+Sundays/_/Love)** - The Sundays<br/>
+> ∙ **[Blue Light](https://www.last.fm/music/Mazzy+Star/_/Blue+Light)** - Mazzy Star<br/>
+> ∙ **[Liquid Paper](https://www.last.fm/music/Airiel/_/Liquid+Paper)** - Airiel<br/>
 > ∙ **[What Will Give](https://www.last.fm/music/The+Radio+Dept./_/What+Will+Give)** - The Radio Dept.<br/>
 > ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/_/Daylight+Storms)** - Air Formation<br/>
-> ∙ **[Ravestar Supreme](https://www.last.fm/music/Pinkshinyultrablast/_/Ravestar+Supreme)** - Pinkshinyultrablast<br/>
-> ∙ **[Slowdive](https://www.last.fm/music/Slowdive/_/Slowdive)** - Slowdive<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
