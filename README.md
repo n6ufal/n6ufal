@@ -20,11 +20,11 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 5}-->
+> 🎶 **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Lions in the Wild](https://www.last.fm/music/Martin+Garrix/_/Lions+in+the+Wild)** - Martin Garrix<br/>
 > ∙ **[Spirit Desire](https://www.last.fm/music/Tigers+Jaw/_/Spirit+Desire)** - Tigers Jaw<br/>
 > ∙ **[You Know I Should Be Leaving Soon](https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving+Soon)** - American Football<br/>
-> ∙ **[The Summer](https://www.last.fm/music/Citizen/_/The+Summer)** - Citizen<br/>
-> ∙ **[WIRED](https://www.last.fm/music/Basement/_/WIRED)** - Basement<br/>
-> ∙ **[Forty Hour Suit](https://www.last.fm/music/Train+Breaks+Down/_/Forty+Hour+Suit)** - Train Breaks Down<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
