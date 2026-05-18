@@ -1,4 +1,4 @@
-name: Update README to fetch HEADSPACE
+name: Update README to fetch alifnaufal
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch RSS feed
         run: curl -s https://alifnaufal.me/index.xml > feed.xml
-      - name: Fetch latest HEADSPACE post
+      - name: Fetch latest alifnaufal posts
         id: blog
         run: python3 scripts/fetch_blog.py >> $GITHUB_OUTPUT
       - name: Fetch GitHub repos

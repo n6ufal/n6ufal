@@ -7,11 +7,11 @@ A few things I've enjoyed building:
 | Project | Description |
 | --- | --- |
 | 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | Word game macro built around a 500k-word dictionary, bisect-optimized lookup, and human-like keystroke timing. |
-| 🧠 **[HEADSPACE](https://alifnaufal.me)** | Personal blog and knowledge dump — built with Hugo and hosted on GitHub Pages. |
+| 🧠 **[alifnaufal.me](https://alifnaufal.me)** | Personal blog and knowledge dump — built with Hugo and hosted on GitHub Pages. |
 | 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | Personal configs for PowerShell, Starship, and everything else. |
 | 🤖 **[claude-usage-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget that tracks Claude API usage in real time. |
 
-## ✍️ Latest from HEADSPACE
+## ✍️ Latest from blog
 <!-- blog-start -->
 - [What Happens When You Take a Word Game Too Seriously](https://alifnaufal.me/posts/what-happens-when-you-take-a-word-game-too-seriously/) — May 16, 2026
 - [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
