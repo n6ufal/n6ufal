@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Bound For The Floor](https://www.last.fm/music/Local+H/_/Bound+For+The+Floor)** - Local H<br/>
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[Mr. Brightside](https://www.last.fm/music/The+Killers/_/Mr.+Brightside)** - The Killers<br/>
+> 🎶 **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
