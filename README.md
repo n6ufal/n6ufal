@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Sugar for the Pill](https://www.last.fm/music/Slowdive/_/Sugar+for+the+Pill)** - Slowdive<br/>
-> ∙ **[Ontario Gothic](https://www.last.fm/music/Foxes+in+Fiction/_/Ontario+Gothic)** - Foxes in Fiction<br/>
-> ∙ **[Summers Gone](https://www.last.fm/music/An+April+March/_/Summers+Gone)** - An April March<br/>
+> ∙ **[Frou-Frou Foxes in Midsummer Fires](https://www.last.fm/music/Cocteau+Twins/_/Frou-Frou+Foxes+in+Midsummer+Fires)** - Cocteau Twins<br/>
+> ∙ **[Tastes Like Honey](https://www.last.fm/music/Swallow/_/Tastes+Like+Honey)** - Swallow<br/>
+> ∙ **[Only Heather](https://www.last.fm/music/Wild+Nothing/_/Only+Heather)** - Wild Nothing<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
