@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sleeping In](https://www.last.fm/music/The+Radio+Dept./_/Sleeping+In)** - The Radio Dept.<br/>
-> ∙ **[Cranekiss](https://www.last.fm/music/Tamaryn/_/Cranekiss)** - Tamaryn<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> 🎶 **[Sugar for the Pill](https://www.last.fm/music/Slowdive/_/Sugar+for+the+Pill)** - Slowdive<br/>
+> ∙ **[Ontario Gothic](https://www.last.fm/music/Foxes+in+Fiction/_/Ontario+Gothic)** - Foxes in Fiction<br/>
+> ∙ **[Summers Gone](https://www.last.fm/music/An+April+March/_/Summers+Gone)** - An April March<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
