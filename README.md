@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Healthy Moon](https://www.last.fm/music/DIIV/_/Healthy+Moon)** - DIIV<br/>
-> ∙ **[Frou-Frou Foxes in Midsummer Fires](https://www.last.fm/music/Cocteau+Twins/_/Frou-Frou+Foxes+in+Midsummer+Fires)** - Cocteau Twins<br/>
-> ∙ **[Tastes Like Honey](https://www.last.fm/music/Swallow/_/Tastes+Like+Honey)** - Swallow<br/>
+> 🎶 **[Leave](https://www.last.fm/music/Whirr/_/Leave)** - Whirr<br/>
+> ∙ **[Blue Lotus](https://www.last.fm/music/Southpacific/_/Blue+Lotus)** - Southpacific<br/>
+> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
