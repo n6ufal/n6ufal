@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Walking on a Dream](https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream)** - Empire of the Sun<br/>
-> ∙ **[Someday](https://www.last.fm/music/The+Strokes/_/Someday)** - The Strokes<br/>
-> ∙ **[Tongue Tied](https://www.last.fm/music/Grouplove/_/Tongue+Tied)** - Grouplove<br/>
+> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
+> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
