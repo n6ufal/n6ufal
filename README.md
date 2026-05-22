@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[I'm Your Dirt, I'm Your Love](https://www.last.fm/music/Yung+Lean/_/I%27m+Your+Dirt,+I%27m+Your+Love)** - Yung Lean<br/>
-> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
-> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
+> ∙ **[Sugarfix](https://www.last.fm/music/Tamaryn/_/Sugarfix)** - Tamaryn<br/>
+> ∙ **[Get Away](https://www.last.fm/music/Yuck/_/Get+Away)** - Yuck<br/>
+> ∙ **[Crumble](https://www.last.fm/music/Dinosaur+Jr./_/Crumble)** - Dinosaur Jr.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
