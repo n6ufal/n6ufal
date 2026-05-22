@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Kiss Me](https://www.last.fm/music/Sixpence+None+the+Richer/_/Kiss+Me)** - Sixpence None the Richer<br/>
-> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
-> ∙ **[Is It Really You?](https://www.last.fm/music/Loathe/_/Is+It+Really+You%3F)** - Loathe<br/>
+> 🎶 **[I'm Your Dirt, I'm Your Love](https://www.last.fm/music/Yung+Lean/_/I%27m+Your+Dirt,+I%27m+Your+Love)** - Yung Lean<br/>
+> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
+> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
