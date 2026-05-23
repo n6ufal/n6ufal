@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Quiet, The Winter Harbor](https://www.last.fm/music/Mazzy+Star/_/Quiet,+The+Winter+Harbor)** - Mazzy Star<br/>
-> ∙ **[Sugarfix](https://www.last.fm/music/Tamaryn/_/Sugarfix)** - Tamaryn<br/>
-> ∙ **[Get Away](https://www.last.fm/music/Yuck/_/Get+Away)** - Yuck<br/>
+> ∙ **[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)** - The Strokes<br/>
+> ∙ **[Sunday](https://www.last.fm/music/The+Cranberries/_/Sunday)** - The Cranberries<br/>
+> ∙ **[Sweet Disposition](https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition)** - The Temper Trap<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
