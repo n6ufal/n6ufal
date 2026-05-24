@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Everlong](https://www.last.fm/music/Foo+Fighters/_/Everlong)** - Foo Fighters<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[The Perfect Girl](https://www.last.fm/music/Mareux/_/The+Perfect+Girl)** - Mareux<br/>
+> ∙ **[Plush](https://www.last.fm/music/Stone+Temple+Pilots/_/Plush)** - Stone Temple Pilots<br/>
+> ∙ **[My Own Worst Enemy](https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy)** - Lit<br/>
+> ∙ **[Everlong](https://www.last.fm/music/Foo+Fighters/_/Everlong)** - Foo Fighters<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
