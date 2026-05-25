@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[The Boy](https://www.last.fm/music/The+Smashing+Pumpkins/_/The+Boy)** - The Smashing Pumpkins<br/>
 > ∙ **[A New Kind Of Love - Demo](https://www.last.fm/music/Frou+Frou/_/A+New+Kind+Of+Love+-+Demo)** - Frou Frou<br/>
-> ∙ **[Smoke The Weed (feat. Collie Buddz)](https://www.last.fm/music/Snoop+Lion/_/Smoke+The+Weed+(feat.+Collie+Buddz))** - Snoop Lion<br/>
-> ∙ **[Big Shot Cream Soda](https://www.last.fm/music/$uicideboy$/_/Big+Shot+Cream+Soda)** - $uicideboy$<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
