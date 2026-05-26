@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[The Boy](https://www.last.fm/music/The+Smashing+Pumpkins/_/The+Boy)** - The Smashing Pumpkins<br/>
-> ∙ **[A New Kind Of Love - Demo](https://www.last.fm/music/Frou+Frou/_/A+New+Kind+Of+Love+-+Demo)** - Frou Frou<br/>
+> 🎶 **[Pennies - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/Pennies+-+Remastered+2012)** - The Smashing Pumpkins<br/>
+> ∙ **[Always A Relief](https://www.last.fm/music/The+Radio+Dept./_/Always+A+Relief)** - The Radio Dept.<br/>
+> ∙ **[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)** - Mazzy Star<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
