@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Lady - Hear me tonight](https://www.last.fm/music/+noredirect/Modjo/_/Lady+-+Hear+me+tonight)** - Modjo<br/>
-> ∙ **[Music Sounds Better With You](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You)** - Stardust<br/>
-> ∙ **[Call On Me - Radio Mix](https://www.last.fm/music/Eric+Prydz/_/Call+On+Me+-+Radio+Mix)** - Eric Prydz<br/>
+> ∙ **[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)** - The Strokes<br/>
+> ∙ **[December (again) [feat. Mark Hoppus]](https://www.last.fm/music/Neck+Deep/_/December+(again)+%5Bfeat.+Mark+Hoppus%5D)** - Neck Deep<br/>
+> ∙ **[Merah](https://www.last.fm/music/Monkey+To+Millionaire/_/Merah)** - Monkey To Millionaire<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
