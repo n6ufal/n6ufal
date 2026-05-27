@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)** - The Strokes<br/>
-> ∙ **[December (again) [feat. Mark Hoppus]](https://www.last.fm/music/Neck+Deep/_/December+(again)+%5Bfeat.+Mark+Hoppus%5D)** - Neck Deep<br/>
-> ∙ **[Merah](https://www.last.fm/music/Monkey+To+Millionaire/_/Merah)** - Monkey To Millionaire<br/>
+> ∙ **[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)** - The Smiths<br/>
+> ∙ **[I'm God](https://www.last.fm/music/Clams+Casino/_/I%27m+God)** - Clams Casino<br/>
+> ∙ **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - Empire of the Sun<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
