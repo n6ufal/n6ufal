@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Trigger Hippie](https://www.last.fm/music/Morcheeba/_/Trigger+Hippie)** - Morcheeba<br/>
 > ∙ **[Unfinished Sympathy - 2012 Mix/Master](https://www.last.fm/music/+noredirect/Massive+Attack/_/Unfinished+Sympathy+-+2012+Mix%2FMaster)** - Massive Attack<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
