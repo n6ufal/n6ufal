@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Porcelain](https://www.last.fm/music/Moby/_/Porcelain)** - Moby<br/>
-> ∙ **[Sadeness - Pt. 1 / Radio Edit](https://www.last.fm/music/Enigma/_/Sadeness+-+Pt.+1+%2F+Radio+Edit)** - Enigma<br/>
-> ∙ **[Talisman](https://www.last.fm/music/Air/_/Talisman)** - Air<br/>
+> ∙ **[Unfinished Sympathy - 2012 Mix/Master](https://www.last.fm/music/+noredirect/Massive+Attack/_/Unfinished+Sympathy+-+2012+Mix%2FMaster)** - Massive Attack<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
