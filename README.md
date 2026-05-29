@@ -13,9 +13,9 @@ A few things I've enjoyed building:
 
 ## ✍️ Latest from blog
 <!-- blog-start -->
+- [Understanding Isn’t Agreement](https://alifnaufal.me/posts/understanding-isnt-agreement/) — May 29, 2026
 - [The Quiet Courage of Coming Back](https://alifnaufal.me/posts/the-quiet-courage-of-coming-back/) — May 19, 2026
 - [What Happens When You Take a Word Game Too Seriously](https://alifnaufal.me/posts/what-happens-when-you-take-a-word-game-too-seriously/) — May 16, 2026
-- [Do you remember your lucky number?](https://alifnaufal.me/posts/do-you-remember-your-lucky-number/) — May 02, 2026
 <!-- blog-end -->
 
 ## 🎵 Recently played
