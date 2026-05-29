@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)** - Cult Member<br/>
-> ∙ **[BIOS](https://www.last.fm/music/Zorrovian/_/BIOS)** - Zorrovian<br/>
-> ∙ **[Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)** - Trashiii<br/>
+> ∙ **[Hood Rat Messiah](https://www.last.fm/music/Dikembe/_/Hood+Rat+Messiah)** - Dikembe<br/>
+> ∙ **[The Night I Drove Alone](https://www.last.fm/music/Citizen/_/The+Night+I+Drove+Alone)** - Citizen<br/>
+> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
