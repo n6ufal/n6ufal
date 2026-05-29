@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Hood Rat Messiah](https://www.last.fm/music/Dikembe/_/Hood+Rat+Messiah)** - Dikembe<br/>
-> ∙ **[The Night I Drove Alone](https://www.last.fm/music/Citizen/_/The+Night+I+Drove+Alone)** - Citizen<br/>
-> ∙ **[For Sure](https://www.last.fm/music/American+Football/_/For+Sure)** - American Football<br/>
+> ∙ **[Colorblind](https://www.last.fm/music/Movements/_/Colorblind)** - Movements<br/>
+> ∙ **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
+> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
