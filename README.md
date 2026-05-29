@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Lisztomania](https://www.last.fm/music/Phoenix/_/Lisztomania)** - Phoenix<br/>
-> ∙ **[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)** - The Strokes<br/>
-> ∙ **[Chances](https://www.last.fm/music/The+Strokes/_/Chances)** - The Strokes<br/>
+> 🎶 **[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)** - Cult Member<br/>
+> ∙ **[BIOS](https://www.last.fm/music/Zorrovian/_/BIOS)** - Zorrovian<br/>
+> ∙ **[Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)** - Trashiii<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
