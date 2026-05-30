@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Daylily](https://www.last.fm/music/Movements/_/Daylily)** - Movements<br/>
-> ∙ **[Colorblind](https://www.last.fm/music/Movements/_/Colorblind)** - Movements<br/>
-> ∙ **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
+> 🎶 **[Lefty](https://www.last.fm/music/Title+Fight/_/Lefty)** - Title Fight<br/>
+> ∙ **[Lefty](https://www.last.fm/music/Title+Fight/_/Lefty)** - Title Fight<br/>
+> ∙ **[The Summer Ends](https://www.last.fm/music/American+Football/_/The+Summer+Ends)** - American Football<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
