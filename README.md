@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> 🎶 **[Daylily](https://www.last.fm/music/Movements/_/Daylily)** - Movements<br/>
 > ∙ **[Colorblind](https://www.last.fm/music/Movements/_/Colorblind)** - Movements<br/>
 > ∙ **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
-> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
