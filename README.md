@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Slomo](https://www.last.fm/music/Slowdive/_/Slomo)** - Slowdive<br/>
-> ∙ **[Know Who You Are At Every Age - Remastered 2024](https://www.last.fm/music/Cocteau+Twins/_/Know+Who+You+Are+At+Every+Age+-+Remastered+2024)** - Cocteau Twins<br/>
-> ∙ **[Lies in the eyes of love](https://www.last.fm/music/Part+Time/_/Lies+in+the+eyes+of+love)** - Part Time<br/>
+> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
+> ∙ **[rinsed](https://www.last.fm/music/Dean+Blunt/_/rinsed)** - Dean Blunt<br/>
+> ∙ **[Dozen](https://www.last.fm/music/Alison%27s+Halo/_/Dozen)** - Alison's Halo<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
