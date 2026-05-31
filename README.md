@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Colorblind](https://www.last.fm/music/Movements/_/Colorblind)** - Movements<br/>
-> ∙ **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
-> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
+> ∙ **[Another High](https://www.last.fm/music/Snow+Strippers/_/Another+High)** - Snow Strippers<br/>
+> ∙ **[Braces](https://www.last.fm/music/fakemink/_/Braces)** - fakemink<br/>
+> ∙ **[Milk & Honey .](https://www.last.fm/music/fakemink/_/Milk+&+Honey+.)** - fakemink<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
