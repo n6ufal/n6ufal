@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[rinsed](https://www.last.fm/music/Dean+Blunt/_/rinsed)** - Dean Blunt<br/>
-> ∙ **[Dozen](https://www.last.fm/music/Alison%27s+Halo/_/Dozen)** - Alison's Halo<br/>
+> ∙ **[Colorblind](https://www.last.fm/music/Movements/_/Colorblind)** - Movements<br/>
+> ∙ **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
+> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
