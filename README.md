@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
-> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
-> ∙ **[Liverpool](https://www.last.fm/music/Zukovstheworld/_/Liverpool)** - Zukovstheworld<br/>
+> 🎶 **[Blue Light](https://www.last.fm/music/Mazzy+Star/_/Blue+Light)** - Mazzy Star<br/>
+> ∙ **[Iceblink Luck](https://www.last.fm/music/Cocteau+Twins/_/Iceblink+Luck)** - Cocteau Twins<br/>
+> ∙ **[Space Age Love Song](https://www.last.fm/music/A+Flock+of+Seagulls/_/Space+Age+Love+Song)** - A Flock of Seagulls<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
