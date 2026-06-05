@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Last You Heard Of Me](https://www.last.fm/music/Joyce+Manor/_/Last+You+Heard+Of+Me)** - Joyce Manor<br/>
-> ∙ **[How Does It Feel?](https://www.last.fm/music/Citizen/_/How+Does+It+Feel%3F)** - Citizen<br/>
-> ∙ **[Hatchet](https://www.last.fm/music/Movements/_/Hatchet)** - Movements<br/>
+> ∙ **[Speaking With a Ghost](https://www.last.fm/music/Citizen/_/Speaking+With+a+Ghost)** - Citizen<br/>
+> ∙ **[In April](https://www.last.fm/music/Anxious/_/In+April)** - Anxious<br/>
+> ∙ **[Death Cup](https://www.last.fm/music/Mom+Jeans./_/Death+Cup)** - Mom Jeans.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
