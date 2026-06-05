@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sometimes](https://www.last.fm/music/my+bloody+valentine/_/Sometimes)** - my bloody valentine<br/>
-> ∙ **[Night Drive](https://www.last.fm/music/Part+Time/_/Night+Drive)** - Part Time<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> 🎶 **[Last You Heard Of Me](https://www.last.fm/music/Joyce+Manor/_/Last+You+Heard+Of+Me)** - Joyce Manor<br/>
+> ∙ **[How Does It Feel?](https://www.last.fm/music/Citizen/_/How+Does+It+Feel%3F)** - Citizen<br/>
+> ∙ **[Hatchet](https://www.last.fm/music/Movements/_/Hatchet)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
