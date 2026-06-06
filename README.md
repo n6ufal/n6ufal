@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[The Reason](https://www.last.fm/music/Hoobastank/_/The+Reason)** - Hoobastank<br/>
-> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
-> ∙ **[In Too Deep](https://www.last.fm/music/Sum+41/_/In+Too+Deep)** - Sum 41<br/>
+> 🎶 **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
+> ∙ **[Fashion Killa](https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa)** - A$AP Rocky<br/>
+> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
