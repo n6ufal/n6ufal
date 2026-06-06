@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
-> ∙ **[Fashion Killa](https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa)** - A$AP Rocky<br/>
-> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Doomsday](https://www.last.fm/music/MF+DOOM/_/Doomsday)** - MF DOOM<br/>
+> ∙ **[All of the Lights](https://www.last.fm/music/Kanye+West/_/All+of+the+Lights)** - Kanye West<br/>
+> ∙ **[Life Is Good (feat. Drake)](https://www.last.fm/music/Future/_/Life+Is+Good+(feat.+Drake))** - Future<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
