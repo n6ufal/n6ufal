@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Speaking With a Ghost](https://www.last.fm/music/Citizen/_/Speaking+With+a+Ghost)** - Citizen<br/>
-> ∙ **[In April](https://www.last.fm/music/Anxious/_/In+April)** - Anxious<br/>
-> ∙ **[Death Cup](https://www.last.fm/music/Mom+Jeans./_/Death+Cup)** - Mom Jeans.<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
