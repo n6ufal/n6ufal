@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[The Reason](https://www.last.fm/music/Hoobastank/_/The+Reason)** - Hoobastank<br/>
+> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
+> ∙ **[In Too Deep](https://www.last.fm/music/Sum+41/_/In+Too+Deep)** - Sum 41<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
