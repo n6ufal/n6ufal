@@ -81,8 +81,7 @@ jobs:
           BLOG_LINK_3: ${{ needs.fetch-blog.outputs.BLOG_LINK_3 }}
           BLOG_DATE_3: ${{ needs.fetch-blog.outputs.BLOG_DATE_3 }}
           TOP_LANGS: ${{ needs.fetch-repos.outputs.TOP_LANGS }}
-          STREAK: ${{ needs.fetch-streak.outputs.STREAK }}
-          STREAK_NUM: ${{ needs.fetch-streak.outputs.STREAK_NUM }}
+          # STREAK disabled
         run: python3 scripts/update_readme.py --readme README.md
       - name: Validate README
         run: |
@@ -94,10 +93,7 @@ jobs:
             echo "ERROR: blog section markers missing from README.md" >&2
             exit 1
           fi
-          if ! grep -q '<!-- streak-start -->' README.md; then
-            echo "ERROR: streak section markers missing from README.md" >&2
-            exit 1
-          fi
+
       - name: Commit if changed
         run: |
           git config --local user.email "action@github.com"
