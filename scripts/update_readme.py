@@ -41,11 +41,12 @@ def build_blog_section() -> str:
 
 def replace_section(content: str, marker: str, replacement: str) -> str:
     pattern = rf'(<!-- {marker}-start -->).*?(<!-- {marker}-end -->)'
-    def _replacer(m):
-        inline = '\n' not in m.group(0)
-        sep = '' if inline else '\n'
-        return f"{m.group(1)}{sep}{replacement}{sep}{m.group(2)}"
-    return re.sub(pattern, _replacer, content, flags=re.DOTALL)
+    return re.sub(
+        pattern,
+        lambda m: f"{m.group(1)}\n{replacement}\n{m.group(2)}",
+        content,
+        flags=re.DOTALL
+    )
 
 
 def main() -> None:

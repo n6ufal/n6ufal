@@ -25,8 +25,6 @@ A few things I've enjoyed building:
 > ∙ **[Life Is Good (feat. Drake)](https://www.last.fm/music/Future/_/Life+Is+Good+(feat.+Drake))** - Future<br/>
 <!--END_LASTFM_RECENT-->
 
-📊 **Languages:** <!-- langs-start -->JavaScript, Python, GLSL, TypeScript<!-- langs-end -->
-
 ## Around the web
 
 - 🌐 [alifnaufal.me](https://alifnaufal.me)
