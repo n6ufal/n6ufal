@@ -27,7 +27,7 @@ A few things I've enjoyed building:
 
 ## 🔥 GitHub streak
 <!-- streak-start -->
-Fetching...
+3 days
 <!-- streak-end -->
 
 ## Around the web
