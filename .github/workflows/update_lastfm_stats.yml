@@ -14,4 +14,4 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: alifnaufal
           SHOW_TITLE: false
-          COMMIT_MESSAGE: '🎵 Update music stats'
+          COMMIT_MESSAGE: 'Update music stats'

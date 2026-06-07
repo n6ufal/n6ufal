@@ -6,37 +6,98 @@ on:
 permissions:
   contents: write
 jobs:
-  update:
+  fetch-blog:
     runs-on: ubuntu-latest
+    outputs:
+      BLOG_TITLE_1: ${{ steps.blog.outputs.BLOG_TITLE_1 }}
+      BLOG_LINK_1: ${{ steps.blog.outputs.BLOG_LINK_1 }}
+      BLOG_DATE_1: ${{ steps.blog.outputs.BLOG_DATE_1 }}
+      BLOG_TITLE_2: ${{ steps.blog.outputs.BLOG_TITLE_2 }}
+      BLOG_LINK_2: ${{ steps.blog.outputs.BLOG_LINK_2 }}
+      BLOG_DATE_2: ${{ steps.blog.outputs.BLOG_DATE_2 }}
+      BLOG_TITLE_3: ${{ steps.blog.outputs.BLOG_TITLE_3 }}
+      BLOG_LINK_3: ${{ steps.blog.outputs.BLOG_LINK_3 }}
+      BLOG_DATE_3: ${{ steps.blog.outputs.BLOG_DATE_3 }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
       - name: Fetch RSS feed
-        run: curl -s https://alifnaufal.me/index.xml > feed.xml
-      - name: Fetch latest alifnaufal posts
+        run: |
+          for i in 1 2 3; do
+            curl -sS --max-time 15 https://alifnaufal.me/index.xml > feed.xml && break
+            echo "Retry $i failed, sleeping $((i * 2))s..." >&2
+            sleep $((i * 2))
+          done
+        continue-on-error: true
+      - name: Parse blog posts
         id: blog
-        run: python3 scripts/fetch_blog.py >> $GITHUB_OUTPUT
+        run: python3 scripts/fetch_blog.py --feed feed.xml --limit 3 >> $GITHUB_OUTPUT
+
+  fetch-repos:
+    runs-on: ubuntu-latest
+    outputs:
+      TOP_LANGS: ${{ steps.langs.outputs.TOP_LANGS }}
+    steps:
+      - uses: actions/checkout@v4.2.2
       - name: Fetch GitHub repos
         run: |
-          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/users/n6ufal/repos?per_page=100" > repos.json
+          for i in 1 2 3; do
+            curl -sS --max-time 30 \
+              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/users/n6ufal/repos?per_page=100" > repos.json && break
+            echo "Retry $i failed, sleeping $((i * 2))s..." >&2
+            sleep $((i * 2))
+          done
+        continue-on-error: true
       - name: Get language stats
         id: langs
-        run: python3 scripts/fetch_langs.py >> $GITHUB_OUTPUT
+        run: python3 scripts/fetch_langs.py --repos repos.json --limit 5 >> $GITHUB_OUTPUT
+
+  fetch-streak:
+    runs-on: ubuntu-latest
+    outputs:
+      STREAK: ${{ steps.streak.outputs.STREAK }}
+      STREAK_NUM: ${{ steps.streak.outputs.STREAK_NUM }}
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - name: Get commit streak
+        id: streak
+        run: python3 scripts/fetch_streak.py --user n6ufal >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+  update-readme:
+    needs: [fetch-blog, fetch-repos, fetch-streak]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
       - name: Update README
         env:
-          BLOG_TITLE_1: ${{ steps.blog.outputs.BLOG_TITLE_1 }}
-          BLOG_LINK_1: ${{ steps.blog.outputs.BLOG_LINK_1 }}
-          BLOG_DATE_1: ${{ steps.blog.outputs.BLOG_DATE_1 }}
-          BLOG_TITLE_2: ${{ steps.blog.outputs.BLOG_TITLE_2 }}
-          BLOG_LINK_2: ${{ steps.blog.outputs.BLOG_LINK_2 }}
-          BLOG_DATE_2: ${{ steps.blog.outputs.BLOG_DATE_2 }}
-          BLOG_TITLE_3: ${{ steps.blog.outputs.BLOG_TITLE_3 }}
-          BLOG_LINK_3: ${{ steps.blog.outputs.BLOG_LINK_3 }}
-          BLOG_DATE_3: ${{ steps.blog.outputs.BLOG_DATE_3 }}
-          TOP_LANGS: ${{ steps.langs.outputs.TOP_LANGS }}
-        run: python3 scripts/update_readme.py
-      - name: Debug README
-        run: cat README.md
+          BLOG_TITLE_1: ${{ needs.fetch-blog.outputs.BLOG_TITLE_1 }}
+          BLOG_LINK_1: ${{ needs.fetch-blog.outputs.BLOG_LINK_1 }}
+          BLOG_DATE_1: ${{ needs.fetch-blog.outputs.BLOG_DATE_1 }}
+          BLOG_TITLE_2: ${{ needs.fetch-blog.outputs.BLOG_TITLE_2 }}
+          BLOG_LINK_2: ${{ needs.fetch-blog.outputs.BLOG_LINK_2 }}
+          BLOG_DATE_2: ${{ needs.fetch-blog.outputs.BLOG_DATE_2 }}
+          BLOG_TITLE_3: ${{ needs.fetch-blog.outputs.BLOG_TITLE_3 }}
+          BLOG_LINK_3: ${{ needs.fetch-blog.outputs.BLOG_LINK_3 }}
+          BLOG_DATE_3: ${{ needs.fetch-blog.outputs.BLOG_DATE_3 }}
+          TOP_LANGS: ${{ needs.fetch-repos.outputs.TOP_LANGS }}
+          STREAK: ${{ needs.fetch-streak.outputs.STREAK }}
+          STREAK_NUM: ${{ needs.fetch-streak.outputs.STREAK_NUM }}
+        run: python3 scripts/update_readme.py --readme README.md
+      - name: Validate README
+        run: |
+          if [ ! -s README.md ]; then
+            echo "ERROR: README.md is missing or empty" >&2
+            exit 1
+          fi
+          if ! grep -q '<!-- blog-start -->' README.md; then
+            echo "ERROR: blog section markers missing from README.md" >&2
+            exit 1
+          fi
+          if ! grep -q '<!-- streak-start -->' README.md; then
+            echo "ERROR: streak section markers missing from README.md" >&2
+            exit 1
+          fi
       - name: Commit if changed
         run: |
           git config --local user.email "action@github.com"

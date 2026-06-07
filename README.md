@@ -25,6 +25,11 @@ A few things I've enjoyed building:
 > ∙ **[Life Is Good (feat. Drake)](https://www.last.fm/music/Future/_/Life+Is+Good+(feat.+Drake))** - Future<br/>
 <!--END_LASTFM_RECENT-->
 
+## 🔥 GitHub streak
+<!-- streak-start -->
+Fetching...
+<!-- streak-end -->
+
 ## Around the web
 
 - 🌐 [alifnaufal.me](https://alifnaufal.me)
