@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)** - my bloody valentine<br/>
-> ∙ **[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)** - Playboi Carti<br/>
-> ∙ **[Kids Turned Out Fine](https://www.last.fm/music/A$AP+Rocky/_/Kids+Turned+Out+Fine)** - A$AP Rocky<br/>
+> ∙ **[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)** - Fleetwood Mac<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[Goodbye](https://www.last.fm/music/The+Sundays/_/Goodbye)** - The Sundays<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
