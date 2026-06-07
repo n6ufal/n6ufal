@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Doomsday](https://www.last.fm/music/MF+DOOM/_/Doomsday)** - MF DOOM<br/>
-> ∙ **[All of the Lights](https://www.last.fm/music/Kanye+West/_/All+of+the+Lights)** - Kanye West<br/>
-> ∙ **[Life Is Good (feat. Drake)](https://www.last.fm/music/Future/_/Life+Is+Good+(feat.+Drake))** - Future<br/>
+> ∙ **[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)** - my bloody valentine<br/>
+> ∙ **[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)** - Playboi Carti<br/>
+> ∙ **[Kids Turned Out Fine](https://www.last.fm/music/A$AP+Rocky/_/Kids+Turned+Out+Fine)** - A$AP Rocky<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
