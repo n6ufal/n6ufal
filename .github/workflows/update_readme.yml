@@ -52,20 +52,8 @@ jobs:
         id: langs
         run: python3 scripts/fetch_langs.py --repos repos.json --limit 5 >> $GITHUB_OUTPUT
 
-  fetch-streak:
-    runs-on: ubuntu-latest
-    outputs:
-      STREAK: ${{ steps.streak.outputs.STREAK }}
-      STREAK_NUM: ${{ steps.streak.outputs.STREAK_NUM }}
-    steps:
-      - uses: actions/checkout@v4.2.2
-      - name: Get commit streak
-        id: streak
-        run: python3 scripts/fetch_streak.py --user n6ufal --token ${{ secrets.GITHUB_TOKEN }} >> $GITHUB_OUTPUT
-        continue-on-error: true
-
   update-readme:
-    needs: [fetch-blog, fetch-repos, fetch-streak]
+    needs: [fetch-blog, fetch-repos]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
@@ -81,7 +69,6 @@ jobs:
           BLOG_LINK_3: ${{ needs.fetch-blog.outputs.BLOG_LINK_3 }}
           BLOG_DATE_3: ${{ needs.fetch-blog.outputs.BLOG_DATE_3 }}
           TOP_LANGS: ${{ needs.fetch-repos.outputs.TOP_LANGS }}
-          # STREAK disabled
         run: python3 scripts/update_readme.py --readme README.md
       - name: Validate README
         run: |

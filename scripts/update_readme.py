@@ -39,11 +39,6 @@ def build_blog_section() -> str:
     return "\n".join(blog_lines) if blog_lines else "No posts yet"
 
 
-def build_streak_section() -> str:
-    streak = os.getenv('STREAK', '')
-    return streak if streak else "Fetching..."
-
-
 def replace_section(content: str, marker: str, replacement: str) -> str:
     pattern = rf'(<!-- {marker}-start -->).*?(<!-- {marker}-end -->)'
     return re.sub(
@@ -74,9 +69,6 @@ def main() -> None:
         print("Warning: TOP_LANGS not set", file=sys.stderr)
         langs = 'Fetching...'
     content = replace_section(content, "langs", langs)
-
-    streak = build_streak_section()
-    content = replace_section(content, "streak", streak)
 
     if not write_file(args.readme, content):
         sys.exit(1)
