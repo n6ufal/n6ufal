@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Heaven's On Fire](https://www.last.fm/music/The+Radio+Dept./_/Heaven%27s+On+Fire)** - The Radio Dept.<br/>
-> ∙ **[Brazil 66](https://www.last.fm/music/Alison%27s+Halo/_/Brazil+66)** - Alison's Halo<br/>
-> ∙ **[Blood On My Hands](https://www.last.fm/music/The+Sundays/_/Blood+On+My+Hands)** - The Sundays<br/>
+> ∙ **[Horses](https://www.last.fm/music/Yung+Lean/_/Horses)** - Yung Lean<br/>
+> ∙ **[STORM I](https://www.last.fm/music/GENER8ION/_/STORM+I)** - GENER8ION<br/>
+> ∙ **[Agony](https://www.last.fm/music/Yung+Lean/_/Agony)** - Yung Lean<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
