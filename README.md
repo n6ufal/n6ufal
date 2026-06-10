@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Ease](https://www.last.fm/music/Whirr/_/Ease)** - Whirr<br/>
 > ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
-> ∙ **[May](https://www.last.fm/music/Life+On+Venus/_/May)** - Life On Venus<br/>
+> ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
+> ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
