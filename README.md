@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Heartbeat City - 2017 Remaster](https://www.last.fm/music/The+Cars/_/Heartbeat+City+-+2017+Remaster)** - The Cars<br/>
-> ∙ **[Leave Me Alone - 2015 Remaster](https://www.last.fm/music/New+Order/_/Leave+Me+Alone+-+2015+Remaster)** - New Order<br/>
-> ∙ **[Sounds Like Suzie](https://www.last.fm/music/Alison%27s+Halo/_/Sounds+Like+Suzie)** - Alison's Halo<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
