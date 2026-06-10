@@ -6,10 +6,10 @@ A few things I've enjoyed building:
 
 | Project | Description |
 | --- | --- |
-| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | Word game macro built around a 500k-word dictionary, bisect-optimized lookup, and human-like keystroke timing. |
-| 🧠 **[alifnaufal.me](https://alifnaufal.me)** | Personal blog and knowledge dump — built with Hugo and hosted on GitHub Pages. |
-| 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | Personal configs for PowerShell, Starship, and everything else. |
-| 🤖 **[claude-usage-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget that tracks Claude API usage in real time. |
+| 😈 **[Letter Demon](https://github.com/n6ufal/Letter-Demon)** | Windows word game assistant that searches 477k+ words in milliseconds, finds the hardest follow-ups, and types them like a human. |
+| 🧠 **[alifnaufal.me](https://alifnaufal.me)** | Personal blog and knowledge dump built with Hugo and hosted on GitHub Pages. |
+| 💻 **[dotfiles](https://github.com/n6ufal/.dotfiles)** | Personal configurations for Windows, PowerShell, Starship, and developer tooling. |
+| 🤖 **[claude-usage-widget](https://github.com/n6ufal/claude-usage-widget)** | Lightweight floating widget for monitoring Claude API usage in real time. |
 
 ## ✍️ Latest from blog
 <!-- blog-start -->
