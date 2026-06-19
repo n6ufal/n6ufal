@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[yurrr](https://www.last.fm/music/ksuuvi/_/yurrr)** - ksuuvi<br/>
-> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
-> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
+> ∙ **[Blood Bank](https://www.last.fm/music/Bon+Iver/_/Blood+Bank)** - Bon Iver<br/>
+> ∙ **[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)** - Kanye West<br/>
+> ∙ **[Pain](https://www.last.fm/music/PinkPantheress/_/Pain)** - PinkPantheress<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
