@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Blood Bank](https://www.last.fm/music/Bon+Iver/_/Blood+Bank)** - Bon Iver<br/>
-> ∙ **[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)** - Kanye West<br/>
-> ∙ **[Pain](https://www.last.fm/music/PinkPantheress/_/Pain)** - PinkPantheress<br/>
+> ∙ **[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)** - The Strokes<br/>
+> ∙ **[Headlock](https://www.last.fm/music/Imogen+Heap/_/Headlock)** - Imogen Heap<br/>
+> ∙ **[Heavenly](https://www.last.fm/music/Cigarettes+After+Sex/_/Heavenly)** - Cigarettes After Sex<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
