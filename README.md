@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)** - The Strokes<br/>
-> ∙ **[Headlock](https://www.last.fm/music/Imogen+Heap/_/Headlock)** - Imogen Heap<br/>
-> ∙ **[Heavenly](https://www.last.fm/music/Cigarettes+After+Sex/_/Heavenly)** - Cigarettes After Sex<br/>
+> ∙ **[1901](https://www.last.fm/music/Phoenix/_/1901)** - Phoenix<br/>
+> ∙ **[Someday](https://www.last.fm/music/The+Strokes/_/Someday)** - The Strokes<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
