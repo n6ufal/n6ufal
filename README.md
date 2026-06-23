@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
-> ∙ **[Your Pain Is Mine Now](https://www.last.fm/music/Title+Fight/_/Your+Pain+Is+Mine+Now)** - Title Fight<br/>
-> ∙ **[Murder Your Memory](https://www.last.fm/music/Title+Fight/_/Murder+Your+Memory)** - Title Fight<br/>
+> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> ∙ **[Real Talk - Extended Version](https://www.last.fm/music/Fuz/_/Real+Talk+-+Extended+Version)** - Fuz<br/>
+> ∙ **[Trevon O'Ryan Echols](https://www.last.fm/music/Nine+Vicious/_/Trevon+O%27Ryan+Echols)** - Nine Vicious<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
