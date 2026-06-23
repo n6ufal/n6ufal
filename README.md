@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
-> ∙ **[Real Talk - Extended Version](https://www.last.fm/music/Fuz/_/Real+Talk+-+Extended+Version)** - Fuz<br/>
-> ∙ **[Trevon O'Ryan Echols](https://www.last.fm/music/Nine+Vicious/_/Trevon+O%27Ryan+Echols)** - Nine Vicious<br/>
+> 🎶 **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Hazel - 2024 Remaster](https://www.last.fm/music/Far+Apart/_/Hazel+-+2024+Remaster)** - Far Apart<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
