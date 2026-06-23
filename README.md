@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)** - TV Girl<br/>
-> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
-> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
+> ∙ **[Your Pain Is Mine Now](https://www.last.fm/music/Title+Fight/_/Your+Pain+Is+Mine+Now)** - Title Fight<br/>
+> ∙ **[Murder Your Memory](https://www.last.fm/music/Title+Fight/_/Murder+Your+Memory)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
