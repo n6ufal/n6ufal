@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Poor Aileen](https://www.last.fm/music/Superheaven/_/Poor+Aileen)** - Superheaven<br/>
-> ∙ **[My Way](https://www.last.fm/music/Limp+Bizkit/_/My+Way)** - Limp Bizkit<br/>
-> ∙ **[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)** - The Smashing Pumpkins<br/>
+> 🎶 **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
+> ∙ **[Pizza Time](https://www.last.fm/music/Che/_/Pizza+Time)** - Che<br/>
+> ∙ **[Streetball](https://www.last.fm/music/tokold/_/Streetball)** - tokold<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
