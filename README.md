@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
+> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
+> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
 > ∙ **[Pizza Time](https://www.last.fm/music/Che/_/Pizza+Time)** - Che<br/>
-> ∙ **[Streetball](https://www.last.fm/music/tokold/_/Streetball)** - tokold<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
