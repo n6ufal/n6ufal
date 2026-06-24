@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Interstate Love Song - 2019 Remaster](https://www.last.fm/music/Stone+Temple+Pilots/_/Interstate+Love+Song+-+2019+Remaster)** - Stone Temple Pilots<br/>
-> ∙ **[Black](https://www.last.fm/music/Pearl+Jam/_/Black)** - Pearl Jam<br/>
-> ∙ **[Alive](https://www.last.fm/music/Pearl+Jam/_/Alive)** - Pearl Jam<br/>
+> 🎶 **[Poor Aileen](https://www.last.fm/music/Superheaven/_/Poor+Aileen)** - Superheaven<br/>
+> ∙ **[My Way](https://www.last.fm/music/Limp+Bizkit/_/My+Way)** - Limp Bizkit<br/>
+> ∙ **[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)** - The Smashing Pumpkins<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
