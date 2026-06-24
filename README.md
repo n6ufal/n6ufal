@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> 🎶 **[Interstate Love Song - 2019 Remaster](https://www.last.fm/music/Stone+Temple+Pilots/_/Interstate+Love+Song+-+2019+Remaster)** - Stone Temple Pilots<br/>
+> ∙ **[Black](https://www.last.fm/music/Pearl+Jam/_/Black)** - Pearl Jam<br/>
+> ∙ **[Alive](https://www.last.fm/music/Pearl+Jam/_/Alive)** - Pearl Jam<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
