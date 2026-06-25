@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Opus](https://www.last.fm/music/Eric+Prydz/_/Opus)** - Eric Prydz<br/>
-> ∙ **[Faxing Berlin - Radio Edit](https://www.last.fm/music/deadmau5/_/Faxing+Berlin+-+Radio+Edit)** - deadmau5<br/>
-> ∙ **[Shine A Light - Flight Facilities Remix](https://www.last.fm/music/+noredirect/The+C90s/_/Shine+A+Light+-+Flight+Facilities+Remix)** - The C90s<br/>
+> ∙ **[Come Fly Away - Soha & Adam K Remix](https://www.last.fm/music/Benny+Benassi/_/Come+Fly+Away+-+Soha+&+Adam+K+Remix)** - Benny Benassi<br/>
+> ∙ **[You Were Right](https://www.last.fm/music/+noredirect/R%C3%9CF%C3%9CS+DU+SOL/_/You+Were+Right)** - RÜFÜS DU SOL<br/>
+> ∙ **[Walking On A Dream - Kaskade Remix](https://www.last.fm/music/Empire+of+the+Sun/_/Walking+On+A+Dream+-+Kaskade+Remix)** - Empire of the Sun<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
