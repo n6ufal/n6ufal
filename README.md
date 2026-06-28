@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
-> ∙ **[Summertime](https://www.last.fm/music/The+Sundays/_/Summertime)** - The Sundays<br/>
-> ∙ **[halftime](https://www.last.fm/music/nettspend/_/halftime)** - nettspend<br/>
+> ∙ **[XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)** - Lil Uzi Vert<br/>
+> ∙ **[White Iverson](https://www.last.fm/music/Post+Malone/_/White+Iverson)** - Post Malone<br/>
+> ∙ **[Lady Killers II](https://www.last.fm/music/G-Eazy/_/Lady+Killers+II)** - G-Eazy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
