@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)** - Lil Uzi Vert<br/>
-> ∙ **[White Iverson](https://www.last.fm/music/Post+Malone/_/White+Iverson)** - Post Malone<br/>
-> ∙ **[Lady Killers II](https://www.last.fm/music/G-Eazy/_/Lady+Killers+II)** - G-Eazy<br/>
+> 🎶 **[GLBTM (Studio Outtakes)](https://www.last.fm/music/Daft+Punk/_/GLBTM+(Studio+Outtakes))** - Daft Punk<br/>
+> ∙ **[Horizon (Japan CD)](https://www.last.fm/music/Daft+Punk/_/Horizon+(Japan+CD))** - Daft Punk<br/>
+> ∙ **[Horizon Ouverture](https://www.last.fm/music/Daft+Punk/_/Horizon+Ouverture)** - Daft Punk<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
