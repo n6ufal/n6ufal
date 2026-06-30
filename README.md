@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Cico Buff](https://www.last.fm/music/Cocteau+Twins/_/Cico+Buff)** - Cocteau Twins<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Five String Serenade](https://www.last.fm/music/Mazzy+Star/_/Five+String+Serenade)** - Mazzy Star<br/>
+> 🎶 **[Nowhere To Go](https://www.last.fm/music/Nite+Jewel/_/Nowhere+To+Go)** - Nite Jewel<br/>
+> ∙ **[The Veldt - Radio Edit](https://www.last.fm/music/deadmau5/_/The+Veldt+-+Radio+Edit)** - deadmau5<br/>
+> ∙ **[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)** - Daft Punk<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
