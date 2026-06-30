@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Nowhere To Go](https://www.last.fm/music/Nite+Jewel/_/Nowhere+To+Go)** - Nite Jewel<br/>
-> ∙ **[The Veldt - Radio Edit](https://www.last.fm/music/deadmau5/_/The+Veldt+-+Radio+Edit)** - deadmau5<br/>
-> ∙ **[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)** - Daft Punk<br/>
+> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
+> ∙ **[You Can't Say Kingston Doesn't Love You](https://www.last.fm/music/Title+Fight/_/You+Can%27t+Say+Kingston+Doesn%27t+Love+You)** - Title Fight<br/>
+> ∙ **[Society](https://www.last.fm/music/Title+Fight/_/Society)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
