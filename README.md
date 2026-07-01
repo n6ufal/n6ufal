@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[No Longer Making Time](https://www.last.fm/music/Slowdive/_/No+Longer+Making+Time)** - Slowdive<br/>
-> ∙ **[Back to the Old House - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Back+to+the+Old+House+-+2011+Remaster)** - The Smiths<br/>
-> ∙ **[Us and Them](https://www.last.fm/music/Pink+Floyd/_/Us+and+Them)** - Pink Floyd<br/>
+> ∙ **[Maps](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Maps)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)** - The Strokes<br/>
+> ∙ **[Float On](https://www.last.fm/music/Modest+Mouse/_/Float+On)** - Modest Mouse<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
