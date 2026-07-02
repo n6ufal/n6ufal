@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
-> ∙ **[Hazel - 2024 Remaster](https://www.last.fm/music/Far+Apart/_/Hazel+-+2024+Remaster)** - Far Apart<br/>
+> ∙ **[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))** - Travis Scott<br/>
+> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
+> ∙ **[Yah Mean](https://www.last.fm/music/Playboi+Carti/_/Yah+Mean)** - Playboi Carti<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
