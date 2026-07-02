@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
-> ∙ **[i saw the sun](https://www.last.fm/music/elricfd/_/i+saw+the+sun)** - elricfd<br/>
-> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
+> 🎶 **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Hazel - 2024 Remaster](https://www.last.fm/music/Far+Apart/_/Hazel+-+2024+Remaster)** - Far Apart<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
