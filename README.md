@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sky Walker (feat. Travis Scott)](https://www.last.fm/music/Miguel/_/Sky+Walker+(feat.+Travis+Scott))** - Miguel<br/>
-> ∙ **[What You Heard](https://www.last.fm/music/Sonder/_/What+You+Heard)** - Sonder<br/>
-> ∙ **[Tumblr Girls (feat. Christoph Andersson)](https://www.last.fm/music/G-Eazy/_/Tumblr+Girls+(feat.+Christoph+Andersson))** - G-Eazy<br/>
+> 🎶 **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
+> ∙ **[i saw the sun](https://www.last.fm/music/elricfd/_/i+saw+the+sun)** - elricfd<br/>
+> ∙ **[sometimes memory fails me sometimes](https://www.last.fm/music/Everyone+Asked+About+You/_/sometimes+memory+fails+me+sometimes)** - Everyone Asked About You<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
