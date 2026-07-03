@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))** - Travis Scott<br/>
-> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
-> ∙ **[Yah Mean](https://www.last.fm/music/Playboi+Carti/_/Yah+Mean)** - Playboi Carti<br/>
+> ∙ **[Disarm - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Disarm+-+2011+Remaster)** - The Smashing Pumpkins<br/>
+> ∙ **[Yellow Ledbetter](https://www.last.fm/music/Pearl+Jam/_/Yellow+Ledbetter)** - Pearl Jam<br/>
+> ∙ **[Send the Pain Below](https://www.last.fm/music/Chevelle/_/Send+the+Pain+Below)** - Chevelle<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
