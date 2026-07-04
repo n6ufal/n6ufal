@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Stick By This](https://www.last.fm/music/Dusky/_/Stick+By+This)** - Dusky<br/>
-> ∙ **[Not Exactly](https://www.last.fm/music/deadmau5/_/Not+Exactly)** - deadmau5<br/>
-> ∙ **[Wondering](https://www.last.fm/music/Yotto/_/Wondering)** - Yotto<br/>
+> ∙ **[Alone with You](https://www.last.fm/music/deadmau5/_/Alone+with+You)** - deadmau5<br/>
+> ∙ **[Begin Again](https://www.last.fm/music/Ben+B%C3%B6hmer/_/Begin+Again)** - Ben Böhmer<br/>
+> ∙ **[Departures](https://www.last.fm/music/Robbie+Rivera/_/Departures)** - Robbie Rivera<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
