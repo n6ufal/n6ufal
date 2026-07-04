@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Pogo - Radio Edit](https://www.last.fm/music/Digitalism/_/Pogo+-+Radio+Edit)** - Digitalism<br/>
-> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> 🎶 **[Stick By This](https://www.last.fm/music/Dusky/_/Stick+By+This)** - Dusky<br/>
+> ∙ **[Not Exactly](https://www.last.fm/music/deadmau5/_/Not+Exactly)** - deadmau5<br/>
+> ∙ **[Wondering](https://www.last.fm/music/Yotto/_/Wondering)** - Yotto<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
