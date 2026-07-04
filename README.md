@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Disarm - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Disarm+-+2011+Remaster)** - The Smashing Pumpkins<br/>
-> ∙ **[Yellow Ledbetter](https://www.last.fm/music/Pearl+Jam/_/Yellow+Ledbetter)** - Pearl Jam<br/>
-> ∙ **[Send the Pain Below](https://www.last.fm/music/Chevelle/_/Send+the+Pain+Below)** - Chevelle<br/>
+> 🎶 **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Pogo - Radio Edit](https://www.last.fm/music/Digitalism/_/Pogo+-+Radio+Edit)** - Digitalism<br/>
+> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
