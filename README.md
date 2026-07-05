@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
-> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
-> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)** - M.I.A.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
