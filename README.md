@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)** - M.I.A.<br/>
+> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
+> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
+> ∙ **[You Can't Say Kingston Doesn't Love You](https://www.last.fm/music/Title+Fight/_/You+Can%27t+Say+Kingston+Doesn%27t+Love+You)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
