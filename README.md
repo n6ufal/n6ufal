@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
-> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
-> ∙ **[You Can't Say Kingston Doesn't Love You](https://www.last.fm/music/Title+Fight/_/You+Can%27t+Say+Kingston+Doesn%27t+Love+You)** - Title Fight<br/>
+> 🎶 **[Machu Picchu](https://www.last.fm/music/The+Strokes/_/Machu+Picchu)** - The Strokes<br/>
+> ∙ **[Welcome to Japan](https://www.last.fm/music/The+Strokes/_/Welcome+to+Japan)** - The Strokes<br/>
+> ∙ **[Brooklyn Bridge to Chorus](https://www.last.fm/music/The+Strokes/_/Brooklyn+Bridge+to+Chorus)** - The Strokes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
