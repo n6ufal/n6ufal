@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Machu Picchu](https://www.last.fm/music/The+Strokes/_/Machu+Picchu)** - The Strokes<br/>
-> ∙ **[Welcome to Japan](https://www.last.fm/music/The+Strokes/_/Welcome+to+Japan)** - The Strokes<br/>
-> ∙ **[Brooklyn Bridge to Chorus](https://www.last.fm/music/The+Strokes/_/Brooklyn+Bridge+to+Chorus)** - The Strokes<br/>
+> ∙ **[Sharron Apple](https://www.last.fm/music/Airiel/_/Sharron+Apple)** - Airiel<br/>
+> ∙ **[Love](https://www.last.fm/music/The+Sundays/_/Love)** - The Sundays<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
