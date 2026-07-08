@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sharron Apple](https://www.last.fm/music/Airiel/_/Sharron+Apple)** - Airiel<br/>
-> ∙ **[Love](https://www.last.fm/music/The+Sundays/_/Love)** - The Sundays<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> 🎶 **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[I Have The Moon](https://www.last.fm/music/Lush/_/I+Have+The+Moon)** - Lush<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
