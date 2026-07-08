@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
-> ∙ **[I Have The Moon](https://www.last.fm/music/Lush/_/I+Have+The+Moon)** - Lush<br/>
-> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[4 AM - Adam K & Soha Mix](https://www.last.fm/music/Kaskade/_/4+AM+-+Adam+K+&+Soha+Mix)** - Kaskade<br/>
+> ∙ **[I Remember](https://www.last.fm/music/Kaskade/_/I+Remember)** - Kaskade<br/>
+> ∙ **[Dog Days Are Over](https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over)** - Florence + the Machine<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
