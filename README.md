@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[The Way Life Goes (feat. Oh Wonder)](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+(feat.+Oh+Wonder))** - Lil Uzi Vert<br/>
+> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
 > ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
-> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
-> ∙ **[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)** - Billy Idol<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
