@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[4 AM - Adam K & Soha Mix](https://www.last.fm/music/Kaskade/_/4+AM+-+Adam+K+&+Soha+Mix)** - Kaskade<br/>
-> ∙ **[I Remember](https://www.last.fm/music/Kaskade/_/I+Remember)** - Kaskade<br/>
-> ∙ **[Dog Days Are Over](https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over)** - Florence + the Machine<br/>
+> ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
+> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
+> ∙ **[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)** - Billy Idol<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
