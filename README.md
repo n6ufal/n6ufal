@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Come Inside Of My Heart](https://www.last.fm/music/IV+Of+Spades/_/Come+Inside+Of+My+Heart)** - IV Of Spades<br/>
-> ∙ **[When You Sleep](https://www.last.fm/music/Beetleflux/_/When+You+Sleep)** - Beetleflux<br/>
-> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> ∙ **[Dumb Summer](https://www.last.fm/music/helen+55/_/Dumb+Summer)** - helen 55<br/>
+> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
+> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
