@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[The Way Life Goes (feat. Oh Wonder)](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+(feat.+Oh+Wonder))** - Lil Uzi Vert<br/>
-> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
-> ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
+> 🎶 **[Come Inside Of My Heart](https://www.last.fm/music/IV+Of+Spades/_/Come+Inside+Of+My+Heart)** - IV Of Spades<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/Beetleflux/_/When+You+Sleep)** - Beetleflux<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
