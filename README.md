@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Music Sounds Better With You - Radio Edit](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You+-+Radio+Edit)** - Stardust<br/>
-> ∙ **[I Remember - Vocal Mix](https://www.last.fm/music/deadmau5/_/I+Remember+-+Vocal+Mix)** - deadmau5<br/>
-> ∙ **[Porcelain](https://www.last.fm/music/Moby/_/Porcelain)** - Moby<br/>
+> 🎶 **[Intro](https://www.last.fm/music/The+xx/_/Intro)** - The xx<br/>
+> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
+> ∙ **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
