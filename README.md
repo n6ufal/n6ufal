@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Intro](https://www.last.fm/music/The+xx/_/Intro)** - The xx<br/>
-> ∙ **[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)** - Gorillaz<br/>
-> ∙ **[A Walk](https://www.last.fm/music/Tycho/_/A+Walk)** - Tycho<br/>
+> ∙ **[Судно (Борис Рыжий)](https://www.last.fm/music/Molchat+Doma/_/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE+(%D0%91%D0%BE%D1%80%D0%B8%D1%81+%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9))** - Molchat Doma<br/>
+> ∙ **[Time Bomb](https://www.last.fm/music/Rancid/_/Time+Bomb)** - Rancid<br/>
+> ∙ **[Blitzkrieg Bop - 2016 Remaster](https://www.last.fm/music/Ramones/_/Blitzkrieg+Bop+-+2016+Remaster)** - Ramones<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
