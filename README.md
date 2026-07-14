@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)** - Puddle of Mudd<br/>
-> ∙ **[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)** - The Smiths<br/>
-> ∙ **[Судно (Борис Рыжий)](https://www.last.fm/music/Molchat+Doma/_/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE+(%D0%91%D0%BE%D1%80%D0%B8%D1%81+%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9))** - Molchat Doma<br/>
+> ∙ **[Fine Again](https://www.last.fm/music/Seether/_/Fine+Again)** - Seether<br/>
+> ∙ **[Outside](https://www.last.fm/music/Staind/_/Outside)** - Staind<br/>
+> ∙ **[Nutshell](https://www.last.fm/music/Alice+in+Chains/_/Nutshell)** - Alice in Chains<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
