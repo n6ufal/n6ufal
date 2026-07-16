@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
-> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
-> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
+> ∙ **[You Get What You Give](https://www.last.fm/music/New+Radicals/_/You+Get+What+You+Give)** - New Radicals<br/>
+> ∙ **[Lovesong - Remastered](https://www.last.fm/music/+noredirect/The+Cure/_/Lovesong+-+Remastered)** - The Cure<br/>
+> ∙ **[Every Breath You Take](https://www.last.fm/music/The+Police/_/Every+Breath+You+Take)** - The Police<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
