@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Fine Again](https://www.last.fm/music/Seether/_/Fine+Again)** - Seether<br/>
-> ∙ **[Outside](https://www.last.fm/music/Staind/_/Outside)** - Staind<br/>
-> ∙ **[Nutshell](https://www.last.fm/music/Alice+in+Chains/_/Nutshell)** - Alice in Chains<br/>
+> 🎶 **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
+> ∙ **[Banquet](https://www.last.fm/music/Bloc+Party/_/Banquet)** - Bloc Party<br/>
+> ∙ **[Black Sheep](https://www.last.fm/music/Metric/_/Black+Sheep)** - Metric<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
