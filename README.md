@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Tumblr Girls (feat. Christoph Andersson)](https://www.last.fm/music/G-Eazy/_/Tumblr+Girls+(feat.+Christoph+Andersson))** - G-Eazy<br/>
-> ∙ **[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)** - bôa<br/>
-> ∙ **[Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)** - The Neighbourhood<br/>
+> ∙ **[Buzzcut Season](https://www.last.fm/music/Lorde/_/Buzzcut+Season)** - Lorde<br/>
+> ∙ **[The Blonde](https://www.last.fm/music/TV+Girl/_/The+Blonde)** - TV Girl<br/>
+> ∙ **[Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)** - Grimes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
