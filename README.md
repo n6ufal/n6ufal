@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[You Get What You Give](https://www.last.fm/music/New+Radicals/_/You+Get+What+You+Give)** - New Radicals<br/>
-> ∙ **[Lovesong - Remastered](https://www.last.fm/music/+noredirect/The+Cure/_/Lovesong+-+Remastered)** - The Cure<br/>
-> ∙ **[Every Breath You Take](https://www.last.fm/music/The+Police/_/Every+Breath+You+Take)** - The Police<br/>
+> 🎶 **[Tumblr Girls (feat. Christoph Andersson)](https://www.last.fm/music/G-Eazy/_/Tumblr+Girls+(feat.+Christoph+Andersson))** - G-Eazy<br/>
+> ∙ **[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)** - bôa<br/>
+> ∙ **[Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)** - The Neighbourhood<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
