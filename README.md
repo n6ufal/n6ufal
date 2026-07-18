@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Buzzcut Season](https://www.last.fm/music/Lorde/_/Buzzcut+Season)** - Lorde<br/>
-> ∙ **[The Blonde](https://www.last.fm/music/TV+Girl/_/The+Blonde)** - TV Girl<br/>
-> ∙ **[Oblivion](https://www.last.fm/music/Grimes/_/Oblivion)** - Grimes<br/>
+> ∙ **[a couple things](https://www.last.fm/music/Darkky+Cave/_/a+couple+things)** - Darkky Cave<br/>
+> ∙ **[yurrr](https://www.last.fm/music/ksuuvi/_/yurrr)** - ksuuvi<br/>
+> ∙ **[Shawty Thro It Backk](https://www.last.fm/music/xaviersobased/_/Shawty+Thro+It+Backk)** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
