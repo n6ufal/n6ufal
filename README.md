@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
-> ∙ **[I'll See You When We're Both Not So Emotional](https://www.last.fm/music/American+Football/_/I%27ll+See+You+When+We%27re+Both+Not+So+Emotional)** - American Football<br/>
-> ∙ **[I Can See You From Here](https://www.last.fm/music/Citizen/_/I+Can+See+You+From+Here)** - Citizen<br/>
+> ∙ **[Peon](https://www.last.fm/music/Korea+Girl/_/Peon)** - Korea Girl<br/>
+> ∙ **[Hello Euphoria](https://www.last.fm/music/Turnover/_/Hello+Euphoria)** - Turnover<br/>
+> ∙ **[Kept](https://www.last.fm/music/Movements/_/Kept)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
