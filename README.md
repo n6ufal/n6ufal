@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[a couple things](https://www.last.fm/music/Darkky+Cave/_/a+couple+things)** - Darkky Cave<br/>
-> ∙ **[yurrr](https://www.last.fm/music/ksuuvi/_/yurrr)** - ksuuvi<br/>
-> ∙ **[Shawty Thro It Backk](https://www.last.fm/music/xaviersobased/_/Shawty+Thro+It+Backk)** - xaviersobased<br/>
+> 🎶 **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
+> ∙ **[I'll See You When We're Both Not So Emotional](https://www.last.fm/music/American+Football/_/I%27ll+See+You+When+We%27re+Both+Not+So+Emotional)** - American Football<br/>
+> ∙ **[I Can See You From Here](https://www.last.fm/music/Citizen/_/I+Can+See+You+From+Here)** - Citizen<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
