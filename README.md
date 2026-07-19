@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Peon](https://www.last.fm/music/Korea+Girl/_/Peon)** - Korea Girl<br/>
-> ∙ **[Hello Euphoria](https://www.last.fm/music/Turnover/_/Hello+Euphoria)** - Turnover<br/>
-> ∙ **[Kept](https://www.last.fm/music/Movements/_/Kept)** - Movements<br/>
+> 🎶 **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
+> ∙ **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
