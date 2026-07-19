@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Alive](https://www.last.fm/music/Empire+of+the+Sun/_/Alive)** - Empire of the Sun<br/>
-> ∙ **[Futile Devices (Doveman Remix)](https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices+(Doveman+Remix))** - Sufjan Stevens<br/>
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
+> ∙ **[A World Alone](https://www.last.fm/music/Lorde/_/A+World+Alone)** - Lorde<br/>
+> ∙ **[Are You Bored Yet? (feat. Clairo)](https://www.last.fm/music/Wallows/_/Are+You+Bored+Yet%3F+(feat.+Clairo))** - Wallows<br/>
+> ∙ **[Tumblr Girls (feat. Christoph Andersson)](https://www.last.fm/music/G-Eazy/_/Tumblr+Girls+(feat.+Christoph+Andersson))** - G-Eazy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
