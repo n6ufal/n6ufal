@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
-> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
-> ∙ **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
+> 🎶 **[Alive](https://www.last.fm/music/Empire+of+the+Sun/_/Alive)** - Empire of the Sun<br/>
+> ∙ **[Futile Devices (Doveman Remix)](https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices+(Doveman+Remix))** - Sufjan Stevens<br/>
+> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
