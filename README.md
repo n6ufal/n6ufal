@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[A World Alone](https://www.last.fm/music/Lorde/_/A+World+Alone)** - Lorde<br/>
-> ∙ **[Are You Bored Yet? (feat. Clairo)](https://www.last.fm/music/Wallows/_/Are+You+Bored+Yet%3F+(feat.+Clairo))** - Wallows<br/>
-> ∙ **[Tumblr Girls (feat. Christoph Andersson)](https://www.last.fm/music/G-Eazy/_/Tumblr+Girls+(feat.+Christoph+Andersson))** - G-Eazy<br/>
+> 🎶 **[Pogo - Shinichi Osawa Extended Remix](https://www.last.fm/music/Digitalism/_/Pogo+-+Shinichi+Osawa+Extended+Remix)** - Digitalism<br/>
+> ∙ **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
