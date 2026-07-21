@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Pogo - Shinichi Osawa Extended Remix](https://www.last.fm/music/Digitalism/_/Pogo+-+Shinichi+Osawa+Extended+Remix)** - Digitalism<br/>
-> ∙ **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[Walk to me](https://www.last.fm/music/xaviersobased/_/Walk+to+me)** - xaviersobased<br/>
+> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
