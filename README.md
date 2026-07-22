@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
-> ∙ **[Walk to me](https://www.last.fm/music/xaviersobased/_/Walk+to+me)** - xaviersobased<br/>
-> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
+> ∙ **[Cico Buff](https://www.last.fm/music/Cocteau+Twins/_/Cico+Buff)** - Cocteau Twins<br/>
+> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
+> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
