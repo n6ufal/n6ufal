@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[The Way Life Goes (feat. Oh Wonder)](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+(feat.+Oh+Wonder))** - Lil Uzi Vert<br/>
-> ∙ **[Fight the Feeling (feat. Kendrick Lamar & Iman Omari)](https://www.last.fm/music/Mac+Miller/_/Fight+the+Feeling+(feat.+Kendrick+Lamar+&+Iman+Omari))** - Mac Miller<br/>
-> ∙ **[Collard Greens](https://www.last.fm/music/ScHoolboy+Q/_/Collard+Greens)** - ScHoolboy Q<br/>
+> ∙ **[Man of the Year](https://www.last.fm/music/ScHoolboy+Q/_/Man+of+the+Year)** - ScHoolboy Q<br/>
+> ∙ **[Swimming Pools (Drank) - Extended Version](https://www.last.fm/music/+noredirect/Kendrick+Lamar/_/Swimming+Pools+(Drank)+-+Extended+Version)** - Kendrick Lamar<br/>
+> ∙ **[Stay Fly](https://www.last.fm/music/Three+6+Mafia/_/Stay+Fly)** - Three 6 Mafia<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
