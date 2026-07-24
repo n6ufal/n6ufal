@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Man of the Year](https://www.last.fm/music/ScHoolboy+Q/_/Man+of+the+Year)** - ScHoolboy Q<br/>
-> ∙ **[Swimming Pools (Drank) - Extended Version](https://www.last.fm/music/+noredirect/Kendrick+Lamar/_/Swimming+Pools+(Drank)+-+Extended+Version)** - Kendrick Lamar<br/>
-> ∙ **[Stay Fly](https://www.last.fm/music/Three+6+Mafia/_/Stay+Fly)** - Three 6 Mafia<br/>
+> 🎶 **[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)** - Lil Uzi Vert<br/>
+> ∙ **[Shook Ones, Pt. II](https://www.last.fm/music/Mobb+Deep/_/Shook+Ones,+Pt.+II)** - Mobb Deep<br/>
+> ∙ **[Nikes on My Feet](https://www.last.fm/music/Mac+Miller/_/Nikes+on+My+Feet)** - Mac Miller<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
