@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Cico Buff](https://www.last.fm/music/Cocteau+Twins/_/Cico+Buff)** - Cocteau Twins<br/>
-> ∙ **[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)** - Mazzy Star<br/>
-> ∙ **[Vapour Trail - 2001 Remaster](https://www.last.fm/music/Ride/_/Vapour+Trail+-+2001+Remaster)** - Ride<br/>
+> 🎶 **[The Way Life Goes (feat. Oh Wonder)](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+(feat.+Oh+Wonder))** - Lil Uzi Vert<br/>
+> ∙ **[Fight the Feeling (feat. Kendrick Lamar & Iman Omari)](https://www.last.fm/music/Mac+Miller/_/Fight+the+Feeling+(feat.+Kendrick+Lamar+&+Iman+Omari))** - Mac Miller<br/>
+> ∙ **[Collard Greens](https://www.last.fm/music/ScHoolboy+Q/_/Collard+Greens)** - ScHoolboy Q<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
