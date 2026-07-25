@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[New York City Cops](https://www.last.fm/music/The+Strokes/_/New+York+City+Cops)** - The Strokes<br/>
-> ∙ **[I Love Livin' in the City](https://www.last.fm/music/Fear/_/I+Love+Livin%27+in+the+City)** - Fear<br/>
-> ∙ **[Amoeba](https://www.last.fm/music/Adolescents/_/Amoeba)** - Adolescents<br/>
+> ∙ **[Dismantle Me](https://www.last.fm/music/The+Distillers/_/Dismantle+Me)** - The Distillers<br/>
+> ∙ **[Where Eagles Dare](https://www.last.fm/music/Misfits/_/Where+Eagles+Dare)** - Misfits<br/>
+> ∙ **[Reptilia](https://www.last.fm/music/The+Strokes/_/Reptilia)** - The Strokes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
