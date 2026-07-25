@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
-> ∙ **[Drunk and Nasty (feat. Sharc)](https://www.last.fm/music/Pi%E2%80%99erre+Bourne/_/Drunk+and+Nasty+(feat.+Sharc))** - Pi’erre Bourne<br/>
-> ∙ **[DON'T BE DUMB / TRIP BABY](https://www.last.fm/music/A$AP+Rocky/_/DON%27T+BE+DUMB+%2F+TRIP+BABY)** - A$AP Rocky<br/>
+> 🎶 **[back to friends](https://www.last.fm/music/sombr/_/back+to+friends)** - sombr<br/>
+> ∙ **[Give Me Everything (feat. Nayer)](https://www.last.fm/music/Pitbull/_/Give+Me+Everything+(feat.+Nayer))** - Pitbull<br/>
+> ∙ **[Everytime](https://www.last.fm/music/boy+pablo/_/Everytime)** - boy pablo<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
