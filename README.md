@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[back to friends](https://www.last.fm/music/sombr/_/back+to+friends)** - sombr<br/>
-> ∙ **[Give Me Everything (feat. Nayer)](https://www.last.fm/music/Pitbull/_/Give+Me+Everything+(feat.+Nayer))** - Pitbull<br/>
-> ∙ **[Everytime](https://www.last.fm/music/boy+pablo/_/Everytime)** - boy pablo<br/>
+> 🎶 **[New York City Cops](https://www.last.fm/music/The+Strokes/_/New+York+City+Cops)** - The Strokes<br/>
+> ∙ **[I Love Livin' in the City](https://www.last.fm/music/Fear/_/I+Love+Livin%27+in+the+City)** - Fear<br/>
+> ∙ **[Amoeba](https://www.last.fm/music/Adolescents/_/Amoeba)** - Adolescents<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
