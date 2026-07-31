@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Outside (feat. Fred Durst) - Family Values Live Version](https://www.last.fm/music/Aaron+Lewis/_/Outside+(feat.+Fred+Durst)+-+Family+Values+Live+Version)** - Aaron Lewis<br/>
-> ∙ **[Plush](https://www.last.fm/music/Stone+Temple+Pilots/_/Plush)** - Stone Temple Pilots<br/>
-> ∙ **[Would? (2022 remaster)](https://www.last.fm/music/Alice+in+Chains/_/Would%3F+(2022+remaster))** - Alice in Chains<br/>
+> ∙ **[Lalu Lalang Lintas Generasi](https://www.last.fm/music/The+Jansen/_/Lalu+Lalang+Lintas+Generasi)** - The Jansen<br/>
+> ∙ **[Mereguk Anti Depresan Lagi](https://www.last.fm/music/The+Jansen/_/Mereguk+Anti+Depresan+Lagi)** - The Jansen<br/>
+> ∙ **[Langit Tak Seharusnya Biru](https://www.last.fm/music/The+Jansen/_/Langit+Tak+Seharusnya+Biru)** - The Jansen<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
