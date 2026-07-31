@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> 🎶 **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[Always A Relief](https://www.last.fm/music/The+Radio+Dept./_/Always+A+Relief)** - The Radio Dept.<br/>
 > ∙ **[Lalu Lalang Lintas Generasi](https://www.last.fm/music/The+Jansen/_/Lalu+Lalang+Lintas+Generasi)** - The Jansen<br/>
-> ∙ **[Mereguk Anti Depresan Lagi](https://www.last.fm/music/The+Jansen/_/Mereguk+Anti+Depresan+Lagi)** - The Jansen<br/>
-> ∙ **[Langit Tak Seharusnya Biru](https://www.last.fm/music/The+Jansen/_/Langit+Tak+Seharusnya+Biru)** - The Jansen<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
