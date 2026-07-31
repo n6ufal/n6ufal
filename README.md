@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Dismantle Me](https://www.last.fm/music/The+Distillers/_/Dismantle+Me)** - The Distillers<br/>
-> ∙ **[Where Eagles Dare](https://www.last.fm/music/Misfits/_/Where+Eagles+Dare)** - Misfits<br/>
-> ∙ **[Reptilia](https://www.last.fm/music/The+Strokes/_/Reptilia)** - The Strokes<br/>
+> ∙ **[Outside (feat. Fred Durst) - Family Values Live Version](https://www.last.fm/music/Aaron+Lewis/_/Outside+(feat.+Fred+Durst)+-+Family+Values+Live+Version)** - Aaron Lewis<br/>
+> ∙ **[Plush](https://www.last.fm/music/Stone+Temple+Pilots/_/Plush)** - Stone Temple Pilots<br/>
+> ∙ **[Would? (2022 remaster)](https://www.last.fm/music/Alice+in+Chains/_/Would%3F+(2022+remaster))** - Alice in Chains<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
