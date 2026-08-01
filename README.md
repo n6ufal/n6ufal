@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Decode](https://www.last.fm/music/Paramore/_/Decode)** - Paramore<br/>
+> ∙ **[Mr. Saxobeat - Radio Edit](https://www.last.fm/music/+noredirect/Alexandra+Stan/_/Mr.+Saxobeat+-+Radio+Edit)** - Alexandra Stan<br/>
+> ∙ **[Decode](https://www.last.fm/music/Paramore/_/Decode)** - Paramore<br/>
 > ∙ **[Plush](https://www.last.fm/music/Stone+Temple+Pilots/_/Plush)** - Stone Temple Pilots<br/>
-> ∙ **[Wait](https://www.last.fm/music/Earshot/_/Wait)** - Earshot<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
