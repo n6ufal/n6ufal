@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Glorious (feat. Ruby Prophet)](https://www.last.fm/music/Synchronice/_/Glorious+(feat.+Ruby+Prophet))** - Synchronice<br/>
-> ∙ **[DERP](https://www.last.fm/music/Bassjackers/_/DERP)** - Bassjackers<br/>
-> ∙ **[Million Miles](https://www.last.fm/music/DubVision/_/Million+Miles)** - DubVision<br/>
+> ∙ **[Submerge](https://www.last.fm/music/Movements/_/Submerge)** - Movements<br/>
+> ∙ **[Under the Gun](https://www.last.fm/music/Movements/_/Under+the+Gun)** - Movements<br/>
+> ∙ **[Deep Red](https://www.last.fm/music/Movements/_/Deep+Red)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
