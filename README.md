@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)** - Fleetwood Mac<br/>
-> ∙ **[Riders on the Storm](https://www.last.fm/music/The+Doors/_/Riders+on+the+Storm)** - The Doors<br/>
-> ∙ **[Kiss Me](https://www.last.fm/music/Sixpence+None+the+Richer/_/Kiss+Me)** - Sixpence None the Richer<br/>
+> ∙ **[Elevator Love Letter](https://www.last.fm/music/Stars/_/Elevator+Love+Letter)** - Stars<br/>
+> ∙ **[Elevator Love Letter](https://www.last.fm/music/Stars/_/Elevator+Love+Letter)** - Stars<br/>
+> ∙ **[Keep Your Eyes Ahead](https://www.last.fm/music/The+Helio+Sequence/_/Keep+Your+Eyes+Ahead)** - The Helio Sequence<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
