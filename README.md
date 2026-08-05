@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Elevator Love Letter](https://www.last.fm/music/Stars/_/Elevator+Love+Letter)** - Stars<br/>
-> ∙ **[Elevator Love Letter](https://www.last.fm/music/Stars/_/Elevator+Love+Letter)** - Stars<br/>
-> ∙ **[Keep Your Eyes Ahead](https://www.last.fm/music/The+Helio+Sequence/_/Keep+Your+Eyes+Ahead)** - The Helio Sequence<br/>
+> ∙ **[Always A Relief](https://www.last.fm/music/The+Radio+Dept./_/Always+A+Relief)** - The Radio Dept.<br/>
+> ∙ **[Sometimes](https://www.last.fm/music/my+bloody+valentine/_/Sometimes)** - my bloody valentine<br/>
+> ∙ **[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)** - Cocteau Twins<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
