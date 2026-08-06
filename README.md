@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
-> ∙ **[Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)** - Puddle of Mudd<br/>
-> ∙ **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Under Your Spell](https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell)** - Snow Strippers<br/>
+> ∙ **[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)** - Cult Member<br/>
+> ∙ **[BIOS](https://www.last.fm/music/Zorrovian/_/BIOS)** - Zorrovian<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
