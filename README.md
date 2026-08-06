@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Always A Relief](https://www.last.fm/music/The+Radio+Dept./_/Always+A+Relief)** - The Radio Dept.<br/>
-> ∙ **[Sometimes](https://www.last.fm/music/my+bloody+valentine/_/Sometimes)** - my bloody valentine<br/>
-> ∙ **[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)** - Cocteau Twins<br/>
+> 🎶 **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
+> ∙ **[Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)** - Puddle of Mudd<br/>
+> ∙ **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
