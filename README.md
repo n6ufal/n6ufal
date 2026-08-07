@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Free](https://www.last.fm/music/Don+Carlos/_/Free)** - Don Carlos<br/>
-> ∙ **[Music Sounds Better With You](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You)** - Stardust<br/>
-> ∙ **[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)** - Aphex Twin<br/>
+> ∙ **[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)** - Cocteau Twins<br/>
+> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
