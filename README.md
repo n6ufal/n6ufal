@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Make You Whole (SLOWED)](https://www.last.fm/music/Andronicus/_/Make+You+Whole+(SLOWED))** - Andronicus<br/>
-> ∙ **[(It Goes Like) Nanana](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana)** - Peggy Gou<br/>
-> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
+> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
+> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
+> ∙ **[Linger - Remastered 2026](https://www.last.fm/music/The+Cranberries/_/Linger+-+Remastered+2026)** - The Cranberries<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
