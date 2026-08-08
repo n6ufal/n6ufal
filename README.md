@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)** - Cocteau Twins<br/>
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[Cascades Of Colour - Wamdue Black Mix](https://www.last.fm/music/Ananda+Project/_/Cascades+Of+Colour+-+Wamdue+Black+Mix)** - Ananda Project<br/>
+> ∙ **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)** - Crystal Waters<br/>
+> ∙ **[Spring](https://www.last.fm/music/Saint+Etienne/_/Spring)** - Saint Etienne<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
