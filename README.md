@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Cascades Of Colour - Wamdue Black Mix](https://www.last.fm/music/Ananda+Project/_/Cascades+Of+Colour+-+Wamdue+Black+Mix)** - Ananda Project<br/>
-> ∙ **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)** - Crystal Waters<br/>
-> ∙ **[Spring](https://www.last.fm/music/Saint+Etienne/_/Spring)** - Saint Etienne<br/>
+> 🎶 **[Nothing Can Stop Us](https://www.last.fm/music/Saint+Etienne/_/Nothing+Can+Stop+Us)** - Saint Etienne<br/>
+> ∙ **[What U Want](https://www.last.fm/music/Enrico+Mantini/_/What+U+Want)** - Enrico Mantini<br/>
+> ∙ **[Rising Sun](https://www.last.fm/music/Eli+Samuel/_/Rising+Sun)** - Eli Samuel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
