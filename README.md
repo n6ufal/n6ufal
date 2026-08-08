@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Nothing Can Stop Us](https://www.last.fm/music/Saint+Etienne/_/Nothing+Can+Stop+Us)** - Saint Etienne<br/>
-> ∙ **[What U Want](https://www.last.fm/music/Enrico+Mantini/_/What+U+Want)** - Enrico Mantini<br/>
-> ∙ **[Rising Sun](https://www.last.fm/music/Eli+Samuel/_/Rising+Sun)** - Eli Samuel<br/>
+> 🎶 **[Feel Me](https://www.last.fm/music/Isaac+Carter/_/Feel+Me)** - Isaac Carter<br/>
+> ∙ **[Fade - Grant Nelson Big Room Remix](https://www.last.fm/music/+noredirect/Solu+Music/_/Fade+-+Grant+Nelson+Big+Room+Remix)** - Solu Music<br/>
+> ∙ **[Pasion - The Trip Remix](https://www.last.fm/music/Pianoman/_/Pasion+-+The+Trip+Remix)** - Pianoman<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
