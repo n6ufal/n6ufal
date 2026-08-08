@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Feel Me](https://www.last.fm/music/Isaac+Carter/_/Feel+Me)** - Isaac Carter<br/>
-> ∙ **[Fade - Grant Nelson Big Room Remix](https://www.last.fm/music/+noredirect/Solu+Music/_/Fade+-+Grant+Nelson+Big+Room+Remix)** - Solu Music<br/>
-> ∙ **[Pasion - The Trip Remix](https://www.last.fm/music/Pianoman/_/Pasion+-+The+Trip+Remix)** - Pianoman<br/>
+> ∙ **[Make You Whole (SLOWED)](https://www.last.fm/music/Andronicus/_/Make+You+Whole+(SLOWED))** - Andronicus<br/>
+> ∙ **[(It Goes Like) Nanana](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana)** - Peggy Gou<br/>
+> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
