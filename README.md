@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
-> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
-> ∙ **[Linger - Remastered 2026](https://www.last.fm/music/The+Cranberries/_/Linger+-+Remastered+2026)** - The Cranberries<br/>
+> ∙ **[Pin](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Pin)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Turn Into](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Turn+Into)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Wolf](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Wolf)** - Yeah Yeah Yeahs<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
