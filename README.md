@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Cars](https://www.last.fm/music/Gary+Numan/_/Cars)** - Gary Numan<br/>
-> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)** - Billy Idol<br/>
+> ∙ **[Purple Rain - 2015 Paisley Park Remaster](https://www.last.fm/music/Prince/_/Purple+Rain+-+2015+Paisley+Park+Remaster)** - Prince<br/>
+> ∙ **[I Ran (So Far Away) - Single Edit](https://www.last.fm/music/A+Flock+of+Seagulls/_/I+Ran+(So+Far+Away)+-+Single+Edit)** - A Flock of Seagulls<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
