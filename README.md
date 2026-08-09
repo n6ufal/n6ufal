@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Pin](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Pin)** - Yeah Yeah Yeahs<br/>
-> ∙ **[Turn Into](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Turn+Into)** - Yeah Yeah Yeahs<br/>
-> ∙ **[Wolf](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Wolf)** - Yeah Yeah Yeahs<br/>
+> 🎶 **[Semi-Charmed Life](https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life)** - Third Eye Blind<br/>
+> ∙ **[A Part of Me (feat. Laura Whiteside)](https://www.last.fm/music/Neck+Deep/_/A+Part+of+Me+(feat.+Laura+Whiteside))** - Neck Deep<br/>
+> ∙ **[Kau Pemeran Utama Di Sebuah Opera](https://www.last.fm/music/The+Jansen/_/Kau+Pemeran+Utama+Di+Sebuah+Opera)** - The Jansen<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
