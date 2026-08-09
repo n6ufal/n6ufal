@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Semi-Charmed Life](https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life)** - Third Eye Blind<br/>
-> ∙ **[A Part of Me (feat. Laura Whiteside)](https://www.last.fm/music/Neck+Deep/_/A+Part+of+Me+(feat.+Laura+Whiteside))** - Neck Deep<br/>
-> ∙ **[Kau Pemeran Utama Di Sebuah Opera](https://www.last.fm/music/The+Jansen/_/Kau+Pemeran+Utama+Di+Sebuah+Opera)** - The Jansen<br/>
+> 🎶 **[Cars](https://www.last.fm/music/Gary+Numan/_/Cars)** - Gary Numan<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
