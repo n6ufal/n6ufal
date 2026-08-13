@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Nice for What](https://www.last.fm/music/Drake/_/Nice+for+What)** - Drake<br/>
-> ∙ **[Symphony (feat. Zara Larsson)](https://www.last.fm/music/Clean+Bandit/_/Symphony+(feat.+Zara+Larsson))** - Clean Bandit<br/>
-> ∙ **[Matches](https://www.last.fm/music/Cash+Cash/_/Matches)** - Cash Cash<br/>
+> 🎶 **[Free Bird](https://www.last.fm/music/Lynyrd+Skynyrd/_/Free+Bird)** - Lynyrd Skynyrd<br/>
+> ∙ **[Wild West End](https://www.last.fm/music/Dire+Straits/_/Wild+West+End)** - Dire Straits<br/>
+> ∙ **[Wish You Were Here](https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here)** - Pink Floyd<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
