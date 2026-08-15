@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[ledrag roy](https://www.last.fm/music/user2323/_/ledrag+roy)** - user2323<br/>
-> ∙ **[ledrag roy](https://www.last.fm/music/user2323/_/ledrag+roy)** - user2323<br/>
-> ∙ **[I'm Not in Love](https://www.last.fm/music/10cc/_/I%27m+Not+in+Love)** - 10cc<br/>
+> 🎶 **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
+> ∙ **[Good News](https://www.last.fm/music/Mac+Miller/_/Good+News)** - Mac Miller<br/>
+> ∙ **[Baby I'm Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)** - Breakbot<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
