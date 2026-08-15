@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> 🎶 **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Walking on a Dream](https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream)** - Empire of the Sun<br/>
 > ∙ **[Kids Turned Out Fine](https://www.last.fm/music/A$AP+Rocky/_/Kids+Turned+Out+Fine)** - A$AP Rocky<br/>
-> ∙ **[drive ME crazy!](https://www.last.fm/music/Lil+Yachty/_/drive+ME+crazy!)** - Lil Yachty<br/>
-> ∙ **[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)** - The Strokes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
