@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Everlong](https://www.last.fm/music/Foo+Fighters/_/Everlong)** - Foo Fighters<br/>
-> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
-> ∙ **[Blow Me](https://www.last.fm/music/fakemink/_/Blow+Me)** - fakemink<br/>
+> ∙ **[G2G](https://www.last.fm/music/Skrillex/_/G2G)** - Skrillex<br/>
+> ∙ **[WTM](https://www.last.fm/music/LAZER+DIM+700/_/WTM)** - LAZER DIM 700<br/>
+> ∙ **[Goodbye](https://www.last.fm/music/The+Sundays/_/Goodbye)** - The Sundays<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
