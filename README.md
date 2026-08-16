@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)** - Kanye West<br/>
-> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
-> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
+> 🎶 **[Third Degree](https://www.last.fm/music/Movements/_/Third+Degree)** - Movements<br/>
+> ∙ **[Sprawl II (Mountains Beyond Mountains)](https://www.last.fm/music/Arcade+Fire/_/Sprawl+II+(Mountains+Beyond+Mountains))** - Arcade Fire<br/>
+> ∙ **[Reunion](https://www.last.fm/music/M83/_/Reunion)** - M83<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
