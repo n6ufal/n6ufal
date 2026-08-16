@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[G2G](https://www.last.fm/music/Skrillex/_/G2G)** - Skrillex<br/>
-> ∙ **[WTM](https://www.last.fm/music/LAZER+DIM+700/_/WTM)** - LAZER DIM 700<br/>
-> ∙ **[Goodbye](https://www.last.fm/music/The+Sundays/_/Goodbye)** - The Sundays<br/>
+> 🎶 **[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)** - Kanye West<br/>
+> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
+> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
