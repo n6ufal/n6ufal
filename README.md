@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Royals](https://www.last.fm/music/Lorde/_/Royals)** - Lorde<br/>
 > ∙ **[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)** - Slowdive<br/>
-> ∙ **[Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)** - Trashiii<br/>
-> ∙ **[Dumb Summer](https://www.last.fm/music/helen+55/_/Dumb+Summer)** - helen 55<br/>
+> ∙ **[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)** - Slowdive<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
