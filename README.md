@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[I Remember](https://www.last.fm/music/Kaskade/_/I+Remember)** - Kaskade<br/>
-> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
-> ∙ **[Adorn](https://www.last.fm/music/Miguel/_/Adorn)** - Miguel<br/>
+> ∙ **[Nikes on My Feet](https://www.last.fm/music/Mac+Miller/_/Nikes+on+My+Feet)** - Mac Miller<br/>
+> ∙ **[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)** - Ice Cube<br/>
+> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
