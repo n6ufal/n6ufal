@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Nikes on My Feet](https://www.last.fm/music/Mac+Miller/_/Nikes+on+My+Feet)** - Mac Miller<br/>
-> ∙ **[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)** - Ice Cube<br/>
-> ∙ **[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)** - Kanye West<br/>
+> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
