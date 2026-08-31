@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Diamond Eyes](https://www.last.fm/music/Sweet+Pill/_/Diamond+Eyes)** - Sweet Pill<br/>
+> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
+> ∙ **[Clairvoyant](https://www.last.fm/music/The+Story+So+Far/_/Clairvoyant)** - The Story So Far<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
