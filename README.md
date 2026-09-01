@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Rosas De Roca Herida - Radio Edit](https://www.last.fm/music/Los+Catarsis/_/Rosas+De+Roca+Herida+-+Radio+Edit)** - Los Catarsis<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
-> ∙ **[I Would Hate You If I Could](https://www.last.fm/music/Turnover/_/I+Would+Hate+You+If+I+Could)** - Turnover<br/>
+> ∙ **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
+> ∙ **[If I Had A Gun…](https://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/_/If+I+Had+A+Gun%E2%80%A6)** - Noel Gallagher's High Flying Birds<br/>
+> ∙ **[The Boy](https://www.last.fm/music/The+Smashing+Pumpkins/_/The+Boy)** - The Smashing Pumpkins<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
