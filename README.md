@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Diamond Eyes](https://www.last.fm/music/Sweet+Pill/_/Diamond+Eyes)** - Sweet Pill<br/>
-> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
-> ∙ **[Clairvoyant](https://www.last.fm/music/The+Story+So+Far/_/Clairvoyant)** - The Story So Far<br/>
+> ∙ **[Rosas De Roca Herida - Radio Edit](https://www.last.fm/music/Los+Catarsis/_/Rosas+De+Roca+Herida+-+Radio+Edit)** - Los Catarsis<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[I Would Hate You If I Could](https://www.last.fm/music/Turnover/_/I+Would+Hate+You+If+I+Could)** - Turnover<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
