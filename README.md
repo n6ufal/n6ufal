@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
-> ∙ **[If I Had A Gun…](https://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/_/If+I+Had+A+Gun%E2%80%A6)** - Noel Gallagher's High Flying Birds<br/>
-> ∙ **[The Boy](https://www.last.fm/music/The+Smashing+Pumpkins/_/The+Boy)** - The Smashing Pumpkins<br/>
+> 🎶 **[Purple](https://www.last.fm/music/she%27s+green/_/Purple)** - she's green<br/>
+> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
+> ∙ **[Ease](https://www.last.fm/music/Whirr/_/Ease)** - Whirr<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
