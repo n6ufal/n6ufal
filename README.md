@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Purple](https://www.last.fm/music/she%27s+green/_/Purple)** - she's green<br/>
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[Ease](https://www.last.fm/music/Whirr/_/Ease)** - Whirr<br/>
+> ∙ **[Not the Same Anymore](https://www.last.fm/music/The+Strokes/_/Not+the+Same+Anymore)** - The Strokes<br/>
+> ∙ **[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)** - The Strokes<br/>
+> ∙ **[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)** - The Strokes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
