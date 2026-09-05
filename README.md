@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Dissolve Me](https://www.last.fm/music/Movements/_/Dissolve+Me)** - Movements<br/>
-> ∙ **[Empty Space](https://www.last.fm/music/The+Story+So+Far/_/Empty+Space)** - The Story So Far<br/>
-> ∙ **[Full Circle](https://www.last.fm/music/Movements/_/Full+Circle)** - Movements<br/>
+> 🎶 **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
+> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
+> ∙ **[Banquet - Live at Studio 4](https://www.last.fm/music/Movements/_/Banquet+-+Live+at+Studio+4)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
