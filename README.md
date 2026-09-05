@@ -20,7 +20,7 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
+> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
 > ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
 > ∙ **[Banquet - Live at Studio 4](https://www.last.fm/music/Movements/_/Banquet+-+Live+at+Studio+4)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
