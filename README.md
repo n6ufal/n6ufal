@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Ribs](https://www.last.fm/music/Lorde/_/Ribs)** - Lorde<br/>
-> ∙ **[Fake It](https://www.last.fm/music/9090gate/_/Fake+It)** - 9090gate<br/>
-> ∙ **[Banquet - Live at Studio 4](https://www.last.fm/music/Movements/_/Banquet+-+Live+at+Studio+4)** - Movements<br/>
+> 🎶 **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
+> ∙ **[Lovelee Dae - Radio Edit](https://www.last.fm/music/Blaze/_/Lovelee+Dae+-+Radio+Edit)** - Blaze<br/>
+> ∙ **[ledrag roy](https://www.last.fm/music/user2323/_/ledrag+roy)** - user2323<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
