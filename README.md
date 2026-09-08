@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Kick The Tragedy](https://www.last.fm/music/Drop+Nineteens/_/Kick+The+Tragedy)** - Drop Nineteens<br/>
-> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
-> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
+> 🎶 **[Walk to me](https://www.last.fm/music/xaviersobased/_/Walk+to+me)** - xaviersobased<br/>
+> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
+> ∙ **[ledrag roy](https://www.last.fm/music/user2323/_/ledrag+roy)** - user2323<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
