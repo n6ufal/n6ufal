@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Walk to me](https://www.last.fm/music/xaviersobased/_/Walk+to+me)** - xaviersobased<br/>
-> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
-> ∙ **[ledrag roy](https://www.last.fm/music/user2323/_/ledrag+roy)** - user2323<br/>
+> ∙ **[When I Come Around](https://www.last.fm/music/Green+Day/_/When+I+Come+Around)** - Green Day<br/>
+> ∙ **[Saturday Night](https://www.last.fm/music/Misfits/_/Saturday+Night)** - Misfits<br/>
+> ∙ **[Yellow Ledbetter](https://www.last.fm/music/Pearl+Jam/_/Yellow+Ledbetter)** - Pearl Jam<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
