@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[When I Come Around](https://www.last.fm/music/Green+Day/_/When+I+Come+Around)** - Green Day<br/>
-> ∙ **[Saturday Night](https://www.last.fm/music/Misfits/_/Saturday+Night)** - Misfits<br/>
-> ∙ **[Yellow Ledbetter](https://www.last.fm/music/Pearl+Jam/_/Yellow+Ledbetter)** - Pearl Jam<br/>
+> ∙ **[Slowly](https://www.last.fm/music/Yotto/_/Slowly)** - Yotto<br/>
+> ∙ **[Slowly](https://www.last.fm/music/Yotto/_/Slowly)** - Yotto<br/>
+> ∙ **[Faxing Berlin - Radio Edit](https://www.last.fm/music/deadmau5/_/Faxing+Berlin+-+Radio+Edit)** - deadmau5<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
