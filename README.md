@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)** - Aphex Twin<br/>
-> ∙ **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) (Basement Boy Strip To The Bone Mix)](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+(Basement+Boy+Strip+To+The+Bone+Mix))** - Crystal Waters<br/>
-> ∙ **[Marechià (Feat. Célia Kameni)](https://www.last.fm/music/Nu+Genea/_/Marechi%C3%A0+(Feat.+C%C3%A9lia+Kameni))** - Nu Genea<br/>
+> ∙ **[kenopsia](https://www.last.fm/music/zetuv/_/kenopsia)** - zetuv<br/>
+> ∙ **[[solace]](https://www.last.fm/music/simvlacrvm/_/%5Bsolace%5D)** - simvlacrvm<br/>
+> ∙ **[incheon](https://www.last.fm/music/1aevne/_/incheon)** - 1aevne<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
