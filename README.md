@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[kenopsia](https://www.last.fm/music/zetuv/_/kenopsia)** - zetuv<br/>
-> ∙ **[[solace]](https://www.last.fm/music/simvlacrvm/_/%5Bsolace%5D)** - simvlacrvm<br/>
-> ∙ **[incheon](https://www.last.fm/music/1aevne/_/incheon)** - 1aevne<br/>
+> ∙ **[Forgotten Promises](https://www.last.fm/music/*teeth/_/Forgotten+Promises)** - *teeth<br/>
+> ∙ **[hope to see this dawn](https://www.last.fm/music/plenka/_/hope+to+see+this+dawn)** - plenka<br/>
+> ∙ **[Rosas De Roca Herida - Extended Mix](https://www.last.fm/music/Los+Catarsis/_/Rosas+De+Roca+Herida+-+Extended+Mix)** - Los Catarsis<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
