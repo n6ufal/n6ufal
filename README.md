@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[No Aloha](https://www.last.fm/music/The+Breeders/_/No+Aloha)** - The Breeders<br/>
+> ∙ **[Playground](https://www.last.fm/music/Steve+Lacy/_/Playground)** - Steve Lacy<br/>
 > ∙ **[In the Air Tonight - 2015 Remaster](https://www.last.fm/music/Phil+Collins/_/In+the+Air+Tonight+-+2015+Remaster)** - Phil Collins<br/>
-> ∙ **[Landslide](https://www.last.fm/music/Fleetwood+Mac/_/Landslide)** - Fleetwood Mac<br/>
-> ∙ **[The Scientist](https://www.last.fm/music/Coldplay/_/The+Scientist)** - Coldplay<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
