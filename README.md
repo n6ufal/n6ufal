@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Debaser](https://www.last.fm/music/Pixies/_/Debaser)** - Pixies<br/>
-> ∙ **[Divine Hammer](https://www.last.fm/music/The+Breeders/_/Divine+Hammer)** - The Breeders<br/>
-> ∙ **[Mannequin - 2006 remastered version](https://www.last.fm/music/Wire/_/Mannequin+-+2006+remastered+version)** - Wire<br/>
+> 🎶 **[I Know You](https://www.last.fm/music/Faye+Webster/_/I+Know+You)** - Faye Webster<br/>
+> ∙ **[Wild Horses](https://www.last.fm/music/The+Sundays/_/Wild+Horses)** - The Sundays<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
