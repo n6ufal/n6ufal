@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)** - The Strokes<br/>
-> ∙ **[Not the Same Anymore](https://www.last.fm/music/The+Strokes/_/Not+the+Same+Anymore)** - The Strokes<br/>
-> ∙ **[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)** - The Strokes<br/>
+> ∙ **[Music Sounds Better With You - Radio Edit](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You+-+Radio+Edit)** - Stardust<br/>
+> ∙ **[Summer 91 (Looking Back)](https://www.last.fm/music/Noizu/_/Summer+91+(Looking+Back))** - Noizu<br/>
+> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
