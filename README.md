@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Doe](https://www.last.fm/music/The+Breeders/_/Doe)** - The Breeders<br/>
-> ∙ **[No Aloha](https://www.last.fm/music/The+Breeders/_/No+Aloha)** - The Breeders<br/>
-> ∙ **[No Aloha](https://www.last.fm/music/The+Breeders/_/No+Aloha)** - The Breeders<br/>
+> 🎶 **[Not Too Amused - Remastered](https://www.last.fm/music/Sebadoh/_/Not+Too+Amused+-+Remastered)** - Sebadoh<br/>
+> ∙ **[Tugboat](https://www.last.fm/music/Galaxie+500/_/Tugboat)** - Galaxie 500<br/>
+> ∙ **[A.M. 180](https://www.last.fm/music/Grandaddy/_/A.M.+180)** - Grandaddy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
