@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Invisible Man](https://www.last.fm/music/The+Breeders/_/Invisible+Man)** - The Breeders<br/>
-> ∙ **[Goin' Against Your Mind](https://www.last.fm/music/Built+to+Spill/_/Goin%27+Against+Your+Mind)** - Built to Spill<br/>
-> ∙ **[The Lung](https://www.last.fm/music/Dinosaur+Jr./_/The+Lung)** - Dinosaur Jr.<br/>
+> ∙ **[Distopian Dream Girl](https://www.last.fm/music/Built+to+Spill/_/Distopian+Dream+Girl)** - Built to Spill<br/>
+> ∙ **[Sunday](https://www.last.fm/music/Sonic+Youth/_/Sunday)** - Sonic Youth<br/>
+> ∙ **[Sugarcube](https://www.last.fm/music/Yo+La+Tengo/_/Sugarcube)** - Yo La Tengo<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
