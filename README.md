@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Distopian Dream Girl](https://www.last.fm/music/Built+to+Spill/_/Distopian+Dream+Girl)** - Built to Spill<br/>
-> ∙ **[Sunday](https://www.last.fm/music/Sonic+Youth/_/Sunday)** - Sonic Youth<br/>
-> ∙ **[Sugarcube](https://www.last.fm/music/Yo+La+Tengo/_/Sugarcube)** - Yo La Tengo<br/>
+> ∙ **[Downswing](https://www.last.fm/music/Superheaven/_/Downswing)** - Superheaven<br/>
+> ∙ **[In Circles - Remastered](https://www.last.fm/music/Sunny+Day+Real+Estate/_/In+Circles+-+Remastered)** - Sunny Day Real Estate<br/>
+> ∙ **[Oversized](https://www.last.fm/music/Basement/_/Oversized)** - Basement<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
