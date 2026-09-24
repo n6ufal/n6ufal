@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Downswing](https://www.last.fm/music/Superheaven/_/Downswing)** - Superheaven<br/>
-> ∙ **[In Circles - Remastered](https://www.last.fm/music/Sunny+Day+Real+Estate/_/In+Circles+-+Remastered)** - Sunny Day Real Estate<br/>
-> ∙ **[Oversized](https://www.last.fm/music/Basement/_/Oversized)** - Basement<br/>
+> ∙ **[Turn Echo (Slowed Version)](https://www.last.fm/music/Kaikobad/_/Turn+Echo+(Slowed+Version))** - Kaikobad<br/>
+> ∙ **[Forgotten Promises](https://www.last.fm/music/*teeth/_/Forgotten+Promises)** - *teeth<br/>
+> ∙ **[Turn Echo](https://www.last.fm/music/Kaikobad/_/Turn+Echo)** - Kaikobad<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
