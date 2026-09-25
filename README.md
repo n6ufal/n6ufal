@@ -20,7 +20,7 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
 > ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
 > ∙ **[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
