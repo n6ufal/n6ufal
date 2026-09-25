@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Turn Echo (Slowed Version)](https://www.last.fm/music/Kaikobad/_/Turn+Echo+(Slowed+Version))** - Kaikobad<br/>
-> ∙ **[Forgotten Promises](https://www.last.fm/music/*teeth/_/Forgotten+Promises)** - *teeth<br/>
-> ∙ **[Turn Echo](https://www.last.fm/music/Kaikobad/_/Turn+Echo)** - Kaikobad<br/>
+> 🎶 **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
+> ∙ **[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)** - Kanye West<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
