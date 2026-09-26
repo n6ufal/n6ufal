@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
-> ∙ **[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)** - Kanye West<br/>
-> ∙ **[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)** - Kanye West<br/>
+> 🎶 **[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)** - 2Pac<br/>
+> ∙ **[Until We Rich](https://www.last.fm/music/Ice+Cube/_/Until+We+Rich)** - Ice Cube<br/>
+> ∙ **[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)** - Lil Uzi Vert<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
