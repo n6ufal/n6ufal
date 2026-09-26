@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)** - 2Pac<br/>
-> ∙ **[Until We Rich](https://www.last.fm/music/Ice+Cube/_/Until+We+Rich)** - Ice Cube<br/>
-> ∙ **[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)** - Lil Uzi Vert<br/>
+> ∙ **[Location](https://www.last.fm/music/Playboi+Carti/_/Location)** - Playboi Carti<br/>
+> ∙ **[ORANGE SODA](https://www.last.fm/music/Baby+Keem/_/ORANGE+SODA)** - Baby Keem<br/>
+> ∙ **[Topanga](https://www.last.fm/music/Trippie+Redd/_/Topanga)** - Trippie Redd<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
