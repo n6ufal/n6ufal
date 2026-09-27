@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Location](https://www.last.fm/music/Playboi+Carti/_/Location)** - Playboi Carti<br/>
-> ∙ **[ORANGE SODA](https://www.last.fm/music/Baby+Keem/_/ORANGE+SODA)** - Baby Keem<br/>
-> ∙ **[Topanga](https://www.last.fm/music/Trippie+Redd/_/Topanga)** - Trippie Redd<br/>
+> 🎶 **[Show Me Love (2020 Remaster) - StoneBridge Club Mix](https://www.last.fm/music/Robin+S/_/Show+Me+Love+(2020+Remaster)+-+StoneBridge+Club+Mix)** - Robin S<br/>
+> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Congrats](https://www.last.fm/music/OsamaSon/_/Congrats)** - OsamaSon<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
