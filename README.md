@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Purple Rain](https://www.last.fm/music/Prince/_/Purple+Rain)** - Prince<br/>
-> ∙ **[Linger - Remastered 2026](https://www.last.fm/music/The+Cranberries/_/Linger+-+Remastered+2026)** - The Cranberries<br/>
-> ∙ **[Pogo](https://www.last.fm/music/Digitalism/_/Pogo)** - Digitalism<br/>
+> 🎶 **[Different Ways](https://www.last.fm/music/nettspend+2/_/Different+Ways)** - nettspend 2<br/>
+> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
+> ∙ **[the whole world is free](https://www.last.fm/music/OsamaSon/_/the+whole+world+is+free)** - OsamaSon<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
