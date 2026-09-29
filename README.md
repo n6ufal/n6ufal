@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Different Ways](https://www.last.fm/music/nettspend+2/_/Different+Ways)** - nettspend 2<br/>
-> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
-> ∙ **[the whole world is free](https://www.last.fm/music/OsamaSon/_/the+whole+world+is+free)** - OsamaSon<br/>
+> ∙ **[Space Age Love Song](https://www.last.fm/music/A+Flock+of+Seagulls/_/Space+Age+Love+Song)** - A Flock of Seagulls<br/>
+> ∙ **[Africa](https://www.last.fm/music/Toto/_/Africa)** - Toto<br/>
+> ∙ **[what zit tooya](https://www.last.fm/music/xaviersobased/_/what+zit+tooya)** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
