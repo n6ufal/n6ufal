@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[The Rock Show](https://www.last.fm/music/blink-182/_/The+Rock+Show)** - blink-182<br/>
-> ∙ **[Dammit](https://www.last.fm/music/blink-182/_/Dammit)** - blink-182<br/>
-> ∙ **[Adam's Song](https://www.last.fm/music/blink-182/_/Adam%27s+Song)** - blink-182<br/>
+> ∙ **[Melting](https://www.last.fm/music/Cuco/_/Melting)** - Cuco<br/>
+> ∙ **[Baby I'm Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)** - Breakbot<br/>
+> ∙ **[Merah](https://www.last.fm/music/Monkey+To+Millionaire/_/Merah)** - Monkey To Millionaire<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
