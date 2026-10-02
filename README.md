@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Wolf Like Me](https://www.last.fm/music/TV+on+the+Radio/_/Wolf+Like+Me)** - TV on the Radio<br/>
-> ∙ **[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)** - The Strokes<br/>
-> ∙ **[Soft Shock](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Soft+Shock)** - Yeah Yeah Yeahs<br/>
+> ∙ **[Show Me Love (2020 Remaster) - StoneBridge Club Mix](https://www.last.fm/music/Robin+S/_/Show+Me+Love+(2020+Remaster)+-+StoneBridge+Club+Mix)** - Robin S<br/>
+> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
+> ∙ **[Congrats](https://www.last.fm/music/OsamaSon/_/Congrats)** - OsamaSon<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
