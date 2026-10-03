@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[DANCING EYES](https://www.last.fm/music/Lomaji/_/DANCING+EYES)** - Lomaji<br/>
-> ∙ **[Emotionally Unavailable](https://www.last.fm/music/GNB+CHILI/_/Emotionally+Unavailable)** - GNB CHILI<br/>
-> ∙ **[カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)** - Akiba<br/>
+> ∙ **[Here Without You](https://www.last.fm/music/3+Doors+Down/_/Here+Without+You)** - 3 Doors Down<br/>
+> ∙ **[Youngest Daughter](https://www.last.fm/music/Superheaven/_/Youngest+Daughter)** - Superheaven<br/>
+> ∙ **[Interstate Love Song - 2019 Remaster](https://www.last.fm/music/Stone+Temple+Pilots/_/Interstate+Love+Song+-+2019+Remaster)** - Stone Temple Pilots<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
