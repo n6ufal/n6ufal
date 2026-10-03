@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Show Me Love (2020 Remaster) - StoneBridge Club Mix](https://www.last.fm/music/Robin+S/_/Show+Me+Love+(2020+Remaster)+-+StoneBridge+Club+Mix)** - Robin S<br/>
-> ∙ **[Big Brother](https://www.last.fm/music/Kanye+West/_/Big+Brother)** - Kanye West<br/>
-> ∙ **[Congrats](https://www.last.fm/music/OsamaSon/_/Congrats)** - OsamaSon<br/>
+> ∙ **[DANCING EYES](https://www.last.fm/music/Lomaji/_/DANCING+EYES)** - Lomaji<br/>
+> ∙ **[Emotionally Unavailable](https://www.last.fm/music/GNB+CHILI/_/Emotionally+Unavailable)** - GNB CHILI<br/>
+> ∙ **[カガミ](https://www.last.fm/music/Akiba/_/%E3%82%AB%E3%82%AC%E3%83%9F)** - Akiba<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
