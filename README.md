@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
-> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
-> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
+> ∙ **[You Know I Should Be Leaving Soon (Remastered 2024)](https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving+Soon+(Remastered+2024))** - American Football<br/>
+> ∙ **[For Sure (Remastered 2024)](https://www.last.fm/music/American+Football/_/For+Sure+(Remastered+2024))** - American Football<br/>
+> ∙ **[Honestly? (Remastered 2024)](https://www.last.fm/music/American+Football/_/Honestly%3F+(Remastered+2024))** - American Football<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
