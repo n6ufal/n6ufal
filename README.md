@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Here Without You](https://www.last.fm/music/3+Doors+Down/_/Here+Without+You)** - 3 Doors Down<br/>
-> ∙ **[Youngest Daughter](https://www.last.fm/music/Superheaven/_/Youngest+Daughter)** - Superheaven<br/>
-> ∙ **[Interstate Love Song - 2019 Remaster](https://www.last.fm/music/Stone+Temple+Pilots/_/Interstate+Love+Song+-+2019+Remaster)** - Stone Temple Pilots<br/>
+> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
+> ∙ **[Stab](https://www.last.fm/music/Title+Fight/_/Stab)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
