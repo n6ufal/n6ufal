@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[You Know I Should Be Leaving Soon (Remastered 2024)](https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving+Soon+(Remastered+2024))** - American Football<br/>
-> ∙ **[For Sure (Remastered 2024)](https://www.last.fm/music/American+Football/_/For+Sure+(Remastered+2024))** - American Football<br/>
-> ∙ **[Honestly? (Remastered 2024)](https://www.last.fm/music/American+Football/_/Honestly%3F+(Remastered+2024))** - American Football<br/>
+> 🎶 **[White Flag](https://www.last.fm/music/Dogger/_/White+Flag)** - Dogger<br/>
+> ∙ **[Visions](https://www.last.fm/music/Particle/_/Visions)** - Particle<br/>
+> ∙ **[Lakota - LSB Remix](https://www.last.fm/music/Technimatic/_/Lakota+-+LSB+Remix)** - Technimatic<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
