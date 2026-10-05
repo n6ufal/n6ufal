@@ -20,7 +20,7 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[White Flag](https://www.last.fm/music/Dogger/_/White+Flag)** - Dogger<br/>
+> ∙ **[White Flag](https://www.last.fm/music/Dogger/_/White+Flag)** - Dogger<br/>
 > ∙ **[Visions](https://www.last.fm/music/Particle/_/Visions)** - Particle<br/>
 > ∙ **[Lakota - LSB Remix](https://www.last.fm/music/Technimatic/_/Lakota+-+LSB+Remix)** - Technimatic<br/>
 <!--END_LASTFM_RECENT-->
