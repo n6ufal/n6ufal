@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Turn Echo](https://www.last.fm/music/Kaikobad/_/Turn+Echo)** - Kaikobad<br/>
-> ∙ **[the last thing she sent me](https://www.last.fm/music/Sewerslvt/_/the+last+thing+she+sent+me)** - Sewerslvt<br/>
-> ∙ **[Level Select](https://www.last.fm/music/Trashiii/_/Level+Select)** - Trashiii<br/>
+> ∙ **[Bringing Me Joy](https://www.last.fm/music/Yarin+Primak/_/Bringing+Me+Joy)** - Yarin Primak<br/>
+> ∙ **[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)** - Daft Punk<br/>
+> ∙ **[2AM To Málaga](https://www.last.fm/music/Painted+Dunes/_/2AM+To+M%C3%A1laga)** - Painted Dunes<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
