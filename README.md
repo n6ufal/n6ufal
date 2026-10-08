@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Bringing Me Joy](https://www.last.fm/music/Yarin+Primak/_/Bringing+Me+Joy)** - Yarin Primak<br/>
-> ∙ **[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)** - Daft Punk<br/>
-> ∙ **[2AM To Málaga](https://www.last.fm/music/Painted+Dunes/_/2AM+To+M%C3%A1laga)** - Painted Dunes<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
+> ∙ **[Hazel - 2024 Remaster](https://www.last.fm/music/Far+Apart/_/Hazel+-+2024+Remaster)** - Far Apart<br/>
+> ∙ **[Dumb Summer](https://www.last.fm/music/helen+55/_/Dumb+Summer)** - helen 55<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
