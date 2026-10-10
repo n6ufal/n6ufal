@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
-> ∙ **[Hazel - 2024 Remaster](https://www.last.fm/music/Far+Apart/_/Hazel+-+2024+Remaster)** - Far Apart<br/>
-> ∙ **[Dumb Summer](https://www.last.fm/music/helen+55/_/Dumb+Summer)** - helen 55<br/>
+> ∙ **[semwkm](https://www.last.fm/music/YNSSL/_/semwkm)** - YNSSL<br/>
+> ∙ **[Bima Sakti](https://www.last.fm/music/Ardy+Minaj/_/Bima+Sakti)** - Ardy Minaj<br/>
+> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
