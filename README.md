@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[semwkm](https://www.last.fm/music/YNSSL/_/semwkm)** - YNSSL<br/>
-> ∙ **[Bima Sakti](https://www.last.fm/music/Ardy+Minaj/_/Bima+Sakti)** - Ardy Minaj<br/>
-> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
+> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
+> ∙ **[Daylily](https://www.last.fm/music/Movements/_/Daylily)** - Movements<br/>
+> ∙ **[Scott Pilgrim Vs. My GPA](https://www.last.fm/music/Mom+Jeans./_/Scott+Pilgrim+Vs.+My+GPA)** - Mom Jeans.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
