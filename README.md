@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - Empire of the Sun<br/>
-> ∙ **[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)** - Kanye West<br/>
-> ∙ **[Relax My Eyes](https://www.last.fm/music/ANOTR/_/Relax+My+Eyes)** - ANOTR<br/>
+> ∙ **[No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)** - J. Cole<br/>
+> ∙ **[Magnolia](https://www.last.fm/music/Playboi+Carti/_/Magnolia)** - Playboi Carti<br/>
+> ∙ **[Taking a Walk](https://www.last.fm/music/Trippie+Redd/_/Taking+a+Walk)** - Trippie Redd<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
