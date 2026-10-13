@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Head In The Ceiling Fan](https://www.last.fm/music/Title+Fight/_/Head+In+The+Ceiling+Fan)** - Title Fight<br/>
-> ∙ **[Daylily](https://www.last.fm/music/Movements/_/Daylily)** - Movements<br/>
-> ∙ **[Scott Pilgrim Vs. My GPA](https://www.last.fm/music/Mom+Jeans./_/Scott+Pilgrim+Vs.+My+GPA)** - Mom Jeans.<br/>
+> 🎶 **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - Empire of the Sun<br/>
+> ∙ **[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)** - Kanye West<br/>
+> ∙ **[Relax My Eyes](https://www.last.fm/music/ANOTR/_/Relax+My+Eyes)** - ANOTR<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
