@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[No Role Modelz](https://www.last.fm/music/J.+Cole/_/No+Role+Modelz)** - J. Cole<br/>
-> ∙ **[Magnolia](https://www.last.fm/music/Playboi+Carti/_/Magnolia)** - Playboi Carti<br/>
-> ∙ **[Taking a Walk](https://www.last.fm/music/Trippie+Redd/_/Taking+a+Walk)** - Trippie Redd<br/>
+> ∙ **[Heroes (We Could Be) (feat. Tove Lo)](https://www.last.fm/music/Alesso/_/Heroes+(We+Could+Be)+(feat.+Tove+Lo))** - Alesso<br/>
+> ∙ **[Stereo Love (Radio Edit) (feat. Vika Jigulina)](https://www.last.fm/music/Edward+Maya/_/Stereo+Love+(Radio+Edit)+(feat.+Vika+Jigulina))** - Edward Maya<br/>
+> ∙ **[Till It Hurts](https://www.last.fm/music/Yellow+Claw+&+Ayden/_/Till+It+Hurts)** - Yellow Claw & Ayden<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
