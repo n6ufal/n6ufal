@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Heroes (We Could Be) (feat. Tove Lo)](https://www.last.fm/music/Alesso/_/Heroes+(We+Could+Be)+(feat.+Tove+Lo))** - Alesso<br/>
-> ∙ **[Stereo Love (Radio Edit) (feat. Vika Jigulina)](https://www.last.fm/music/Edward+Maya/_/Stereo+Love+(Radio+Edit)+(feat.+Vika+Jigulina))** - Edward Maya<br/>
-> ∙ **[Till It Hurts](https://www.last.fm/music/Yellow+Claw+&+Ayden/_/Till+It+Hurts)** - Yellow Claw & Ayden<br/>
+> 🎶 **[Heads Will Roll (A-Trak Remix Radio Edit)](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll+(A-Trak+Remix+Radio+Edit))** - Yeah Yeah Yeahs<br/>
+> ∙ **[Light It Up (Remix) (feat. Nyla & Fuse ODG)](https://www.last.fm/music/Major+Lazer+&+Diplo/_/Light+It+Up+(Remix)+(feat.+Nyla+&+Fuse+ODG))** - Major Lazer & Diplo<br/>
+> ∙ **[Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)** - Calvin Harris<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
