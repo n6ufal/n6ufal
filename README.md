@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Heads Will Roll (A-Trak Remix Radio Edit)](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll+(A-Trak+Remix+Radio+Edit))** - Yeah Yeah Yeahs<br/>
-> ∙ **[Light It Up (Remix) (feat. Nyla & Fuse ODG)](https://www.last.fm/music/Major+Lazer+&+Diplo/_/Light+It+Up+(Remix)+(feat.+Nyla+&+Fuse+ODG))** - Major Lazer & Diplo<br/>
-> ∙ **[Summer](https://www.last.fm/music/Calvin+Harris/_/Summer)** - Calvin Harris<br/>
+> ∙ **[Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)](https://www.last.fm/music/Daft+Punk,+Pharrell+Williams+&+Nile+Rodgers/_/Get+Lucky+(Radio+Edit+-+feat.+Pharrell+Williams+and+Nile+Rodgers))** - Daft Punk, Pharrell Williams & Nile Rodgers<br/>
+> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
+> ∙ **[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))** - Modjo<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
