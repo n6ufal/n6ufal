@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)](https://www.last.fm/music/Daft+Punk,+Pharrell+Williams+&+Nile+Rodgers/_/Get+Lucky+(Radio+Edit+-+feat.+Pharrell+Williams+and+Nile+Rodgers))** - Daft Punk, Pharrell Williams & Nile Rodgers<br/>
-> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
-> ∙ **[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))** - Modjo<br/>
+> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
+> ∙ **[Sleeping In](https://www.last.fm/music/The+Radio+Dept./_/Sleeping+In)** - The Radio Dept.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
