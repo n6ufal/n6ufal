@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Innerbloom](https://www.last.fm/music/R%C3%9CF%C3%9CS+DU+SOL/_/Innerbloom)** - RÜFÜS DU SOL<br/>
-> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
-> ∙ **[Sleeping In](https://www.last.fm/music/The+Radio+Dept./_/Sleeping+In)** - The Radio Dept.<br/>
+> 🎶 **[The Summer Ends](https://www.last.fm/music/American+Football/_/The+Summer+Ends)** - American Football<br/>
+> ∙ **[Luna - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Luna+-+2011+Remaster)** - The Smashing Pumpkins<br/>
+> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
