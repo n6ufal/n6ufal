@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Santeria](https://www.last.fm/music/Sublime/_/Santeria)** - Sublime<br/>
+> ∙ **[All the Small Things](https://www.last.fm/music/blink-182/_/All+the+Small+Things)** - blink-182<br/>
 > ∙ **[Merah](https://www.last.fm/music/Monkey+To+Millionaire/_/Merah)** - Monkey To Millionaire<br/>
-> ∙ **[Dua Bilah Mata Pedang](https://www.last.fm/music/The+Jansen/_/Dua+Bilah+Mata+Pedang)** - The Jansen<br/>
-> ∙ **[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)** - Dr. Dre<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
