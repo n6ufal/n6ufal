@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[The Summer Ends](https://www.last.fm/music/American+Football/_/The+Summer+Ends)** - American Football<br/>
-> ∙ **[Luna - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Luna+-+2011+Remaster)** - The Smashing Pumpkins<br/>
-> ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - Panchiko<br/>
+> ∙ **[Merah](https://www.last.fm/music/Monkey+To+Millionaire/_/Merah)** - Monkey To Millionaire<br/>
+> ∙ **[Dua Bilah Mata Pedang](https://www.last.fm/music/The+Jansen/_/Dua+Bilah+Mata+Pedang)** - The Jansen<br/>
+> ∙ **[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)** - Dr. Dre<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
