@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Sure Thing](https://www.last.fm/music/Miguel/_/Sure+Thing)** - Miguel<br/>
+> ∙ **[Solo](https://www.last.fm/music/Frank+Ocean/_/Solo)** - Frank Ocean<br/>
 > ∙ **[EARFQUAKE](https://www.last.fm/music/Tyler,+The+Creator/_/EARFQUAKE)** - Tyler, The Creator<br/>
-> ∙ **[Break from Toronto](https://www.last.fm/music/PARTYNEXTDOOR/_/Break+from+Toronto)** - PARTYNEXTDOOR<br/>
-> ∙ **[Pyramids](https://www.last.fm/music/Frank+Ocean/_/Pyramids)** - Frank Ocean<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
