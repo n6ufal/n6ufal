@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Freak (feat. Steve Bays)](https://www.last.fm/music/Diplo,+Deorro+&+Steve+Aoki/_/Freak+(feat.+Steve+Bays))** - Diplo, Deorro & Steve Aoki<br/>
-> ∙ **[We Found Love](https://www.last.fm/music/Rihanna+&+Calvin+Harris/_/We+Found+Love)** - Rihanna & Calvin Harris<br/>
-> ∙ **[Levels (Radio Edit)](https://www.last.fm/music/Avicii/_/Levels+(Radio+Edit))** - Avicii<br/>
+> ∙ **[Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)** - Avicii<br/>
+> ∙ **[Just For the Night](https://www.last.fm/music/Shankz+&+javicanx/_/Just+For+the+Night)** - Shankz & javicanx<br/>
+> ∙ **[Coming Home](https://www.last.fm/music/A-Trak+&+Ferreck+Dawn/_/Coming+Home)** - A-Trak & Ferreck Dawn<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
