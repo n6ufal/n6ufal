@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Devil in a New Dress (feat. Rick Ross)](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress+(feat.+Rick+Ross))** - Kanye West<br/>
+> ∙ **[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)** - Drake<br/>
 > ∙ **[Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)** - Avicii<br/>
-> ∙ **[Just For the Night](https://www.last.fm/music/Shankz+&+javicanx/_/Just+For+the+Night)** - Shankz & javicanx<br/>
-> ∙ **[Coming Home](https://www.last.fm/music/A-Trak+&+Ferreck+Dawn/_/Coming+Home)** - A-Trak & Ferreck Dawn<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
