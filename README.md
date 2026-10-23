@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
-> ∙ **[Reunion - Renovated](https://www.last.fm/music/Korea+Girl/_/Reunion+-+Renovated)** - Korea Girl<br/>
-> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
+> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
+> ∙ **[MANUSIA KADAL](https://www.last.fm/music/riski+inrahim/_/MANUSIA+KADAL)** - riski inrahim<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
