@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Devil in a New Dress (feat. Rick Ross)](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress+(feat.+Rick+Ross))** - Kanye West<br/>
-> ∙ **[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)** - Drake<br/>
-> ∙ **[Wake Me Up](https://www.last.fm/music/Avicii/_/Wake+Me+Up)** - Avicii<br/>
+> 🎶 **[Star Guitar](https://www.last.fm/music/Shinichi+Osawa/_/Star+Guitar)** - Shinichi Osawa<br/>
+> ∙ **[Reunion - Renovated](https://www.last.fm/music/Korea+Girl/_/Reunion+-+Renovated)** - Korea Girl<br/>
+> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
