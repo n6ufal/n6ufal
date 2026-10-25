@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)** - Vegyn<br/>
-> ∙ **[Rosas De Roca Herida - Extended Mix](https://www.last.fm/music/Los+Catarsis/_/Rosas+De+Roca+Herida+-+Extended+Mix)** - Los Catarsis<br/>
-> ∙ **[Show Me Love (2020 Remaster) - StoneBridge Club Mix](https://www.last.fm/music/Robin+S/_/Show+Me+Love+(2020+Remaster)+-+StoneBridge+Club+Mix)** - Robin S<br/>
+> ∙ **[Banquet - Live at Studio 4](https://www.last.fm/music/Movements/_/Banquet+-+Live+at+Studio+4)** - Movements<br/>
+> ∙ **[Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)** - Puddle of Mudd<br/>
+> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
