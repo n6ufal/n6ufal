@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Banquet - Live at Studio 4](https://www.last.fm/music/Movements/_/Banquet+-+Live+at+Studio+4)** - Movements<br/>
-> ∙ **[Blurry](https://www.last.fm/music/Puddle+of+Mudd/_/Blurry)** - Puddle of Mudd<br/>
-> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
+> ∙ **[Every Single Word](https://www.last.fm/music/Basement/_/Every+Single+Word)** - Basement<br/>
+> ∙ **[Ellipses](https://www.last.fm/music/Basement/_/Ellipses)** - Basement<br/>
+> ∙ **[Earl Grey](https://www.last.fm/music/Basement/_/Earl+Grey)** - Basement<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
