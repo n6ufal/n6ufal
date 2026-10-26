@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Every Single Word](https://www.last.fm/music/Basement/_/Every+Single+Word)** - Basement<br/>
-> ∙ **[Ellipses](https://www.last.fm/music/Basement/_/Ellipses)** - Basement<br/>
-> ∙ **[Earl Grey](https://www.last.fm/music/Basement/_/Earl+Grey)** - Basement<br/>
+> ∙ **[Hand of Blood](https://www.last.fm/music/Bullet+for+My+Valentine/_/Hand+of+Blood)** - Bullet for My Valentine<br/>
+> ∙ **[Decadence](https://www.last.fm/music/Disturbed/_/Decadence)** - Disturbed<br/>
+> ∙ **[I Am Ahab](https://www.last.fm/music/Mastodon/_/I+Am+Ahab)** - Mastodon<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
