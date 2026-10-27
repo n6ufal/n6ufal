@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Today - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Today+-+2011+Remaster)** - The Smashing Pumpkins<br/>
-> ∙ **[Anywhere Else](https://www.last.fm/music/Slowwves/_/Anywhere+Else)** - Slowwves<br/>
-> ∙ **[In On It](https://www.last.fm/music/Superheaven/_/In+On+It)** - Superheaven<br/>
+> ∙ **[(It Goes Like) Nanana (Edit)](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+(Edit))** - Peggy Gou<br/>
+> ∙ **[Ninetoes - Finder (Carl Cox Remix)](https://www.last.fm/music/Kling+Klong+Records/_/Ninetoes+-+Finder+(Carl+Cox+Remix))** - Kling Klong Records<br/>
+> ∙ **[Pasilda (Knee Deep Mix)](https://www.last.fm/music/Afro+Medusa/_/Pasilda+(Knee+Deep+Mix))** - Afro Medusa<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
