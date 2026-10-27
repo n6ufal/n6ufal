@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Hand of Blood](https://www.last.fm/music/Bullet+for+My+Valentine/_/Hand+of+Blood)** - Bullet for My Valentine<br/>
-> ∙ **[Decadence](https://www.last.fm/music/Disturbed/_/Decadence)** - Disturbed<br/>
-> ∙ **[I Am Ahab](https://www.last.fm/music/Mastodon/_/I+Am+Ahab)** - Mastodon<br/>
+> ∙ **[Today - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Today+-+2011+Remaster)** - The Smashing Pumpkins<br/>
+> ∙ **[Anywhere Else](https://www.last.fm/music/Slowwves/_/Anywhere+Else)** - Slowwves<br/>
+> ∙ **[In On It](https://www.last.fm/music/Superheaven/_/In+On+It)** - Superheaven<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
