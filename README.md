@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[(It Goes Like) Nanana (Edit)](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+(Edit))** - Peggy Gou<br/>
-> ∙ **[Ninetoes - Finder (Carl Cox Remix)](https://www.last.fm/music/Kling+Klong+Records/_/Ninetoes+-+Finder+(Carl+Cox+Remix))** - Kling Klong Records<br/>
-> ∙ **[Pasilda (Knee Deep Mix)](https://www.last.fm/music/Afro+Medusa/_/Pasilda+(Knee+Deep+Mix))** - Afro Medusa<br/>
+> 🎶 **[the last thing she sent me](https://www.last.fm/music/Sewerslvt/_/the+last+thing+she+sent+me)** - Sewerslvt<br/>
+> ∙ **[Colors (feat. Grabbitz)](https://www.last.fm/music/Boombox+Cartel/_/Colors+(feat.+Grabbitz))** - Boombox Cartel<br/>
+> ∙ **["Tak Ingin Sendiri" Societeit de Harmonie X Natasya Elvira](https://www.last.fm/music/Societeit+de+Harmonie/_/%22Tak+Ingin+Sendiri%22+Societeit+de+Harmonie+X+Natasya+Elvira)** - Societeit de Harmonie<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
