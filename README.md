@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[the last thing she sent me](https://www.last.fm/music/Sewerslvt/_/the+last+thing+she+sent+me)** - Sewerslvt<br/>
-> ∙ **[Colors (feat. Grabbitz)](https://www.last.fm/music/Boombox+Cartel/_/Colors+(feat.+Grabbitz))** - Boombox Cartel<br/>
-> ∙ **["Tak Ingin Sendiri" Societeit de Harmonie X Natasya Elvira](https://www.last.fm/music/Societeit+de+Harmonie/_/%22Tak+Ingin+Sendiri%22+Societeit+de+Harmonie+X+Natasya+Elvira)** - Societeit de Harmonie<br/>
+> ∙ **[Homeless Expansion](https://www.last.fm/music/XION+ORION/_/Homeless+Expansion)** - XION ORION<br/>
+> ∙ **[Agony](https://www.last.fm/music/Yung+Lean/_/Agony)** - Yung Lean<br/>
+> ∙ **[Fuck the klub up](https://www.last.fm/music/ReysNova/_/Fuck+the+klub+up)** - ReysNova<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
