@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Poke It Out](https://www.last.fm/music/Playboi+Carti/_/Poke+It+Out)** - Playboi Carti<br/>
-> ∙ **[Right Now (feat. Pi'erre Bourne)](https://www.last.fm/music/Playboi+Carti/_/Right+Now+(feat.+Pi%27erre+Bourne))** - Playboi Carti<br/>
-> ∙ **[Long Time (Intro)](https://www.last.fm/music/Playboi+Carti/_/Long+Time+(Intro))** - Playboi Carti<br/>
+> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
+> ∙ **[Just Wanna Rock](https://www.last.fm/music/Lil+Uzi+Vert/_/Just+Wanna+Rock)** - Lil Uzi Vert<br/>
+> ∙ **[The Way Life Goes (feat. Oh Wonder)](https://www.last.fm/music/Lil+Uzi+Vert/_/The+Way+Life+Goes+(feat.+Oh+Wonder))** - Lil Uzi Vert<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
