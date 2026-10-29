@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Homeless Expansion](https://www.last.fm/music/XION+ORION/_/Homeless+Expansion)** - XION ORION<br/>
-> ∙ **[Agony](https://www.last.fm/music/Yung+Lean/_/Agony)** - Yung Lean<br/>
-> ∙ **[Fuck the klub up](https://www.last.fm/music/ReysNova/_/Fuck+the+klub+up)** - ReysNova<br/>
+> ∙ **[Poke It Out](https://www.last.fm/music/Playboi+Carti/_/Poke+It+Out)** - Playboi Carti<br/>
+> ∙ **[Right Now (feat. Pi'erre Bourne)](https://www.last.fm/music/Playboi+Carti/_/Right+Now+(feat.+Pi%27erre+Bourne))** - Playboi Carti<br/>
+> ∙ **[Long Time (Intro)](https://www.last.fm/music/Playboi+Carti/_/Long+Time+(Intro))** - Playboi Carti<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
