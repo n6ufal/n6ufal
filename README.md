@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[forever salty](https://www.last.fm/music/bassvictim/_/forever+salty)** - bassvictim<br/>
-> ∙ **[The Tension](https://www.last.fm/music/Saam+Sultan/_/The+Tension)** - Saam Sultan<br/>
-> ∙ **[jean's dream](https://www.last.fm/music/People./_/jean%27s+dream)** - People.<br/>
+> 🎶 **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - Grimes<br/>
+> ∙ **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - Grimes<br/>
+> ∙ **[Let Go (feat. Veronika Redd)](https://www.last.fm/music/Ark+Patrol/_/Let+Go+(feat.+Veronika+Redd))** - Ark Patrol<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
