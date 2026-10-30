@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[A Real Hero](https://www.last.fm/music/+noredirect/College+&+Electric+Youth/_/A+Real+Hero)** - College & Electric Youth<br/>
-> ∙ **[Disparate Youth](https://www.last.fm/music/Santigold/_/Disparate+Youth)** - Santigold<br/>
-> ∙ **[Rivet Gun](https://www.last.fm/music/Mother+Soki/_/Rivet+Gun)** - Mother Soki<br/>
+> ∙ **[forever salty](https://www.last.fm/music/bassvictim/_/forever+salty)** - bassvictim<br/>
+> ∙ **[The Tension](https://www.last.fm/music/Saam+Sultan/_/The+Tension)** - Saam Sultan<br/>
+> ∙ **[jean's dream](https://www.last.fm/music/People./_/jean%27s+dream)** - People.<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
