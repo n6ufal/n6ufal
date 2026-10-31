@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - Grimes<br/>
-> ∙ **[Genesis](https://www.last.fm/music/Grimes/_/Genesis)** - Grimes<br/>
-> ∙ **[Let Go (feat. Veronika Redd)](https://www.last.fm/music/Ark+Patrol/_/Let+Go+(feat.+Veronika+Redd))** - Ark Patrol<br/>
+> ∙ **[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))** - Daft Punk<br/>
+> ∙ **[I Was All Over Her](https://www.last.fm/music/Salvia+Palth/_/I+Was+All+Over+Her)** - Salvia Palth<br/>
+> ∙ **[Dark Beach](https://www.last.fm/music/PASTEL+GHOST/_/Dark+Beach)** - PASTEL GHOST<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
