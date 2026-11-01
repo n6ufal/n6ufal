@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Something About You](https://www.last.fm/music/Eyedress/_/Something+About+You)** - Eyedress<br/>
-> ∙ **[Nine Thou - Grant Mohrman Superstars Remix](https://www.last.fm/music/Styles+of+Beyond/_/Nine+Thou+-+Grant+Mohrman+Superstars+Remix)** - Styles of Beyond<br/>
-> ∙ **[All the Stars (with SZA) - From "Black Panther: The Album"](https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA)+-+From+%22Black+Panther:+The+Album%22)** - Kendrick Lamar<br/>
+> 🎶 **[fool](https://www.last.fm/music/OsamaSon/_/fool)** - OsamaSon<br/>
+> ∙ **[Impact (with xaviersobased)](https://www.last.fm/music/nettspend/_/Impact+(with+xaviersobased))** - nettspend<br/>
+> ∙ **[Walk to me](https://www.last.fm/music/xaviersobased/_/Walk+to+me)** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
