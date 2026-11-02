@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[FEEL LIKE ME](https://www.last.fm/music/Notion/_/FEEL+LIKE+ME)** - Notion<br/>
-> ∙ **[Broken Jazz](https://www.last.fm/music/Takuya+Nakamura/_/Broken+Jazz)** - Takuya Nakamura<br/>
-> ∙ **[Angel](https://www.last.fm/music/Goldie/_/Angel)** - Goldie<br/>
+> ∙ **[Seven](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Seven)** - Sunny Day Real Estate<br/>
+> ∙ **[Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)** - Paramore<br/>
+> ∙ **[The Kids Aren't Alright](https://www.last.fm/music/The+Offspring/_/The+Kids+Aren%27t+Alright)** - The Offspring<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
