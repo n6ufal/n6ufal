@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Seven](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Seven)** - Sunny Day Real Estate<br/>
-> ∙ **[Misery Business](https://www.last.fm/music/Paramore/_/Misery+Business)** - Paramore<br/>
-> ∙ **[The Kids Aren't Alright](https://www.last.fm/music/The+Offspring/_/The+Kids+Aren%27t+Alright)** - The Offspring<br/>
+> ∙ **[Los Catarsis - Rosas De Roca Herida](https://www.last.fm/music/Los+Catarsis/_/Los+Catarsis+-+Rosas+De+Roca+Herida)** - Los Catarsis<br/>
+> ∙ **[Kanye West - Big Brother (Official Instrumental)](https://www.last.fm/music/Ace/_/Kanye+West+-+Big+Brother+(Official+Instrumental))** - Ace<br/>
+> ∙ **[(free) xaviersobased type beat “i know you”](https://www.last.fm/music/bloomcrzy/_/(free)+xaviersobased+type+beat+%E2%80%9Ci+know+you%E2%80%9D)** - bloomcrzy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
