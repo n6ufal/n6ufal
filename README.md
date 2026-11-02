@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Waiting Here For You - Radio Edit](https://www.last.fm/music/The+Thrillseekers/_/Waiting+Here+For+You+-+Radio+Edit)** - The Thrillseekers<br/>
-> ∙ **[Take It All Away - Marcus Schössow Nu Prog Remix](https://www.last.fm/music/John+O%27Callaghan/_/Take+It+All+Away+-+Marcus+Sch%C3%B6ssow+Nu+Prog+Remix)** - John O'Callaghan<br/>
-> ∙ **[Not Exactly](https://www.last.fm/music/deadmau5/_/Not+Exactly)** - deadmau5<br/>
+> ∙ **[FEEL LIKE ME](https://www.last.fm/music/Notion/_/FEEL+LIKE+ME)** - Notion<br/>
+> ∙ **[Broken Jazz](https://www.last.fm/music/Takuya+Nakamura/_/Broken+Jazz)** - Takuya Nakamura<br/>
+> ∙ **[Angel](https://www.last.fm/music/Goldie/_/Angel)** - Goldie<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
