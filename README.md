@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Los Catarsis - Rosas De Roca Herida](https://www.last.fm/music/Los+Catarsis/_/Los+Catarsis+-+Rosas+De+Roca+Herida)** - Los Catarsis<br/>
-> ∙ **[Kanye West - Big Brother (Official Instrumental)](https://www.last.fm/music/Ace/_/Kanye+West+-+Big+Brother+(Official+Instrumental))** - Ace<br/>
-> ∙ **[(free) xaviersobased type beat “i know you”](https://www.last.fm/music/bloomcrzy/_/(free)+xaviersobased+type+beat+%E2%80%9Ci+know+you%E2%80%9D)** - bloomcrzy<br/>
+> ∙ **[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)** - my bloody valentine<br/>
+> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
+> ∙ **[Impact (with xaviersobased)](https://www.last.fm/music/nettspend/_/Impact+(with+xaviersobased))** - nettspend<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
