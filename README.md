@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[impact](https://www.last.fm/music/nettspend/_/impact)** - nettspend<br/>
-> ∙ **[Emas (feat. 6sentani)](https://www.last.fm/music/Jengsky/_/Emas+(feat.+6sentani))** - Jengsky<br/>
-> ∙ **[MANUSIA KADAL (feat. Belanda Hitam & Destroy Kanyut)](https://www.last.fm/music/riski+inrahim/_/MANUSIA+KADAL+(feat.+Belanda+Hitam+&+Destroy+Kanyut))** - riski inrahim<br/>
+> ∙ **[High and Dry](https://www.last.fm/music/Radiohead/_/High+and+Dry)** - Radiohead<br/>
+> ∙ **[Pardon Me](https://www.last.fm/music/Incubus/_/Pardon+Me)** - Incubus<br/>
+> ∙ **[My Own Worst Enemy](https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy)** - Lit<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
