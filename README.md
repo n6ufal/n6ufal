@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[High and Dry](https://www.last.fm/music/Radiohead/_/High+and+Dry)** - Radiohead<br/>
-> ∙ **[Pardon Me](https://www.last.fm/music/Incubus/_/Pardon+Me)** - Incubus<br/>
-> ∙ **[My Own Worst Enemy](https://www.last.fm/music/Lit/_/My+Own+Worst+Enemy)** - Lit<br/>
+> 🎶 **[Holy Forest](https://www.last.fm/music/Pinkshinyultrablast/_/Holy+Forest)** - Pinkshinyultrablast<br/>
+> ∙ **[Oxytocin](https://www.last.fm/music/Drab+Majesty/_/Oxytocin)** - Drab Majesty<br/>
+> ∙ **[Chipper](https://www.last.fm/music/Launder/_/Chipper)** - Launder<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
