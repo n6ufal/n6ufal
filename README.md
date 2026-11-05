@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[Holy Forest](https://www.last.fm/music/Pinkshinyultrablast/_/Holy+Forest)** - Pinkshinyultrablast<br/>
-> ∙ **[Oxytocin](https://www.last.fm/music/Drab+Majesty/_/Oxytocin)** - Drab Majesty<br/>
-> ∙ **[Chipper](https://www.last.fm/music/Launder/_/Chipper)** - Launder<br/>
+> ∙ **[I Follow Rivers (The Magician remix)](https://www.last.fm/music/Lykke+Li/_/I+Follow+Rivers+(The+Magician+remix))** - Lykke Li<br/>
+> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
+> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
