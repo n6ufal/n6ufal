@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> 🎶 **[I Follow Rivers (The Magician remix)](https://www.last.fm/music/Lykke+Li/_/I+Follow+Rivers+(The+Magician+remix))** - Lykke Li<br/>
-> ∙ **[I Follow Rivers (The Magician remix)](https://www.last.fm/music/Lykke+Li/_/I+Follow+Rivers+(The+Magician+remix))** - Lykke Li<br/>
-> ∙ **[I Wanna Be Adored - Remastered 2009](https://www.last.fm/music/The+Stone+Roses/_/I+Wanna+Be+Adored+-+Remastered+2009)** - The Stone Roses<br/>
+> ∙ **[It Makes You Forget (Itgehane) (Edit)](https://www.last.fm/music/Peggy+Gou/_/It+Makes+You+Forget+(Itgehane)+(Edit))** - Peggy Gou<br/>
+> ∙ **[(It Goes Like) Nanana (Edit)](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+(Edit))** - Peggy Gou<br/>
+> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
