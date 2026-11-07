@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Every Time](https://www.last.fm/music/The+Radio+Dept./_/Every+Time)** - The Radio Dept.<br/>
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[kisses](https://www.last.fm/music/Slowdive/_/kisses)** - Slowdive<br/>
+> 🎶 **[I Follow Rivers (The Magician remix)](https://www.last.fm/music/Lykke+Li/_/I+Follow+Rivers+(The+Magician+remix))** - Lykke Li<br/>
+> ∙ **[I Follow Rivers (The Magician remix)](https://www.last.fm/music/Lykke+Li/_/I+Follow+Rivers+(The+Magician+remix))** - Lykke Li<br/>
+> ∙ **[I Wanna Be Adored - Remastered 2009](https://www.last.fm/music/The+Stone+Roses/_/I+Wanna+Be+Adored+-+Remastered+2009)** - The Stone Roses<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
