@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Afraid To Feel](https://www.last.fm/music/LF+System/_/Afraid+To+Feel)** - LF System<br/>
-> ∙ **[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))** - Modjo<br/>
-> ∙ **[Music Sounds Better With You (radio edit)](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You+(radio+edit))** - Stardust<br/>
+> ∙ **[Like a G6](https://www.last.fm/music/+noredirect/Far+East+Movement,+The+Cataracs+&+Dev/_/Like+a+G6)** - Far East Movement, The Cataracs & Dev<br/>
+> ∙ **[Clarity (feat. Foxes)](https://www.last.fm/music/Zedd/_/Clarity+(feat.+Foxes))** - Zedd<br/>
+> ∙ **[Everytime](https://www.last.fm/music/IDEMI+&+Lustral/_/Everytime)** - IDEMI & Lustral<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
