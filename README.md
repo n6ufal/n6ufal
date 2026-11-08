@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[It Makes You Forget (Itgehane) (Edit)](https://www.last.fm/music/Peggy+Gou/_/It+Makes+You+Forget+(Itgehane)+(Edit))** - Peggy Gou<br/>
-> ∙ **[(It Goes Like) Nanana (Edit)](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+(Edit))** - Peggy Gou<br/>
-> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[Afraid To Feel](https://www.last.fm/music/LF+System/_/Afraid+To+Feel)** - LF System<br/>
+> ∙ **[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))** - Modjo<br/>
+> ∙ **[Music Sounds Better With You (radio edit)](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You+(radio+edit))** - Stardust<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
