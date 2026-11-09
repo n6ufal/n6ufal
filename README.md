@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Like a G6](https://www.last.fm/music/+noredirect/Far+East+Movement,+The+Cataracs+&+Dev/_/Like+a+G6)** - Far East Movement, The Cataracs & Dev<br/>
-> ∙ **[Clarity (feat. Foxes)](https://www.last.fm/music/Zedd/_/Clarity+(feat.+Foxes))** - Zedd<br/>
-> ∙ **[Everytime](https://www.last.fm/music/IDEMI+&+Lustral/_/Everytime)** - IDEMI & Lustral<br/>
+> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
+> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
+> ∙ **[Emas (feat. 6sentani)](https://www.last.fm/music/Jengsky/_/Emas+(feat.+6sentani))** - Jengsky<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
