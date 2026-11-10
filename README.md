@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Need Me](https://www.last.fm/music/xaviersobased/_/Need+Me)** - xaviersobased<br/>
-> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
-> ∙ **[Emas (feat. 6sentani)](https://www.last.fm/music/Jengsky/_/Emas+(feat.+6sentani))** - Jengsky<br/>
+> 🎶 **[Right Here, Right Now](https://www.last.fm/music/Fatboy+Slim/_/Right+Here,+Right+Now)** - Fatboy Slim<br/>
+> ∙ **[Cinema (Skrillex Remix) (Feat. Gary Go)](https://www.last.fm/music/Benny+Benassi/_/Cinema+(Skrillex+Remix)+(Feat.+Gary+Go))** - Benny Benassi<br/>
+> ∙ **[Climbatize](https://www.last.fm/music/The+Prodigy/_/Climbatize)** - The Prodigy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
