@@ -20,8 +20,8 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Cinema (Skrillex Remix) (Feat. Gary Go)](https://www.last.fm/music/Benny+Benassi/_/Cinema+(Skrillex+Remix)+(Feat.+Gary+Go))** - Benny Benassi<br/>
-> ∙ **[Climbatize](https://www.last.fm/music/The+Prodigy/_/Climbatize)** - The Prodigy<br/>
+> ∙ **[Blade](https://www.last.fm/music/D%27Angello+&+Francis/_/Blade)** - D'Angello & Francis<br/>
+> ∙ **[Colin McRae Rally 2 Theme](https://www.last.fm/music/Jonathan+Colling/_/Colin+McRae+Rally+2+Theme)** - Jonathan Colling<br/>
 > ∙ **[Firestarter](https://www.last.fm/music/The+Prodigy/_/Firestarter)** - The Prodigy<br/>
 <!--END_LASTFM_RECENT-->
 
