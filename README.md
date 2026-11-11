@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
-> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
-> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Diesel Power](https://www.last.fm/music/The+Prodigy/_/Diesel+Power)** - The Prodigy<br/>
+> ∙ **[Breathe](https://www.last.fm/music/The+Prodigy/_/Breathe)** - The Prodigy<br/>
+> ∙ **[Smack My Bitch Up](https://www.last.fm/music/The+Prodigy/_/Smack+My+Bitch+Up)** - The Prodigy<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
