@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Blade](https://www.last.fm/music/D%27Angello+&+Francis/_/Blade)** - D'Angello & Francis<br/>
-> ∙ **[Colin McRae Rally 2 Theme](https://www.last.fm/music/Jonathan+Colling/_/Colin+McRae+Rally+2+Theme)** - Jonathan Colling<br/>
-> ∙ **[Firestarter](https://www.last.fm/music/The+Prodigy/_/Firestarter)** - The Prodigy<br/>
+> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[Shirley Temple Tidal Wave](https://www.last.fm/music/Airiel/_/Shirley+Temple+Tidal+Wave)** - Airiel<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
