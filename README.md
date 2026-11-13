@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[I Don't Love You](https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You)** - My Chemical Romance<br/>
-> ∙ **[Pieces](https://www.last.fm/music/Sum+41/_/Pieces)** - Sum 41<br/>
-> ∙ **[遥か彼方 - Haruka Kanata](https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E9%81%A5%E3%81%8B%E5%BD%BC%E6%96%B9+-+Haruka+Kanata)** - ASIAN KUNG-FU GENERATION<br/>
+> ∙ **[No Aloha](https://www.last.fm/music/The+Breeders/_/No+Aloha)** - The Breeders<br/>
+> ∙ **[Everything Is Embarrassing](https://www.last.fm/music/Sky+Ferreira/_/Everything+Is+Embarrassing)** - Sky Ferreira<br/>
+> ∙ **[kisses](https://www.last.fm/music/Slowdive/_/kisses)** - Slowdive<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
