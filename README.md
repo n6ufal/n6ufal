@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> ∙ **[Crickets Throw Their Voice](https://www.last.fm/music/Basement/_/Crickets+Throw+Their+Voice)** - Basement<br/>
+> ∙ **[Hitamku](https://www.last.fm/music/Andra+And+The+Backbone/_/Hitamku)** - Andra And The Backbone<br/>
 > ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
-> ∙ **[love hate](https://www.last.fm/music/xaviersobased/_/love+hate)** - xaviersobased<br/>
-> ∙ **[Wait a Minute!](https://www.last.fm/music/Willow/_/Wait+a+Minute!)** - Willow<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
