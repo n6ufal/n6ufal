@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Peso](https://www.last.fm/music/A$AP+Rocky/_/Peso)** - A$AP Rocky<br/>
-> ∙ **[Bound 2](https://www.last.fm/music/Kanye+West/_/Bound+2)** - Kanye West<br/>
-> ∙ **[ORANGE SODA](https://www.last.fm/music/Baby+Keem/_/ORANGE+SODA)** - Baby Keem<br/>
+> ∙ **[50/50](https://www.last.fm/music/SOFY/_/50%2F50)** - SOFY<br/>
+> ∙ **[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)** - Radiohead<br/>
+> ∙ **[Princess](https://www.last.fm/music/Feng/_/Princess)** - Feng<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
