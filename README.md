@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[50/50](https://www.last.fm/music/SOFY/_/50%2F50)** - SOFY<br/>
-> ∙ **[50/50](https://www.last.fm/music/SOFY/_/50%2F50)** - SOFY<br/>
-> ∙ **[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)** - Radiohead<br/>
+> ∙ **[Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)** - Frank Ocean<br/>
+> ∙ **[Chloroform](https://www.last.fm/music/Nothing/_/Chloroform)** - Nothing<br/>
+> ∙ **[Don't Blink Or Stare](https://www.last.fm/music/BloodHound+Q50/_/Don%27t+Blink+Or+Stare)** - BloodHound Q50<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
