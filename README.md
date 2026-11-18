@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Thinkin Bout You](https://www.last.fm/music/Frank+Ocean/_/Thinkin+Bout+You)** - Frank Ocean<br/>
-> ∙ **[Chloroform](https://www.last.fm/music/Nothing/_/Chloroform)** - Nothing<br/>
-> ∙ **[Don't Blink Or Stare](https://www.last.fm/music/BloodHound+Q50/_/Don%27t+Blink+Or+Stare)** - BloodHound Q50<br/>
+> ∙ **[On tha linë](https://www.last.fm/music/Yeat/_/On+tha+lin%C3%AB)** - Yeat<br/>
+> ∙ **[withdrawals (Feat. Nettspend)](https://www.last.fm/music/OsamaSon/_/withdrawals+(Feat.+Nettspend))** - OsamaSon<br/>
+> ∙ **[patchmade](https://www.last.fm/music/xaviersobased/_/patchmade)** - xaviersobased<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
