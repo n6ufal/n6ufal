@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[On tha linë](https://www.last.fm/music/Yeat/_/On+tha+lin%C3%AB)** - Yeat<br/>
-> ∙ **[withdrawals (Feat. Nettspend)](https://www.last.fm/music/OsamaSon/_/withdrawals+(Feat.+Nettspend))** - OsamaSon<br/>
-> ∙ **[patchmade](https://www.last.fm/music/xaviersobased/_/patchmade)** - xaviersobased<br/>
+> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
+> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
+> ∙ **[MANUSIA KADAL (feat. Belanda Hitam & Destroy Kanyut)](https://www.last.fm/music/riski+inrahim/_/MANUSIA+KADAL+(feat.+Belanda+Hitam+&+Destroy+Kanyut))** - riski inrahim<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
