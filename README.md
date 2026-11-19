@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Dark Beach](https://www.last.fm/music/PASTEL+GHOST/_/Dark+Beach)** - PASTEL GHOST<br/>
-> ∙ **[Under Your Spell](https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell)** - Snow Strippers<br/>
-> ∙ **[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)** - Cult Member<br/>
+> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
+> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
+> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
