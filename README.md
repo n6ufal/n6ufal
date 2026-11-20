@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Starting Over](https://www.last.fm/music/LSD+and+the+Search+for+God/_/Starting+Over)** - LSD and the Search for God<br/>
-> ∙ **[#JKTEMO](https://www.last.fm/music/Ardy+Minaj/_/%23JKTEMO)** - Ardy Minaj<br/>
-> ∙ **[vintage vuitton](https://www.last.fm/music/earfzilla/_/vintage+vuitton)** - earfzilla<br/>
+> ∙ **[Latch](https://www.last.fm/music/+noredirect/Disclosure/_/Latch)** - Disclosure<br/>
+> ∙ **[Roses](https://www.last.fm/music/The+Chainsmokers/_/Roses)** - The Chainsmokers<br/>
+> ∙ **[Summer 91 (Looking Back)](https://www.last.fm/music/Noizu/_/Summer+91+(Looking+Back))** - Noizu<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
