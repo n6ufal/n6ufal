@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+> 🎶 **[Nobody to Love (Instrumental Mix)](https://www.last.fm/music/Sigma/_/Nobody+to+Love+(Instrumental+Mix))** - Sigma<br/>
 > ∙ **[Latch](https://www.last.fm/music/+noredirect/Disclosure/_/Latch)** - Disclosure<br/>
 > ∙ **[Roses](https://www.last.fm/music/The+Chainsmokers/_/Roses)** - The Chainsmokers<br/>
-> ∙ **[Summer 91 (Looking Back)](https://www.last.fm/music/Noizu/_/Summer+91+(Looking+Back))** - Noizu<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
