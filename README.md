@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[sdp interlude](https://www.last.fm/music/Travis+Scott/_/sdp+interlude)** - Travis Scott<br/>
-> ∙ **[Biking (feat. Jay Z & Tyler, the Creator)](https://www.last.fm/music/Frank+Ocean/_/Biking+(feat.+Jay+Z+&+Tyler,+the+Creator))** - Frank Ocean<br/>
-> ∙ **[Rosas De Roca Herida (Radio Edit)](https://www.last.fm/music/Los+Catarsis/_/Rosas+De+Roca+Herida+(Radio+Edit))** - Los Catarsis<br/>
+> ∙ **[Lemon Glow](https://www.last.fm/music/Beach+House/_/Lemon+Glow)** - Beach House<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
+> ∙ **[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)** - Air<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
