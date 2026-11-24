@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[Playboi Carti - AHH YEA (From Grand Theft Auto VI: The Album)](https://www.last.fm/music/Atlantic+Records/_/Playboi+Carti+-+AHH+YEA+(From+Grand+Theft+Auto+VI:+The+Album))** - Atlantic Records<br/>
-> ∙ **[Killing in the Name](https://www.last.fm/music/Rage+Against+the+Machine/_/Killing+in+the+Name)** - Rage Against the Machine<br/>
-> ∙ **[Teenagers](https://www.last.fm/music/My+Chemical+Romance/_/Teenagers)** - My Chemical Romance<br/>
+> ∙ **[Music and Me](https://www.last.fm/music/fakemink/_/Music+and+Me)** - fakemink<br/>
+> ∙ **[worth it](https://www.last.fm/music/xaviersobased/_/worth+it)** - xaviersobased<br/>
+> ∙ **[50/50](https://www.last.fm/music/SOFY/_/50%2F50)** - SOFY<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
