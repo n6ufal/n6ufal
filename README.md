@@ -20,9 +20,9 @@ A few things I've enjoyed building:
 
 ## 🎵 Recently played
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-> ∙ **[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)** - Cult Member<br/>
-> ∙ **[Daddy Issues](https://www.last.fm/music/The+Neighbourhood/_/Daddy+Issues)** - The Neighbourhood<br/>
-> ∙ **[Oh Yeah?](https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F)** - Steve Lacy<br/>
+> ∙ **[Kool Thing](https://www.last.fm/music/Sonic+Youth/_/Kool+Thing)** - Sonic Youth<br/>
+> ∙ **[PDA - 2012 Remaster](https://www.last.fm/music/Interpol/_/PDA+-+2012+Remaster)** - Interpol<br/>
+> ∙ **[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)** - Drake<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Around the web
